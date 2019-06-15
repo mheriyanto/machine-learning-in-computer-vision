@@ -11,10 +11,14 @@
 
 [![Inline docs](http://inch-ci.org/github/dwyl/hapi-auth-jwt2.svg?branch=master)](http://inch-ci.org/mheriyanto/Data-Science/hapi-auth-jwt2)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/Data-Science/issues)
+![GitHub contributors](https://img.shields.io/github/contributors/mheriyanto/Data-Science.svg)
+
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 ![GitHub All Releases](https://img.shields.io/github/downloads/mheriyanto/Data-Science/total.svg)
 ![GitHub forks](https://img.shields.io/github/forks/mheriyanto/Data-Science.svg?style=social)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/mheriyanto/Data-Science.svg)
 
 Berikut repositori terkait dengan pengalaman belajar penulis mengenai topik Data Science. Kode-kode disini sengaja disebar agar bisa bermanfaat bagi yang lainnya, khususnya bagi yang awam terhadap dunia data science. Selengkapnya bisa dikunjungi wesbsite kami: https://mheriyanto.wordpress.com/tutorials/
 
