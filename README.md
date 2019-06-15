@@ -3,7 +3,6 @@
 </a>
 
 # Data Science
-## Data Science and Data Analysis
 
 [![GitHub version](https://badge.fury.io/gh/mheriyanto%2FData-Science.svg)](https://badge.fury.io/gh/mheriyanto%2FData-Science)
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/mheriyanto/Data-Science)
@@ -26,7 +25,7 @@ Berikut repositori terkait dengan pengalaman belajar penulis mengenai topik Data
 IDE Python yang digunakan pada tutorial ini berupa PyCharm: https://www.jetbrains.com/pycharm/ dan Python Versi 3: https://www.python.org/downloads/release/python-373/
 
 
-# Python Data Science Handbook
+### Python Data Science Handbook
 Sumber: https://jakevdp.github.io/PythonDataScienceHandbook/
 
 Buku: http://shop.oreilly.com/product/0636920034919.do
@@ -35,4 +34,4 @@ Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan b
 1. Pemanfaatan Numpy dan aplikasinya dengan Matplotlib: https://github.com/mheriyanto/Data-Science/blob/master/001_numpy01_plotting.py
 2. Mencari Intensitas hujan dengan Pandas: https://github.com/mheriyanto/Data-Science/blob/master/001_numpy02_rainydays.py
 
-# Studi Kasus
+### Studi Kasus
