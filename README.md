@@ -6,8 +6,8 @@
 
 [![GitHub version](https://badge.fury.io/gh/mheriyanto%2FData-Science.svg)](https://badge.fury.io/gh/mheriyanto%2FData-Science)
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/mheriyanto/Data-Science)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-
+![GitHub top language](https://img.shields.io/github/languages/top/mheriyanto/Data-Science.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/mheriyanto/Data-Science.svg)
 
 [![Inline docs](http://inch-ci.org/github/dwyl/hapi-auth-jwt2.svg?branch=master)](http://inch-ci.org/mheriyanto/Data-Science/hapi-auth-jwt2)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/Data-Science/issues)
