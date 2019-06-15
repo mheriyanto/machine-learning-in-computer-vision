@@ -32,8 +32,6 @@ Buku: http://shop.oreilly.com/product/0636920034919.do
 
 Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku tersebut. Berikut topik-topik yang dianggap penting untuk dibahas:
 1. Pemanfaatan Numpy dan aplikasinya dengan Matplotlib: https://github.com/mheriyanto/Data-Science/blob/master/001_numpy01_plotting.py
-2. Mencari Intensitas Hujan dengan Pandas: https://github.com/mheriyanto/Data-Science/blob/master/001_numpy02_rainydays.py
-
-
+2. Mencari Intensitas hujan dengan Pandas: https://github.com/mheriyanto/Data-Science/blob/master/001_numpy02_rainydays.py
 
 # Studi Kasus
