@@ -8,5 +8,8 @@ Berikut repositori terkait dengan pengalaman belajar penulis mengenai topik Data
 
 # Python Data Science Handbook (2017 Jake VanderPlas: O'Reilly)
 Sumber: https://jakevdp.github.io/PythonDataScienceHandbook/
+Buku: http://shop.oreilly.com/product/0636920034919.do
 
-Studi Kasus
+Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku tersebut.
+
+# Studi Kasus
