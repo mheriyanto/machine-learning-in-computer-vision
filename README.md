@@ -2,7 +2,8 @@
   <img src="https://avatars3.githubusercontent.com/u/22278148?s=460&v=4" width="10%">
 </a>
 
-# Data-Science
+# Data Science
+## Data Science and Data Analysis
 
 [![GitHub version](https://badge.fury.io/gh/mheriyanto%2FData-Science.svg)](https://badge.fury.io/gh/mheriyanto%2FData-Science)
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/mheriyanto/Data-Science)
