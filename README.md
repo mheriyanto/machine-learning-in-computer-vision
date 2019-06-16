@@ -62,10 +62,19 @@ Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan b
 
 ##### Chapter 3. Data Manipulation with Pandas
 
+| ▲ [Top](#contents) |
+| --- |
+
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 1. Unsupervised Machine Learning untuk Well Data.
 2. Inversion vs Machine Learning.
 
+| ▲ [Top](#contents) |
+| --- |
+
 ## Studi Kasus
 Berikut ini standar studi kasus untuk aplikasi dari metode-metode data science:
+
+| ▲ [Top](#contents) |
+| --- |
