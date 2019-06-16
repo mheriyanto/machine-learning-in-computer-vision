@@ -62,6 +62,10 @@ Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan b
 
 ##### Chapter 3. Data Manipulation with Pandas
 
+##### Chapter 4. Visualization with Matplotlib
+
+##### Chapter 5. Machine Learning
+
 | ▲ [Top](#contents) |
 | --- |
 
