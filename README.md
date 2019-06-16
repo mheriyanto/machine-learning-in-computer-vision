@@ -2,7 +2,7 @@
   <img src="https://avatars3.githubusercontent.com/u/22278148?s=460&v=4" width="10%">
 </a>
 <a Data Science href="https://mheriyanto.wordpress.com/tutorials/">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="50%">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="30%">
 </a>
 
 # Data Science
