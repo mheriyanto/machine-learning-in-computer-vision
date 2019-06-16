@@ -30,7 +30,7 @@ Sumber: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 201
 
 Buku: http://shop.oreilly.com/product/0636920034919.do
 
-Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku tersebut. Berikut topik-topik yang dianggap penting untuk dibahas:
+Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku tersebut. Berikut topik-topik ringkasan yang akan dibahas:
 
 ##### Chapter 1. IPython: Beyond Normal Python
 
@@ -41,6 +41,11 @@ Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan b
 4. k-Nearest Neighbors: https://github.com/mheriyanto/Data-Science/blob/master/001_numpy04_knearest_neighbors.py
 
 ##### Chapter 3. Data Manipulation with Pandas
+
+### Data Science for Geoscientists (DSG)
+Berangkat dari bidang keilmuan penulis yaitu seorang Geofisikawan, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
+1. Unsupervised Machine Learning untuk Well Data.
+2. Inversion vs Machine Learning.
 
 ### Studi Kasus
 Berikut ini standar studi kasus untuk aplikasi dari metode-metode data science:
