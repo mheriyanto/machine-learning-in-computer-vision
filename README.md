@@ -33,6 +33,8 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
 ## Contents
 - [Python Data Science Handbook](#python-data-science-handbook)
 - [Data Science for Geoscientists (DSG)](#Data-science-for-geoscientists)
+- [Studi Kasus](#studi-kasus)
+
 
 ### Python Data Science Handbook
 Sumber: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
@@ -51,7 +53,7 @@ Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan b
 
 ##### Chapter 3. Data Manipulation with Pandas
 
-### Data Science for Geoscientists (DSG)
+### Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 1. Unsupervised Machine Learning untuk Well Data.
 2. Inversion vs Machine Learning.
