@@ -9,6 +9,7 @@
 </a>
 
 ## Data Science
+> Data is the new oil. ~ Clive Humby
 
 [![GitHub version](https://badge.fury.io/gh/mheriyanto%2FData-Science.svg)](https://badge.fury.io/gh/mheriyanto%2FData-Science)
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/mheriyanto/Data-Science)
