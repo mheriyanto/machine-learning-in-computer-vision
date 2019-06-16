@@ -11,9 +11,9 @@
 ## Data Science
 > Data is [the new oil](https://medium.com/project-2030/data-is-the-new-oil-a-ludicrous-proposition-1d91bba4f294)? No: Data is [the new soil](https://towardsdatascience.com/data-is-not-the-new-oil-bdb31f61bc2d). ~ David McCandless
 
-[**mheriyanto** ](https://github.com/mheriyanto) |
 [**About** ](https://github.com/mheriyanto/Data-Science) |
-[**Download** ](https://github.com/mheriyanto/Data-Science/archive/v1.0.tar.gz)
+[**Download** ](https://github.com/mheriyanto/Data-Science/archive/v1.0.tar.gz) |
+[**mheriyanto** ](https://github.com/mheriyanto)
 
 
 [![GitHub version](https://badge.fury.io/gh/mheriyanto%2FData-Science.svg)](https://badge.fury.io/gh/mheriyanto%2FData-Science)
