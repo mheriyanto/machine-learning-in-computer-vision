@@ -8,7 +8,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/128px-PyCharm_Logo.svg.png" width="10%">
 </a>
 
-# Data Science
+## Data Science
 
 [![GitHub version](https://badge.fury.io/gh/mheriyanto%2FData-Science.svg)](https://badge.fury.io/gh/mheriyanto%2FData-Science)
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/mheriyanto/Data-Science)
@@ -28,8 +28,11 @@
 
 Berikut repositori terkait dengan pengalaman belajar penulis mengenai topik Data Science. Kode-kode disini sengaja disebar agar bisa bermanfaat bagi yang lainnya, khususnya bagi yang awam terhadap dunia data science. Selengkapnya bisa dikunjungi wesbsite kami: https://mheriyanto.wordpress.com/tutorials/
 
-IDE Python yang digunakan pada tutorial ini berupa PyCharm: https://www.jetbrains.com/pycharm/ dan Python Versi 3: https://www.python.org/downloads/release/python-373/
+IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrains.com/pycharm/) dan [Python Versi 3](https://www.python.org/downloads/release/python-373/)
 
+## Contents
+- [Python Data Science Handbook](#python-data-science-handbook)
+- [Data Science for Geoscientists (DSG)](#Data-science-for-geoscientists)
 
 ### Python Data Science Handbook
 Sumber: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
