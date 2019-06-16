@@ -26,7 +26,7 @@ IDE Python yang digunakan pada tutorial ini berupa PyCharm: https://www.jetbrain
 
 
 ### Python Data Science Handbook
-Sumber: https://jakevdp.github.io/PythonDataScienceHandbook/
+Sumber: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
 
 Buku: http://shop.oreilly.com/product/0636920034919.do
 
@@ -35,3 +35,4 @@ Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan b
 2. Mencari Intensitas hujan dengan Pandas: https://github.com/mheriyanto/Data-Science/blob/master/001_numpy02_rainydays.py
 
 ### Studi Kasus
+Berikut ini standar studi kasus untuk aplikasi dari metode-metode data science:
