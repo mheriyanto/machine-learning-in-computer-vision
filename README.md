@@ -5,7 +5,7 @@
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="30%">
 </a>
 <a Data Science href="https://mheriyanto.wordpress.com/tutorials/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/128px-PyCharm_Logo.svg.png" width="20%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/128px-PyCharm_Logo.svg.png" width="10%">
 </a>
 
 # Data Science
