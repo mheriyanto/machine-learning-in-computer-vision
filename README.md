@@ -43,7 +43,7 @@ Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan b
 ##### Chapter 3. Data Manipulation with Pandas
 
 ### Data Science for Geoscientists (DSG)
-Berangkat dari bidang keilmuan penulis yaitu seorang Geofisikawan, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
+Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 1. Unsupervised Machine Learning untuk Well Data.
 2. Inversion vs Machine Learning.
 
