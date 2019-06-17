@@ -42,6 +42,8 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
     - [Python Data Science Handbook](#I-python-data-science-handbook)
     - [Python for Data Analysis](#II-python-for-data-analysis)
 - [Data Science for Geoscientists (DSG)](#Data-science-for-geoscientists)
+    - [Unsupervised Machine Learning untuk Well Data](#1-unsupervised-machine-learning-untuk-well-data)
+    - [Inversion vs Machine Learning](#2-inversion-vs-machine-learning)
 - [Studi Kasus](#studi-kasus)
 
 
@@ -82,8 +84,10 @@ Buku ini membahas tentang sintax-sintax dasar dan package pada Python yang biasa
 
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
-1. Unsupervised Machine Learning untuk Well Data.
-2. Inversion vs Machine Learning.
+
+#### 1. Unsupervised Machine Learning untuk Well Data.
+
+#### 2. Inversion vs Machine Learning.
 
 | ▲ [Top](#contents) |
 | --- |
