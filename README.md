@@ -39,8 +39,8 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
 
 ## Contents
 - [Data Science from Zero to Hero](#data-science-from-zero-to-hero)
-    - [Python Data Science Handbook](#python-data-science-handbook)
-    - [Python for Data Analysis](#python-for-data-analysis)
+    - [Python Data Science Handbook](#I-python-data-science-handbook)
+    - [Python for Data Analysis](#II.-python-for-data-analysis)
 - [Data Science for Geoscientists (DSG)](#Data-science-for-geoscientists)
 - [Studi Kasus](#studi-kasus)
 
