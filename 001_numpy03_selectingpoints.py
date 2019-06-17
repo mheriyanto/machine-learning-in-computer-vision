@@ -1,3 +1,7 @@
+# Link: https://github.com/mheriyanto/Data-Science
+# Ref: Python Data Science Handbook (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
+# Selecting Point from Random Points
+
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn
