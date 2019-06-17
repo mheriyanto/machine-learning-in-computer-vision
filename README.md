@@ -46,7 +46,7 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
 
 
 ## Data Science from Zero to Hero
-### Python Data Science Handbook
+### I. Python Data Science Handbook
 Sumber: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
 
 Buku: http://shop.oreilly.com/product/0636920034919.do
@@ -68,7 +68,7 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 
 #### Chapter 5. Machine Learning
 
-### Python for Data  Analysis
+### II. Python for Data  Analysis
 Sumber: https://www.oreilly.com/library/view/python-for-data/9781491957653/ (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660)
 
 Buku: https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793
