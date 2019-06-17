@@ -1,4 +1,5 @@
-# Ref: Python Data Science Handbook
+# Link: https://github.com/mheriyanto/Data-Science
+# Ref: Python Data Science Handbook (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
 # Counting Rainy Days
 import matplotlib.pyplot as plt
 import pandas as pd
