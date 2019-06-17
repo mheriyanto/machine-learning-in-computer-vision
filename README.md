@@ -40,9 +40,9 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
 ## Contents
 - [Data Science from Zero to Hero](#data-science-from-zero-to-hero)
     - [Python Data Science Handbook](#python-data-science-handbook)
+    - [Python for Data Analysis](#python-for-data-analysis)
 - [Data Science for Geoscientists (DSG)](#Data-science-for-geoscientists)
 - [Studi Kasus](#studi-kasus)
-
 
 
 ## Data Science from Zero to Hero
@@ -53,19 +53,29 @@ Buku: http://shop.oreilly.com/product/0636920034919.do
 
 Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku tersebut. Berikut topik-topik ringkasan yang akan dibahas:
 
-##### Chapter 1. IPython: Beyond Normal Python
+#### Chapter 1. IPython: Beyond Normal Python
+Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak dibahas. Karena compilernya sama-sama menggunakan Python versi3, jadi tidak banyak perbedaan. Perbedaannya terletak pada beberapa syntax pemanggilan package pythonnya saja. 
 
-##### Chapter 2. Introduction to Numpy
+#### Chapter 2. Introduction to Numpy
 1. [Pemanfaatan Numpy dan aplikasinya dengan Matplotlib](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy01_plotting.py)
 2. [Mencari Intensitas hujan dengan Pandas](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy02_rainydays.py)
 3. [Pemilihan titik dari titik-titik random](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy03_selectingpoints.py)
 4. [k-Nearest Neighbors](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy04_knearest_neighbors.py)
 
-##### Chapter 3. Data Manipulation with Pandas
+#### Chapter 3. Data Manipulation with Pandas
 
-##### Chapter 4. Visualization with Matplotlib
+#### Chapter 4. Visualization with Matplotlib
 
-##### Chapter 5. Machine Learning
+#### Chapter 5. Machine Learning
+
+### Python for Data  Analysis
+Sumber: https://www.oreilly.com/library/view/python-for-data/9781491957653/ (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660)
+
+Buku: https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793
+
+Buku ini membahas tentang sintax-sintax dasar dan package pada Python yang biasa digunakan untuk data analysis.
+
+#### Chapter 1. Preliminaries
 
 | ▲ [Top](#contents) |
 | --- |
