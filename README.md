@@ -54,12 +54,11 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
 
 ## Data Science from Zero to Hero
 ### I. Python Data Science Handbook
-***
-**Sumber**: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
+    **Sumber**: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
 
-**Buku**: https://www.oreilly.com/library/view/python-data-science/9781491912126/
+    **Buku**: https://www.oreilly.com/library/view/python-data-science/9781491912126/
 
-Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku tersebut. Berikut topik-topik ringkasan yang akan dibahas:
+    Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku    tersebut. Berikut topik-topik ringkasan yang akan dibahas:
 
 #### Chapter 1. IPython: Beyond Normal Python
 Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak dibahas. Karena compilernya sama-sama menggunakan Python Versi 3, jadi tidak banyak perbedaan. Perbedaannya terletak pada beberapa syntax pemanggilan package pythonnya saja. 
@@ -77,7 +76,6 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 #### Chapter 5. Machine Learning
 
 ### II. Python for Data  Analysis
-***
 **Sumber**: https://github.com/wesm/pydata-book (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660)
 
 **Buku**: https://www.oreilly.com/library/view/python-for-data/9781491957653/
@@ -87,31 +85,26 @@ Buku ini membahas tentang sintax-sintax dasar dan package pada Python yang biasa
 #### Chapter 1. Preliminaries
 
 ### III. Python Data  Analytics
-***
 **Sumber**: https://github.com/Apress/python-data-analytics-2e (F. Nelli. 2018. Apress. ISBN-13: 978-1-4842-3912-4)
 
 **Buku**: https://www.apress.com/gp/book/9781484239124
 
 ### IV. Data Analysis and Visualization Using Python
-***
 **Sumber**:  https://github.com/Apress/data-analysis-and-visualization-using-python (O. Embarak. 2018. Apress. ISBN-13: 978-1-4842-4109-7)
 
 **Buku**: https://www.apress.com/gp/book/9781484241080
 
 ### V. Introduction to Machine Learning with Python
-***
 **Sumber**: https://github.com/amueller/introduction_to_ml_with_python (A.C. Muler & S. Guido. 2017. O'Reilly Media. ISBN-13: 978-1-449=36941-5)
 
 **Buku**: https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/
 
 ### VI. Practical Machine Learning with Python
-***
 **Sumber**: https://github.com/dipanjanS/practical-machine-learning-with-python (D. Sarkar, R. Bali, and T. Sharma. 2018. Apress. ISBN-13: 978-1-4842-3207-1)
 
 **Buku**: https://www.apress.com/us/book/9781484232064
 
 ### VII. Machine Learning Applications Using Python
-***
 **Sumber**: https://github.com/Apress/machine-learning-applications-using-python (P. Mathur. 2019. Apress. ISBN-13: 978-1-4842-3787-8)
 
 **Buku**: https://www.apress.com/gp/book/9781484237861
