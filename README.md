@@ -54,11 +54,11 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
 
 ## Data Science from Zero to Hero
 ### I. Python Data Science Handbook
-    **Sumber**: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
+**Sumber**: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
 
-    **Buku**: https://www.oreilly.com/library/view/python-data-science/9781491912126/
+**Buku**: https://www.oreilly.com/library/view/python-data-science/9781491912126/
 
-    Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku    tersebut. Berikut topik-topik ringkasan yang akan dibahas:
+Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku    tersebut. Berikut topik-topik ringkasan yang akan dibahas:
 
 #### Chapter 1. IPython: Beyond Normal Python
 Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak dibahas. Karena compilernya sama-sama menggunakan Python Versi 3, jadi tidak banyak perbedaan. Perbedaannya terletak pada beberapa syntax pemanggilan package pythonnya saja. 
