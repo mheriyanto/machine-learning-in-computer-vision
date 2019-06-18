@@ -44,6 +44,8 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
     - [Python Data  Analytics](#III-python-data-analytics)
     - [Data Analysis and Visualization Using Python](#IV-data-analysis-and-visualization-using-python)
     - [Introduction to Machine Learning with Python](#V-introduction-to-machine-learning-with-python)
+    - [Practical Machine Learning with Python](#VI-practical-machine-learning-with-python)
+    - [Machine Learning Applications Using Python](#VII-machine-learning-applications-using-python)
 - [Data Science for Geoscientists (DSG)](#Data-science-for-geoscientists)
     - [Unsupervised Machine Learning untuk Well Data](#1-unsupervised-machine-learning-untuk-well-data)
     - [Inversion vs Machine Learning](#2-inversion-vs-machine-learning)
@@ -52,9 +54,9 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
 
 ## Data Science from Zero to Hero
 ### I. Python Data Science Handbook
-Sumber: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
+**Sumber**: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
 
-Buku: https://www.oreilly.com/library/view/python-data-science/9781491912126/
+**Buku**: https://www.oreilly.com/library/view/python-data-science/9781491912126/
 
 Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku tersebut. Berikut topik-topik ringkasan yang akan dibahas:
 
@@ -74,31 +76,38 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 #### Chapter 5. Machine Learning
 
 ### II. Python for Data  Analysis
-Sumber: https://github.com/wesm/pydata-book (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660)
+**Sumber**: https://github.com/wesm/pydata-book (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660)
 
-Buku: https://www.oreilly.com/library/view/python-for-data/9781491957653/
+**Buku**: https://www.oreilly.com/library/view/python-for-data/9781491957653/
 
 Buku ini membahas tentang sintax-sintax dasar dan package pada Python yang biasa digunakan untuk data analysis.
 
 #### Chapter 1. Preliminaries
 
 ### III. Python Data  Analytics
-Sumber: https://github.com/Apress/python-data-analytics-2e (F. Nelli. 2018. Apress. ISBN-13: 978-1-4842-3912-4)
+**Sumber**: https://github.com/Apress/python-data-analytics-2e (F. Nelli. 2018. Apress. ISBN-13: 978-1-4842-3912-4)
 
-Buku: https://www.apress.com/gp/book/9781484239124
+**Buku**: https://www.apress.com/gp/book/9781484239124
 
 ### IV. Data Analysis and Visualization Using Python
-Sumber:  https://github.com/Apress/data-analysis-and-visualization-using-python (O. Embarak. 2018. Apress. ISBN-13: 978-1-4842-4109-7)
+**Sumber**:  https://github.com/Apress/data-analysis-and-visualization-using-python (O. Embarak. 2018. Apress. ISBN-13: 978-1-4842-4109-7)
 
-Buku: https://www.apress.com/gp/book/9781484241080
+**Buku**: https://www.apress.com/gp/book/9781484241080
 
 ### V. Introduction to Machine Learning with Python
-Sumber: https://github.com/amueller/introduction_to_ml_with_python (A.C. Muler & S. Guido. 2017. O'Reilly Media. ISBN-13: 978-1-449=36941-5)
+**Sumber**: https://github.com/amueller/introduction_to_ml_with_python (A.C. Muler & S. Guido. 2017. O'Reilly Media. ISBN-13: 978-1-449=36941-5)
 
-Buku: https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/
+**Buku**: https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/
 
+### V. Practical Machine Learning with Python
+**Sumber**: https://github.com/dipanjanS/practical-machine-learning-with-python (D. Sarkar, R. Bali, and T. Sharma. 2018. Apress. ISBN-13: 978-1-4842-3207-1)
 
+**Buku**: https://www.apress.com/us/book/9781484232064
 
+### VI. Machine Learning Applications Using Python
+**Sumber**: https://github.com/Apress/machine-learning-applications-using-python (P. Mathur. 2019. Apress. ISBN-13: 978-1-4842-3787-8)
+
+**Buku**: https://www.apress.com/gp/book/9781484237861
 
 
 | ▲ [Top](#contents) |
