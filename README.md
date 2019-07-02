@@ -46,7 +46,7 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
     - [Introduction to Machine Learning with Python](#V-introduction-to-machine-learning-with-python)
     - [Practical Machine Learning with Python](#VI-practical-machine-learning-with-python)
     - [Machine Learning Applications Using Python](#VII-machine-learning-applications-using-python)
-- [Machine Learning and Deep Learning](#machine-learning-and-deep-learning
+- [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
     - [Machine Learning Probabilistic Prespective](#I-machine-learning-probabilistic-prespective)
     - [Deep Learning](#II-deep-learning)
 - [Data Science for Geoscientists (DSG)](#Data-science-for-geoscientists)
