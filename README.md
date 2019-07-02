@@ -46,6 +46,9 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
     - [Introduction to Machine Learning with Python](#V-introduction-to-machine-learning-with-python)
     - [Practical Machine Learning with Python](#VI-practical-machine-learning-with-python)
     - [Machine Learning Applications Using Python](#VII-machine-learning-applications-using-python)
+- [Machine Learning and Deep Learning](#machine-learning-and-deep-learning
+    - [Machine Learning Probabilistic Prespective](#I-machine-learning-probabilistic-prespective)
+    - [Deep Learning](#II-deep-learning)
 - [Data Science for Geoscientists (DSG)](#Data-science-for-geoscientists)
     - [Unsupervised Machine Learning untuk Well Data](#1-unsupervised-machine-learning-untuk-well-data)
     - [Inversion vs Machine Learning](#2-inversion-vs-machine-learning)
@@ -76,7 +79,7 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 #### Chapter 5. Machine Learning
 
 ### II. Python for Data  Analysis
-**Sumber**: https://github.com/wesm/pydata-book (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660)
+**GitHub**: https://github.com/wesm/pydata-book (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660)
 
 **Buku**: https://www.oreilly.com/library/view/python-for-data/9781491957653/
 
@@ -85,30 +88,45 @@ Buku ini membahas tentang sintax-sintax dasar dan package pada Python yang biasa
 #### Chapter 1. Preliminaries
 
 ### III. Python Data  Analytics
-**Sumber**: https://github.com/Apress/python-data-analytics-2e (F. Nelli. 2018. Apress. ISBN-13: 978-1-4842-3912-4)
+**GitHub**: https://github.com/Apress/python-data-analytics-2e (F. Nelli. 2018. Apress. ISBN-13: 978-1-4842-3912-4)
 
 **Buku**: https://www.apress.com/gp/book/9781484239124
 
 ### IV. Data Analysis and Visualization Using Python
-**Sumber**:  https://github.com/Apress/data-analysis-and-visualization-using-python (O. Embarak. 2018. Apress. ISBN-13: 978-1-4842-4109-7)
+**GitHub**:  https://github.com/Apress/data-analysis-and-visualization-using-python (O. Embarak. 2018. Apress. ISBN-13: 978-1-4842-4109-7)
 
 **Buku**: https://www.apress.com/gp/book/9781484241080
 
 ### V. Introduction to Machine Learning with Python
-**Sumber**: https://github.com/amueller/introduction_to_ml_with_python (A.C. Muler & S. Guido. 2017. O'Reilly Media. ISBN-13: 978-1-449=36941-5)
+**GitHub**: https://github.com/amueller/introduction_to_ml_with_python (A.C. Muler & S. Guido. 2017. O'Reilly Media. ISBN-13: 978-1-449=36941-5)
 
 **Buku**: https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/
 
 ### VI. Practical Machine Learning with Python
-**Sumber**: https://github.com/dipanjanS/practical-machine-learning-with-python (D. Sarkar, R. Bali, and T. Sharma. 2018. Apress. ISBN-13: 978-1-4842-3207-1)
+**GitHub**: https://github.com/dipanjanS/practical-machine-learning-with-python (D. Sarkar, R. Bali, and T. Sharma. 2018. Apress. ISBN-13: 978-1-4842-3207-1)
 
 **Buku**: https://www.apress.com/us/book/9781484232064
 
 ### VII. Machine Learning Applications Using Python
-**Sumber**: https://github.com/Apress/machine-learning-applications-using-python (P. Mathur. 2019. Apress. ISBN-13: 978-1-4842-3787-8)
+**GitHub**: https://github.com/Apress/machine-learning-applications-using-python (P. Mathur. 2019. Apress. ISBN-13: 978-1-4842-3787-8)
 
 **Buku**: https://www.apress.com/gp/book/9781484237861
 
+| ▲ [Top](#contents) |
+| --- |
+
+## Machine Learning and Deep Learning
+### I. Machine Learning Probabilistic Prespective
+**GitHub**: 
+
+**Buku**: https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020
+
+### II. Deep Learning
+**Web**: https://www.deeplearningbook.org/
+
+**GitHub**: 
+
+**Buku**: https://www.deeplearningbook.org/front_matter.pdf
 
 | ▲ [Top](#contents) |
 | --- |
