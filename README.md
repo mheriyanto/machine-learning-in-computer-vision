@@ -124,9 +124,9 @@ Buku ini membahas tentang sintax-sintax dasar dan package pada Python yang biasa
 ### II. Deep Learning
 **Web**: https://www.deeplearningbook.org/
 
-**GitHub**: 
+**GitHub**: https://github.com/lexfridman/mit-deep-learning
 
-**Buku**: https://www.deeplearningbook.org/front_matter.pdf
+**Buku**: https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book
 
 | ▲ [Top](#contents) |
 | --- |
