@@ -28,6 +28,8 @@
 
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 ![GitHub All Releases](https://img.shields.io/github/downloads/mheriyanto/Data-Science/total.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/Data-Science)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mheriyanto/Data-Science)
 ![GitHub forks](https://img.shields.io/github/forks/mheriyanto/Data-Science.svg?style=social)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
