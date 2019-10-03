@@ -57,7 +57,6 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
 - [Studi Kasus](#studi-kasus)
 
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
 ## Data Science from Zero to Hero
 ### I. Python Data Science Handbook
 **Sumber**: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
