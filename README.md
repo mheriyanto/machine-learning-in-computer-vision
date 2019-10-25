@@ -119,14 +119,14 @@ Buku ini membahas tentang sintax-sintax dasar dan package pada Python yang biasa
 
 ## Machine Learning and Deep Learning
 ### I. Machine Learning Probabilistic Prespective
-**GitHub**: https://github.com/probml/pyprobml
+**GitHub**: https://github.com/probml/pyprobml or [Solusi](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) (Kevin P. Murphy, 2012. The MIT Press. ISBN-13: 978-0262018029)
 
 **Buku**: https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020
 
 ### II. Deep Learning
 **Web**: https://www.deeplearningbook.org/
 
-**GitHub**: https://github.com/lexfridman/mit-deep-learning
+**GitHub**: https://github.com/lexfridman/mit-deep-learning (I. Goodfellow, Y. Bengio, and A. Courville. 2016. The MIT Press. ISBN-13: 978-0262035613)
 
 **Buku**: https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book
 
@@ -138,7 +138,7 @@ Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beber
 
 #### 1. Unsupervised Machine Learning untuk Well Data.
 
-#### 2. Inversion vs Machine Learning.
+#### [2. Inversion vs Machine Learning](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
 
 | ▲ [Top](#contents) |
 | --- |
