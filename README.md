@@ -74,20 +74,10 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 3. [Pemilihan titik dari titik-titik random](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy03_selectingpoints.py)
 4. [k-Nearest Neighbors](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy04_knearest_neighbors.py)
 
-#### Chapter 3. Data Manipulation with Pandas
-
-#### Chapter 4. Visualization with Matplotlib
-
-#### Chapter 5. Machine Learning
-
 ### II. Python for Data  Analysis
 **GitHub**: https://github.com/wesm/pydata-book (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660)
 
 **Buku**: https://www.oreilly.com/library/view/python-for-data/9781491957653/
-
-Buku ini membahas tentang sintax-sintax dasar dan package pada Python yang biasa digunakan untuk data analysis.
-
-#### Chapter 1. Preliminaries
 
 ### III. Python Data  Analytics
 **GitHub**: https://github.com/Apress/python-data-analytics-2e (F. Nelli. 2018. Apress. ISBN-13: 978-1-4842-3912-4)
