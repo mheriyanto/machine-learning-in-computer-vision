@@ -119,7 +119,7 @@ Buku ini membahas tentang sintax-sintax dasar dan package pada Python yang biasa
 
 ## Machine Learning and Deep Learning
 ### I. Machine Learning Probabilistic Prespective
-**GitHub**: 
+**GitHub**: https://github.com/probml/pyprobml
 
 **Buku**: https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020
 
