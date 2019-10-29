@@ -123,6 +123,12 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 | ▲ [Top](#contents) |
 | --- |
 
+## Courses
+### I. Machine Learning (Andrew Ng)
+**Web**: 
+
+**GitHUb**:
+
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 
