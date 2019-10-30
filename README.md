@@ -124,11 +124,18 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 | --- |
 
 ## Courses
-### I. Machine Learning (Andrew Ng)
-**Web**: 
++ Machine Learning (Andrew Ng): [Web](), [GitHUb]()
 
-**GitHUb**:
+| ▲ [Top](#contents) |
+| --- |
 
+## Deep Learning Frameworks
++ Deep Learning with TensorFlow - Second Edition (Giancarlo Zaccone and Md. Rezaul Karim, 2018): [Book](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [Code](https://www.packtpub.com/codedownloaderrata), and [GitHub](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)
++ Deep Learning with PyTorch 1.0 - Second Edition (Sri. Yogesh K, 2019): [Book](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [Code](https://www.packtpub.com/codedownloaderrata)
+
+| ▲ [Top](#contents) |
+| --- |
+  
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 
