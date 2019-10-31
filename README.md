@@ -48,7 +48,7 @@
 | --- |
 
 ## Machine Learning and Deep Learning Concepts
-+ **Machine Learning Probabilistic Prespective** (Kevin P. Murphy, 2012. The MIT Press. ISBN-13: 978-0262018029): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
++ **Machine Learning Probabilistic Prespective** (Kevin P. Murphy, 2012. The MIT Press. ISBN-13: 978-0262018029): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
 + **Pattern Recognition and Machine Learning** (Christopher M. Bishop. 2006. Springer. ISBN-13: 978-0387310732) [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 + **Deep Learning** (I. Goodfellow, Y. Bengio, and A. Courville. 2016. The MIT Press. ISBN-13: 978-0262035613): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning) | [**Web**](https://www.deeplearningbook.org/)
 + **Pengenalan Pembelajaran Mesin dan Deep Learning** (Jan Wira Gotama Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
@@ -73,8 +73,8 @@
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 
-+ [**Unsupervised Machine Learning untuk Well Data**](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)
-+ [**Inversion vs Machine Learning**](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
++ [Unsupervised Machine Learning untuk Well Data](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)
++ [Inversion vs Machine Learning](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
 
 | ▲ [Top](#contents) |
 | --- |
