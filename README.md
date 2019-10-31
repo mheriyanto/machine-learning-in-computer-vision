@@ -114,7 +114,7 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 **Buku**: https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020
 
 ### II. Pattern Recognition and Machine Learning
-**GitHub**: https://github.com/ctgk/PRML (Christopher M. Bishop. 2011. Springer. ISBN-13: 978-0387310732)
+**GitHub**: https://github.com/ctgk/PRML (Christopher M. Bishop. 2006. Springer. ISBN-13: 978-0387310732)
 
 **Buku**: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
@@ -144,7 +144,7 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 
-#### 1. Unsupervised Machine Learning untuk Well Data.
+#### [1. Unsupervised Machine Learning untuk Well Data](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)
 
 #### [2. Inversion vs Machine Learning](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
 
