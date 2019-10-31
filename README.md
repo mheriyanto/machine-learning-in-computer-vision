@@ -56,53 +56,22 @@ IDE Python yang digunakan pada tutorial ini berupa [PyCharm](https://www.jetbrai
     - [Inversion vs Machine Learning](#2-inversion-vs-machine-learning)
 - [Studi Kasus](#studi-kasus)
 
+**:** [**Buku**]() | [**GitHub**]() | [**Web**]()
 
 ## Data Science from Zero to Hero
-### I. Python Data Science Handbook
-**Sumber**: https://jakevdp.github.io/PythonDataScienceHandbook/ (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058)
+**I. Python Data Science Handbook:** [**Buku** J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058](https://www.oreilly.com/library/view/python-data-science/9781491912126/) | [**GitHub**](https://github.com/jakevdp/PythonDataScienceHandbook) | [**Web**](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-**Buku**: https://www.oreilly.com/library/view/python-data-science/9781491912126/
+**II. Python for Data  Analysis:** [**Buku** W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660](https://www.oreilly.com/library/view/python-for-data/9781491957653/) | [**GitHub**](https://github.com/wesm/pydata-book) | [**Web**](http://www.data-analysis-in-python.org/)
 
-Buku ini cukup bagus untuk pemula yang ingin belajar topik data science dengan background bahasa Python sesuai dengan judul buku    tersebut. Berikut topik-topik ringkasan yang akan dibahas:
+**III. Python Data  Analytics:** [**Buku** F. Nelli. 2018. Apress. ISBN-13: 978-1-4842-3912-4](https://www.apress.com/gp/book/9781484239124) | [**GitHub**](https://github.com/Apress/python-data-analytics-2e)
 
-#### Chapter 1. IPython: Beyond Normal Python
-Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak dibahas. Karena compilernya sama-sama menggunakan Python Versi 3, jadi tidak banyak perbedaan. Perbedaannya terletak pada beberapa syntax pemanggilan package pythonnya saja. 
+**IV. Data Analysis and Visualization Using Python:** [**Buku** O. Embarak. 2018. Apress. ISBN-13: 978-1-4842-4109-7](https://www.apress.com/gp/book/9781484241080) | [**GitHub**](https://github.com/Apress/data-analysis-and-visualization-using-python)
 
-#### Chapter 2. Introduction to Numpy
-1. [Pemanfaatan Numpy dan aplikasinya dengan Matplotlib](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy01_plotting.py)
-2. [Mencari Intensitas hujan dengan Pandas](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy02_rainydays.py)
-3. [Pemilihan titik dari titik-titik random](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy03_selectingpoints.py)
-4. [k-Nearest Neighbors](https://github.com/mheriyanto/Data-Science/blob/master/001_numpy04_knearest_neighbors.py)
+**V. Introduction to Machine Learning with Python:** [**Buku** A.C. Muler & S. Guido. 2017. O'Reilly Media. ISBN-13: 978-1-449=36941-5](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) | [**GitHub**](https://github.com/amueller/introduction_to_ml_with_python) | [**Web**](https://machinelearningmastery.com/start-here/)
 
-### II. Python for Data  Analysis
-**GitHub**: https://github.com/wesm/pydata-book (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660)
+**VI. Practical Machine Learning with Python:** [**Buku** D. Sarkar, R. Bali, and T. Sharma. 2018. Apress. ISBN-13: 978-1-4842-3207-1](https://www.apress.com/us/book/9781484232064) | [**GitHub**](https://github.com/dipanjanS/practical-machine-learning-with-python)
 
-**Buku**: https://www.oreilly.com/library/view/python-for-data/9781491957653/
-
-### III. Python Data  Analytics
-**GitHub**: https://github.com/Apress/python-data-analytics-2e (F. Nelli. 2018. Apress. ISBN-13: 978-1-4842-3912-4)
-
-**Buku**: https://www.apress.com/gp/book/9781484239124
-
-### IV. Data Analysis and Visualization Using Python
-**GitHub**:  https://github.com/Apress/data-analysis-and-visualization-using-python (O. Embarak. 2018. Apress. ISBN-13: 978-1-4842-4109-7)
-
-**Buku**: https://www.apress.com/gp/book/9781484241080
-
-### V. Introduction to Machine Learning with Python
-**GitHub**: https://github.com/amueller/introduction_to_ml_with_python (A.C. Muler & S. Guido. 2017. O'Reilly Media. ISBN-13: 978-1-449=36941-5)
-
-**Buku**: https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/
-
-### VI. Practical Machine Learning with Python
-**GitHub**: https://github.com/dipanjanS/practical-machine-learning-with-python (D. Sarkar, R. Bali, and T. Sharma. 2018. Apress. ISBN-13: 978-1-4842-3207-1)
-
-**Buku**: https://www.apress.com/us/book/9781484232064
-
-### VII. Machine Learning Applications Using Python
-**GitHub**: https://github.com/Apress/machine-learning-applications-using-python (P. Mathur. 2019. Apress. ISBN-13: 978-1-4842-3787-8)
-
-**Buku**: https://www.apress.com/gp/book/9781484237861
+**VII. Machine Learning Applications Using Python:** [**Buku** P. Mathur. 2019. Apress. ISBN-13: 978-1-4842-3787-8](https://www.apress.com/gp/book/9781484237861) | [**GitHub**](https://github.com/Apress/machine-learning-applications-using-python)
 
 | ▲ [Top](#contents) |
 | --- |
