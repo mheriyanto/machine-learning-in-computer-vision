@@ -113,7 +113,12 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 
 **Buku**: https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020
 
-### II. Deep Learning
+### II. Pattern Recognition and Machine Learning
+**GitHub**: https://github.com/ctgk/PRML (Christopher M. Bishop. 2011. Springer. ISBN-13: 978-0387310732)
+
+**Buku**: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+
+### III. Deep Learning
 **Web**: https://www.deeplearningbook.org/
 
 **GitHub**: https://github.com/lexfridman/mit-deep-learning (I. Goodfellow, Y. Bengio, and A. Courville. 2016. The MIT Press. ISBN-13: 978-0262035613)
