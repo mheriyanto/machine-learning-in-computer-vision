@@ -125,6 +125,9 @@ Pada tutorial ini memakai IDE PyCharm, jadi chapter tentang IPython ini tidak di
 
 **Buku**: https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book
 
+### IV. Pengenalan Pembelajaran Mesin dan Deep Learning 
+**Buku**: https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf (Jan Wira Gotama Putra, 2019)
+
 | ▲ [Top](#contents) |
 | --- |
 
