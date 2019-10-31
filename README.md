@@ -37,17 +37,11 @@
 
 ## Data Science and Machine Learning with Python
 **I. Python Data Science Handbook** (J. Vanderplas. 2018. O'Reilly Media. ISBN-13: 978-1491912058): [**Buku**](https://www.oreilly.com/library/view/python-data-science/9781491912126/) | [**GitHub**](https://github.com/jakevdp/PythonDataScienceHandbook) | [**Web**](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
 **II. Python for Data  Analysis** (W. McKinney. 2018. O'Reilly Media. ISBN-13: 978-1491957660): [**Buku**](https://www.oreilly.com/library/view/python-for-data/9781491957653/) | [**GitHub**](https://github.com/wesm/pydata-book) | [**Web**](http://www.data-analysis-in-python.org/)
-
 **III. Python Data  Analytics** (F. Nelli. 2018. Apress. ISBN-13: 978-1-4842-3912-4): [**Buku**](https://www.apress.com/gp/book/9781484239124) | [**GitHub**](https://github.com/Apress/python-data-analytics-2e)
-
 **IV. Data Analysis and Visualization Using Python** (O. Embarak. 2018. Apress. ISBN-13: 978-1-4842-4109-7): [**Buku**](https://www.apress.com/gp/book/9781484241080) | [**GitHub**](https://github.com/Apress/data-analysis-and-visualization-using-python)
-
 **V. Introduction to Machine Learning with Python** (A.C. Muler & S. Guido. 2017. O'Reilly Media. ISBN-13: 978-1-449=36941-5): [**Buku**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) | [**GitHub**](https://github.com/amueller/introduction_to_ml_with_python) | [**Web**](https://machinelearningmastery.com/start-here/)
-
 **VI. Practical Machine Learning with Python** (D. Sarkar, R. Bali, and T. Sharma. 2018. Apress. ISBN-13: 978-1-4842-3207-1): [**Buku**](https://www.apress.com/us/book/9781484232064) | [**GitHub**](https://github.com/dipanjanS/practical-machine-learning-with-python)
-
 **VII. Machine Learning Applications Using Python** (P. Mathur. 2019. Apress. ISBN-13: 978-1-4842-3787-8): [**Buku**](https://www.apress.com/gp/book/9781484237861) | [**GitHub**](https://github.com/Apress/machine-learning-applications-using-python)
 
 | ▲ [Top](#contents) |
@@ -55,11 +49,8 @@
 
 ## Machine Learning and Deep Learning Concepts
 **I. Machine Learning Probabilistic Prespective** (Kevin P. Murphy, 2012. The MIT Press. ISBN-13: 978-0262018029): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
-
 **II. Pattern Recognition and Machine Learning** (Christopher M. Bishop. 2006. Springer. ISBN-13: 978-0387310732) [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
-
 **III. Deep Learning** (I. Goodfellow, Y. Bengio, and A. Courville. 2016. The MIT Press. ISBN-13: 978-0262035613): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning) | [**Web**](https://www.deeplearningbook.org/)
-
 **IV. Pengenalan Pembelajaran Mesin dan Deep Learning** (Jan Wira Gotama Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
 
 | ▲ [Top](#contents) |
@@ -74,13 +65,14 @@
 ## Deep Learning Frameworks
 + **Deep Learning with TensorFlow - Second Edition** (Giancarlo Zaccone and Md. Rezaul Karim, 2018): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)
 + **Deep Learning with PyTorch 1.0 - Second Edition** (Sri. Yogesh K, 2019): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
-+ **Deep Learning with Keras** (Sujit Pal, Antonio Gulli, 2017):[**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
++ **Deep Learning with Keras** (Sujit Pal, Antonio Gulli, 2017): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
 
 | ▲ [Top](#contents) |
 | --- |
   
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
+
 [**1. Unsupervised Machine Learning untuk Well Data**](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)
 [**2. Inversion vs Machine Learning**](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
 
