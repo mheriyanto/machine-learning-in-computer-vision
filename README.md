@@ -50,9 +50,6 @@
 **Computer Vision**
 + [Awesome Computer Vision - jbhuang0604](https://github.com/jbhuang0604/awesome-computer-vision) (General) 
 
-| ▲ [Top](#contents) |
-| --- |
-
 ## Concepts
 **Machine Learning Concepts**
 + **Pengenalan Pembelajaran Mesin dan Deep Learning** (Jan Wira Gotama Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
@@ -66,9 +63,6 @@
 
 **Computer Vision Concepts**
 + **Computer Vision: Algorithms and Application** (Richard Szeliski 2010): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation) | [**Web**](http://szeliski.org/Book/)
-
-| ▲ [Top](#contents) |
-| --- |
 
 ## with Python
 **Data Science with Python**
@@ -88,16 +82,10 @@
 **Computer Vision with Python**
 + **Computer Vision with Python 3** (Suarabh Kapur, 2017): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3) | [**Web**]()
 
-| ▲ [Top](#contents) |
-| --- |
-
 ## Courses
 + **Machine Learning** - Stanford by Andrew Ng in Coursera (2010-2014): [Coursera](https://www.coursera.org/learn/machine-learning)
 + **Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
 + **Deep Learning** Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)
-
-| ▲ [Top](#contents) |
-| --- |
 
 ## Deep Learning Frameworks
 + **Deep Learning with TensorFlow - Second Edition** (Giancarlo Zaccone and Md. Rezaul Karim, 2018): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)
@@ -107,20 +95,8 @@
 ## Research Group
 + **Standford Machine Learning Group** (Prof. Andrew Ng): [**Web**](https://stanfordmlgroup.github.io/)
 
-| ▲ [Top](#contents) |
-| --- |
-  
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 
 + [Unsupervised Machine Learning untuk Well Data](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)
 + [Inversion vs Machine Learning](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
-
-| ▲ [Top](#contents) |
-| --- |
-
-## Studi Kasus
-Berikut ini standar studi kasus untuk aplikasi dari metode-metode data science:
-
-| ▲ [Top](#contents) |
-| --- |
