@@ -8,7 +8,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/128px-PyCharm_Logo.svg.png" width="10%">
 </a>
 
-## Data Science
+## Data Science, Machine Learning, Deep Learning, and Computer Vision
 > Data is [the new oil](https://medium.com/project-2030/data-is-the-new-oil-a-ludicrous-proposition-1d91bba4f294)? No: Data is [the new soil](https://towardsdatascience.com/data-is-not-the-new-oil-bdb31f61bc2d). ~ David McCandless
 
 [**About** ](https://github.com/mheriyanto/Data-Science) |
@@ -35,29 +35,61 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/mheriyanto/Data-Science.svg)
 
-## Data Science and Machine Learning with Python
-+ **Python Data Science Handbook** (J. Vanderplas. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-data-science/9781491912126/) | [**GitHub**](https://github.com/jakevdp/PythonDataScienceHandbook) | [**Web**](https://jakevdp.github.io/PythonDataScienceHandbook/)
-+ **Python for Data  Analysis** (W. McKinney. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-for-data/9781491957653/) | [**GitHub**](https://github.com/wesm/pydata-book) | [**Web**](http://www.data-analysis-in-python.org/)
-+ **Python Data  Analytics** (F. Nelli. 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484239124) | [**GitHub**](https://github.com/Apress/python-data-analytics-2e)
-+ **Data Analysis and Visualization Using Python** (O. Embarak. 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484241080) | [**GitHub**](https://github.com/Apress/data-analysis-and-visualization-using-python)
-+ **Introduction to Machine Learning with Python** (A.C. Muler & S. Guido. 2017. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) | [**GitHub**](https://github.com/amueller/introduction_to_ml_with_python) | [**Web**](https://machinelearningmastery.com/start-here/)
-+ **Practical Machine Learning with Python** (D. Sarkar, R. Bali, and T. Sharma. 2018. Apress): [**Buku**](https://www.apress.com/us/book/9781484232064) | [**GitHub**](https://github.com/dipanjanS/practical-machine-learning-with-python)
-+ **Machine Learning Applications Using Python** (P. Mathur. 2019. Apress): [**Buku**](https://www.apress.com/gp/book/9781484237861) | [**GitHub**](https://github.com/Apress/machine-learning-applications-using-python)
+## Awesome Lists
+**Data Science**
++ (General)[Awesome Datascience - academic](https://github.com/academic/awesome-datascience)
+**Machine Learning**
++ (General) [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
++ (Tutorial) [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
+**Deep Learning**
++ (General) [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning)
++ (Roadmap) [Deep Learning Papers Reading Roadmap - floodsung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+**Computer Vision**
++ (General) [Awesome Computer Vision - jbhuang0604](https://github.com/jbhuang0604/awesome-computer-vision)
 
 | ▲ [Top](#contents) |
 | --- |
 
-## Machine Learning and Deep Learning Concepts
-+ **Machine Learning Probabilistic Prespective** (Kevin P. Murphy, 2012. The MIT Press): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
-+ **Pattern Recognition and Machine Learning** (Christopher M. Bishop. 2006. Springer) [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
-+ **Deep Learning** (I. Goodfellow, Y. Bengio, and A. Courville. 2016. The MIT Press): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning) | [**Web**](https://www.deeplearningbook.org/)
+## Machine Learning Concepts
 + **Pengenalan Pembelajaran Mesin dan Deep Learning** (Jan Wira Gotama Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
++ **Machine Learning Probabilistic Prespective** (Kevin P. Murphy, 2012. The MIT Press): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
++ **Pattern Recognition and Machine Learning** (Christopher M. Bishop. 2006. Springer): [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+
+## Deep Learning Concepts
++ **Neural Networks and Deep Learning** (Michael Nielsen, 2018): [**Buku**](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf) | [**GitHub**](https://github.com/mnielsen/neural-networks-and-deep-learning) | [**Web**](http://neuralnetworksanddeeplearning.com/)
++ **Neural Networks and Deep Learning** (Charu C. Aggarwal, 2018): [**Buku**](https://www.springer.com/gp/book/9783319944623) | [**Web**](http://www.charuaggarwal.net/neural.htm) | [**Slide**](http://www.charuaggarwal.net/AllSlides.pdf)
++ **Deep Learning** (I. Goodfellow, Y. Bengio, and A. Courville. 2016. The MIT Press): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning) | [**Web**](https://www.deeplearningbook.org/)
+
+## Computer Vision Concepts
++ **Computer Vision: Algorithms and Application** (Richard Szeliski 2010): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation) | [**Web**](http://szeliski.org/Book/)
+
+| ▲ [Top](#contents) |
+| --- |
+
+## Data Science with Python
++ **Python Data Science Handbook** (J. Vanderplas. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-data-science/9781491912126/) | [**GitHub**](https://github.com/jakevdp/PythonDataScienceHandbook) | [**Web**](https://jakevdp.github.io/PythonDataScienceHandbook/)
++ **Python for Data  Analysis** (W. McKinney. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-for-data/9781491957653/) | [**GitHub**](https://github.com/wesm/pydata-book) | [**Web**](http://www.data-analysis-in-python.org/)
++ **Python Data  Analytics** (F. Nelli. 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484239124) | [**GitHub**](https://github.com/Apress/python-data-analytics-2e)
++ **Data Analysis and Visualization Using Python** (O. Embarak. 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484241080) | [**GitHub**](https://github.com/Apress/data-analysis-and-visualization-using-python)
+
+## Machine Learning with Python
++ **Introduction to Machine Learning with Python** (A.C. Muler & S. Guido. 2017. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) | [**GitHub**](https://github.com/amueller/introduction_to_ml_with_python) | [**Web**](https://machinelearningmastery.com/start-here/)
++ **Practical Machine Learning with Python** (D. Sarkar, R. Bali, and T. Sharma. 2018. Apress): [**Buku**](https://www.apress.com/us/book/9781484232064) | [**GitHub**](https://github.com/dipanjanS/practical-machine-learning-with-python)
++ **Machine Learning Applications Using Python** (P. Mathur. 2019. Apress): [**Buku**](https://www.apress.com/gp/book/9781484237861) | [**GitHub**](https://github.com/Apress/machine-learning-applications-using-python)
+
+## Deep Learning with Python
++ **Deep Learning with Applications Using Python** (Navin Kumar Manaswi, 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484235157) | [**GitHub**](https://github.com/Apress/Deep-Learning-Apps-Using-Python)
+
+## Computer Vision with Python
++ **Computer Vision with Python 3** (Suarabh Kapur, 2017): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3) | [**Web**]()
 
 | ▲ [Top](#contents) |
 | --- |
 
 ## Courses
-+ Machine Learning (Andrew Ng): [Web](), [GitHub]()
++ **Machine Learning** - Stanford by Andrew Ng in Coursera (2010-2014): [Coursera](https://www.coursera.org/learn/machine-learning)
++ **Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
++ **Deep Learning** Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)
 
 | ▲ [Top](#contents) |
 | --- |
@@ -66,6 +98,9 @@
 + **Deep Learning with TensorFlow - Second Edition** (Giancarlo Zaccone and Md. Rezaul Karim, 2018): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)
 + **Deep Learning with PyTorch 1.0 - Second Edition** (Sri. Yogesh K, 2019): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
 + **Deep Learning with Keras** (Sujit Pal, Antonio Gulli, 2017): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
+
+## Research Group
++ **Standford Machine Learning Group** (Prof. Andrew Ng): [**Web**](https://stanfordmlgroup.github.io/)
 
 | ▲ [Top](#contents) |
 | --- |
