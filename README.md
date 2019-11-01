@@ -38,37 +38,40 @@
 ## Awesome Lists
 **Data Science**
 
-+ (General)[Awesome Datascience - academic](https://github.com/academic/awesome-datascience)
++ [Awesome Datascience - academic](https://github.com/academic/awesome-datascience) (General)
 
 **Machine Learning**
 
-+ (General) [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
-+ (Tutorial) [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
++ [Machine Learning Mastery](https://machinelearningmastery.com/start-here/) (General) 
++ [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) (Tutorial) 
 
 **Deep Learning**
 
-+ (General) [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning)
-+ (Roadmap) [Deep Learning Papers Reading Roadmap - floodsung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
++ [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) (General) 
++ [Deep Learning Papers Reading Roadmap - floodsung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) (Roadmap) 
 
 **Computer Vision**
 
-+ (General) [Awesome Computer Vision - jbhuang0604](https://github.com/jbhuang0604/awesome-computer-vision)
++ [Awesome Computer Vision - jbhuang0604](https://github.com/jbhuang0604/awesome-computer-vision) (General) 
 
 | ▲ [Top](#contents) |
 | --- |
 
-+ **Machine Learning Concepts**
-  + **Pengenalan Pembelajaran Mesin dan Deep Learning** (Jan Wira Gotama Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
-  + **Machine Learning Probabilistic Prespective** (Kevin P. Murphy, 2012. The MIT Press): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
-  + **Pattern Recognition and Machine Learning** (Christopher M. Bishop. 2006. Springer): [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+## Concepts
+**Machine Learning Concepts**
 
-+ **Deep Learning Concepts**
-  + **Neural Networks and Deep Learning** (Michael Nielsen, 2018): [**Buku**](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf) | [**GitHub**](https://github.com/mnielsen/neural-networks-and-deep-learning) | [**Web**](http://neuralnetworksanddeeplearning.com/)
-  + **Neural Networks and Deep Learning** (Charu C. Aggarwal, 2018): [**Buku**](https://www.springer.com/gp/book/9783319944623) | [**Web**](http://www.charuaggarwal.net/neural.htm) | [**Slide**](http://www.charuaggarwal.net/AllSlides.pdf)
-  + **Deep Learning** (I. Goodfellow, Y. Bengio, and A. Courville. 2016. The MIT Press): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning) | [**Web**](https://www.deeplearningbook.org/)
++ **Pengenalan Pembelajaran Mesin dan Deep Learning** (Jan Wira Gotama Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
++ **Machine Learning Probabilistic Prespective** (Kevin P. Murphy, 2012. The MIT Press): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
++ **Pattern Recognition and Machine Learning** (Christopher M. Bishop. 2006. Springer): [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 
-+ **Computer Vision Concepts**
-  + **Computer Vision: Algorithms and Application** (Richard Szeliski 2010): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation) | [**Web**](http://szeliski.org/Book/)
+**Deep Learning Concepts**
+
++ **Neural Networks and Deep Learning** (Michael Nielsen, 2018): [**Buku**](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf) | [**GitHub**](https://github.com/mnielsen/neural-networks-and-deep-learning) | [**Web**](http://neuralnetworksanddeeplearning.com/)
++ **Neural Networks and Deep Learning** (Charu C. Aggarwal, 2018): [**Buku**](https://www.springer.com/gp/book/9783319944623) | [**Web**](http://www.charuaggarwal.net/neural.htm) | [**Slide**](http://www.charuaggarwal.net/AllSlides.pdf)
++ **Deep Learning** (I. Goodfellow, Y. Bengio, and A. Courville. 2016. The MIT Press): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning) | [**Web**](https://www.deeplearningbook.org/)
+
+**Computer Vision Concepts**
++ **Computer Vision: Algorithms and Application** (Richard Szeliski 2010): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation) | [**Web**](http://szeliski.org/Book/)
 
 | ▲ [Top](#contents) |
 | --- |
