@@ -40,8 +40,8 @@
 + [Awesome Datascience - academic](https://github.com/academic/awesome-datascience) (General)
 
 **Machine Learning**
-+ [Machine Learning Mastery](https://machinelearningmastery.com/start-here/) (General) 
-+ [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) (Tutorial) 
++ [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
++ [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) (Tutorial) 
 
 **Deep Learning**
 + [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) (General) 
@@ -88,12 +88,13 @@
 + **Deep Learning** Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)
 
 ## Deep Learning Frameworks
-+ **Deep Learning with TensorFlow - Second Edition** (Giancarlo Zaccone and Md. Rezaul Karim, 2018): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)
-+ **Deep Learning with PyTorch 1.0 - Second Edition** (Sri. Yogesh K, 2019): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
++ **Deep Learning with TensorFlow** (Giancarlo Zaccone and Md. Rezaul Karim, 2018): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)
++ **Deep Learning with PyTorch 1.0** (Sri. Yogesh K, 2019): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
 + **Deep Learning with Keras** (Sujit Pal, Antonio Gulli, 2017): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
 
 ## Research Group
 + **Standford Machine Learning Group** (Prof. Andrew Ng): [**Web**](https://stanfordmlgroup.github.io/)
++ **Standford Vision and Learning Lab** (Prof. Fei-Fei Li): [**Web**](http://vision.stanford.edu/)
 
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
