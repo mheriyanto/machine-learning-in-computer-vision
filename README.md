@@ -94,10 +94,11 @@
 
 ## Research Group
 <ins>**Universities**</ins>
-+ **Standford Machine Learning Group** (Prof. Andrew Ng): [**Web**](https://stanfordmlgroup.github.io/)
-+ **Standford Vision and Learning Lab** (Prof. Fei-Fei Li): [**Web**](http://vision.stanford.edu/)
+
+**Standford Machine Learning Group** (Prof. Andrew Ng): [**Web**](https://stanfordmlgroup.github.io/) | **Standford Vision and Learning Lab** (Prof. Fei-Fei Li): [**Web**](http://vision.stanford.edu/)
 
 <ins>**Corporations**</ins>
+
 [**Google AI**](https://ai.google/) | [**Facebook AI**](https://ai.facebook.com/) | [**Amazon AI**](https://aws.amazon.com/ai/) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/)
 
 ## Datasets
