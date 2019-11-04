@@ -56,7 +56,7 @@
 + **Machine Learning Probabilistic Prespective** (K.P. Murphy, 2012. The MIT Press): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
 + **Pattern Recognition and Machine Learning** (C.M. Bishop. 2006. Springer): [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 
-**Deep Learning Concepts**
+**__Deep Learning Concepts__**
 + **Neural Networks and Deep Learning** (M. Nielsen, 2018): [**Buku**](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf) | [**GitHub**](https://github.com/mnielsen/neural-networks-and-deep-learning) | [**Web**](http://neuralnetworksanddeeplearning.com/)
 + **Neural Networks and Deep Learning** (C.C. Aggarwal, 2018. Springer): [**Buku**](https://www.springer.com/gp/book/9783319944623) | [**Web**](http://www.charuaggarwal.net/neural.htm) | [**Slide**](http://www.charuaggarwal.net/AllSlides.pdf)
 + **Deep Learning** (I. Goodfellow, Y. Bengio, & A. Courville. 2016. The MIT Press): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning) | [**Web**](https://www.deeplearningbook.org/)
