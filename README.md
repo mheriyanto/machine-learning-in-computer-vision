@@ -51,7 +51,7 @@
 + [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) (General) 
 
 ## Concepts
-__**Machine Learning Concepts**__
+ 	__**Machine Learning Concepts**__
 + **Pengenalan Pembelajaran Mesin dan Deep Learning** (J.W.G. Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
 + **Machine Learning Probabilistic Prespective** (K.P. Murphy, 2012. The MIT Press): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
 + **Pattern Recognition and Machine Learning** (C.M. Bishop. 2006. Springer): [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
