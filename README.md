@@ -103,6 +103,7 @@
 [**Google AI**](https://ai.google/) | [**Facebook AI**](https://ai.facebook.com/) | [**Amazon AI**](https://aws.amazon.com/ai/) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/)
 
 <ins>**Ph.D. in Machine Learning**</ins>
+
 [Machine Learning - Carnegie Mellon University](https://www.ml.cmu.edu/academics/ml-phd.html) | [EECS - University of California — Berkeley](https://eecs.berkeley.edu/academics/graduate) | [Computer Science - Stanford University](https://cs.stanford.edu/academics/phd) | [EECS - Massachusetts Institute of Technology](https://www.eecs.mit.edu/academics-admissions/graduate-program) | [Computer Science - Cornell University](https://www.engineering.cornell.edu/admissions/graduate-admissions/admissions-phd-students)
 
 ## Datasets
