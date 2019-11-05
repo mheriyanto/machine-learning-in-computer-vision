@@ -102,6 +102,9 @@
 
 [**Google AI**](https://ai.google/) | [**Facebook AI**](https://ai.facebook.com/) | [**Amazon AI**](https://aws.amazon.com/ai/) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/)
 
+<ins>**Ph.D. in Machine Learning**</ins>
+[Machine Learning - Carnegie Mellon University](https://www.ml.cmu.edu/academics/ml-phd.html) | [EECS - University of California — Berkeley](https://eecs.berkeley.edu/academics/graduate) | [Computer Science - Stanford University](https://cs.stanford.edu/academics/phd) | [EECS - Massachusetts Institute of Technology](https://www.eecs.mit.edu/academics-admissions/graduate-program) | [Computer Science - Cornell University](https://www.engineering.cornell.edu/admissions/graduate-admissions/admissions-phd-students)
+
 ## Datasets
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
 + **KITTI Dataset** - University of Tübingen by Andreas Geiger (2012): [Raw](http://www.cvlibs.net/datasets/kitti/raw_data.php) | [Object 2D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) | [Object 3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) | [Bird's Eye View](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev)
