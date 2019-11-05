@@ -38,6 +38,7 @@
 ## Awesome Lists
 **Data Science**
 + [Awesome Datascience - Academic.io](https://github.com/academic/awesome-datascience) (General)
++ [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) (Framework)
 
 **Machine Learning**
 + [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
