@@ -96,13 +96,14 @@
 ## Research Group
 <ins>**Universities**</ins>
 
-[**Standford Machine Learning Group**](https://stanfordmlgroup.github.io/) (Prof. Andrew Ng) | [**Standford Vision and Learning Lab**](http://vision.stanford.edu/) (Prof. Fei-Fei Li)
+[**Standford Univ - Machine Learning Group**](https://stanfordmlgroup.github.io/) ([Prof. Andrew Ng](https://www.linkedin.com/in/andrewyng/)) | [**Standford Univ - Vision and Learning Lab**](http://vision.stanford.edu/) ([Prof. Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/)) | [**Univ of Montreal - Mila**](https://mila.quebec/en/) ([Prof. Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/)) | [**New York Univ - CILVR Lab**](https://wp.nyu.edu/cilvr/) ([Prof. Yann LeCun](http://yann.lecun.com/)) | [**Univ of Toronto - Machine Learning**](http://learning.cs.toronto.edu/) ([Prof. Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)) | [**Barkeley Univ - Artificial Intelligence Research (BAIR) Lab**](https://vision.berkeley.edu/) ([Prof. Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/))
 
 <ins>**Corporations**</ins>
 
 [**Google AI**](https://ai.google/) | [**Facebook AI**](https://ai.facebook.com/) | [**Amazon AI**](https://aws.amazon.com/ai/) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/)
 
 ## Datasets
++ **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
 + **KITTI Dataset** - University of Tübingen by Andreas Geiger (2012): [Raw](http://www.cvlibs.net/datasets/kitti/raw_data.php) | [Object 2D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) | [Object 3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) | [Bird's Eye View](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev)
 + **Boxy Dataset** - bosch-ai by Karsten Behrendt (2019): [Web](https://boxy-dataset.com/boxy/) | [2D Box](https://boxy-dataset.com/boxy/benchmark_2d) | [3D Box](https://boxy-dataset.com/boxy/benchmark_3d) | [Realtime](https://boxy-dataset.com/boxy/benchmark_realtime)
 + **COCO Dataset** - COCO Consortium by Tsung-Yi Lin, et. al. (2015): [Web](http://cocodataset.org/) | [Download](http://cocodataset.org/#download)
