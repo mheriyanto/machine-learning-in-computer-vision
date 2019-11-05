@@ -96,7 +96,7 @@
 ## Research Group
 <ins>**Universities**</ins>
 
-**Standford Machine Learning Group** (Prof. Andrew Ng): [**Web**](https://stanfordmlgroup.github.io/) | **Standford Vision and Learning Lab** (Prof. Fei-Fei Li): [**Web**](http://vision.stanford.edu/)
+[**Standford Machine Learning Group**](https://stanfordmlgroup.github.io/) (Prof. Andrew Ng) | [**Standford Vision and Learning Lab**](http://vision.stanford.edu/) (Prof. Fei-Fei Li)
 
 <ins>**Corporations**</ins>
 
