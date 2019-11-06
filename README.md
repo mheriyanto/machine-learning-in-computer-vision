@@ -23,7 +23,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/Data-Science)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mheriyanto/Data-Science)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/mheriyanto/Data-Science.svg)
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 
 ## Awesome Lists
