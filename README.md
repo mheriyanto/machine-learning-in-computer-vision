@@ -17,23 +17,14 @@
 [**mheriyanto** ](https://github.com/mheriyanto)
 
 
-[![GitHub version](https://badge.fury.io/gh/mheriyanto%2FData-Science.svg)](https://badge.fury.io/gh/mheriyanto%2FData-Science)
-[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/mheriyanto/Data-Science)
-![GitHub top language](https://img.shields.io/github/languages/top/mheriyanto/Data-Science.svg)
-![GitHub language count](https://img.shields.io/github/languages/count/mheriyanto/Data-Science.svg)
-
-[![Inline docs](http://inch-ci.org/github/dwyl/hapi-auth-jwt2.svg?branch=master)](http://inch-ci.org/mheriyanto/Data-Science/hapi-auth-jwt2)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/Data-Science/issues)
 ![GitHub contributors](https://img.shields.io/github/contributors/mheriyanto/Data-Science.svg)
-
-[![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 ![GitHub All Releases](https://img.shields.io/github/downloads/mheriyanto/Data-Science/total.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/Data-Science)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mheriyanto/Data-Science)
-![GitHub forks](https://img.shields.io/github/forks/mheriyanto/Data-Science.svg?style=social)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/mheriyanto/Data-Science.svg)
+[![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 
 ## Awesome Lists
 **Data Science**
