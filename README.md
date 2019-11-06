@@ -90,7 +90,7 @@
 
 <ins>**Corporations**</ins>
 
-[**Google AI**](https://ai.google/) | [**Facebook AI**](https://ai.facebook.com/) | [**Amazon AI**](https://aws.amazon.com/ai/) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/)
+[**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/) | [**Facebook AI**](https://ai.facebook.com/): [PyTorch](https://pytorch.org/) | [**Amazon AI**](https://aws.amazon.com/ai/) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/)
 
 <ins>**Ph.D. in Machine Learning**</ins>
 
