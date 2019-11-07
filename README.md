@@ -90,7 +90,7 @@
 
 <ins>**Corporations**</ins>
 
-[**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/) | [**Facebook AI**](https://ai.facebook.com/): [PyTorch](https://pytorch.org/) | [**Amazon AI**](https://aws.amazon.com/ai/) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home): [Microsoft Cognitive Toolkit (CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/)
+[**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/) | [**Facebook AI**](https://ai.facebook.com/): [PyTorch](https://pytorch.org/) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home): [Microsoft Cognitive Toolkit (CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/) | [**Amazon AI**](https://aws.amazon.com/ai/) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/) | [**Nvidia AI**](https://www.nvidia.com/en-us/deep-learning-ai/)
 
 <ins>**Ph.D. in Machine Learning**</ins>
 
