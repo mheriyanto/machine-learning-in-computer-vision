@@ -94,7 +94,11 @@
 
 <ins>**Ph.D. in Machine Learning**</ins>
 
-[Machine Learning - Carnegie Mellon University](https://www.ml.cmu.edu/academics/ml-phd.html) | [EECS - University of California — Berkeley](https://eecs.berkeley.edu/academics/graduate) | [Computer Science - Stanford University](https://cs.stanford.edu/academics/phd) | [EECS - Massachusetts Institute of Technology](https://www.eecs.mit.edu/academics-admissions/graduate-program) | [Computer Science - Cornell University](https://www.engineering.cornell.edu/admissions/graduate-admissions/admissions-phd-students)
+[**Machine Learning** - Carnegie Mellon University](https://www.ml.cmu.edu/academics/ml-phd.html) | [**EECS** - University of California — Berkeley](https://eecs.berkeley.edu/academics/graduate) | [**Computer Science** - Stanford University](https://cs.stanford.edu/academics/phd) | [**EECS** - Massachusetts Institute of Technology](https://www.eecs.mit.edu/academics-admissions/graduate-program) | [**Computer Science** - Cornell University](https://www.engineering.cornell.edu/admissions/graduate-admissions/admissions-phd-students)
+
+<ins>**Products**</ins>
+
+**Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/)
 
 ## Datasets
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
