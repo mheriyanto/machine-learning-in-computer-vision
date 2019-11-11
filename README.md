@@ -105,7 +105,7 @@
 
 <ins>**Products**</ins>
 
-**Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/)
+**Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/)
 
 ## Datasets
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
