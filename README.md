@@ -72,7 +72,7 @@
 + **Deep Learning with Applications Using Python** (N.K. Manaswi, 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484235157) | [**GitHub**](https://github.com/Apress/Deep-Learning-Apps-Using-Python)
 
 <ins>**Computer Vision with Python**</ins>
-+ **Computer Vision with Python 3** (S. Kapur, 2017. Packt): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3) | [**Web**]()
++ **Computer Vision with Python 3** (S. Kapur, 2017. Packt): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3)
 
 ## Courses
 + **Machine Learning** - Stanford by Andrew Ng in Coursera (2010-2014): [Coursera](https://www.coursera.org/learn/machine-learning)
@@ -92,7 +92,7 @@
 
 <ins>**Corporations**</ins>
 
-[**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/) | [**Facebook AI**](https://ai.facebook.com/): [PyTorch](https://pytorch.org/) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home): [Microsoft Cognitive Toolkit (CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/) | [**Amazon AI**](https://aws.amazon.com/ai/) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/) | [**Nvidia AI**](https://www.nvidia.com/en-us/deep-learning-ai/)
+[**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/), [**GitHub** Google AI Research](https://github.com/google-research) | [**Facebook AI**](https://ai.facebook.com/): [PyTorch](https://pytorch.org/), [**GitHub** Facebook Research](https://github.com/facebookresearch) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home): [Microsoft Cognitive Toolkit (CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/), [**GitHub** Microsoft AI](https://github.com/microsoft/ailab) | [**Amazon AI**](https://aws.amazon.com/ai/): [Alexa](https://github.com/alexa) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai): [**GitHub** Alibaba AI](https://github.com/alibaba) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/) | [**Nvidia AI**](https://www.nvidia.com/en-us/deep-learning-ai/): [**GitHub** Nvidia AI](https://github.com/NVIDIA-AI-IOT)
 
 <ins>**Ph.D. in Machine Learning**</ins>
 
