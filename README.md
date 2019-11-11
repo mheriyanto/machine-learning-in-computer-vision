@@ -37,6 +37,7 @@
 **Deep Learning**
 + [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) (General) 
 + [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) (Roadmap) 
++ [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) (Framework)
 
 **Computer Vision**
 + [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) (General) 
