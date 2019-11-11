@@ -26,6 +26,10 @@
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 
 ## Awesome Lists
+**Artificial Intelligence**
++ [Awesome Artificial Intelligence - Lightman Wang](https://github.com/hades217/awesome-ai) (General)
++ [Awesome Artificial Intelligence (AI) - Owain Lewis](https://github.com/owainlewis/awesome-artificial-intelligence) (General)
+
 **Data Science**
 + [Awesome Datascience - Academic.io](https://github.com/academic/awesome-datascience) (General)
 + [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) (Framework)
