@@ -36,7 +36,7 @@
 + [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) (Framework)
 + [Awesome Quant Machine Learning Trading - Granqvist](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) (General)
 + Stock Prediction: [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) | [Machine Learning Stocks](https://github.com/robertmartin8/MachineLearningStocks) | [bulbea](https://github.com/achillesrasquinha/bulbea) | [Deep Convolution Stock Technical Analysis](https://github.com/philipxjm/Deep-Convolution-Stock-Technical-Analysis) | [Test Stock Prediction Algorithms](https://github.com/timestocome/Test-stock-prediction-algorithms) | [Stock Price Prediction](https://github.com/scorpionhiccup/StockPricePrediction)
-+ [Awesome Time Series in Python - Maximilian Christ](https://github.com/MaxBenChrist/awesome_time_series_in_python)
++ [Awesome Time Series in Python - Maximilian Christ](https://github.com/MaxBenChrist/awesome_time_series_in_python) (General)
 
 <ins>**Machine Learning**</ins>
 + [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
