@@ -26,28 +26,28 @@
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 
 ## Awesome Lists
-**Artificial Intelligence**
+<ins>**Artificial Intelligence**</ins>
 + [Awesome Artificial Intelligence - Lightman Wang](https://github.com/hades217/awesome-ai) (General)
 + [Awesome Artificial Intelligence (AI) - Owain Lewis](https://github.com/owainlewis/awesome-artificial-intelligence) (General)
 + A list of artificial intelligence tools you can use today - for: [1. Personal use](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f), [2. Business use — Enterprise Intelligence](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835), [2. Business use (cont’d) — Enterprise Functions](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-continued-21bf14280250), and [3. Industry specific businesses](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-industry-specific-3-3-5e16c68da697)
 
-**Data Science**
+<ins>**Data Science**</ins>
 + [Awesome Datascience - Academic.io](https://github.com/academic/awesome-datascience) (General)
 + [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) (Framework)
 + [Awesome Quant Machine Learning Trading - Granqvist](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) (General)
 + Stock Prediction: [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) | [Machine Learning Stocks](https://github.com/robertmartin8/MachineLearningStocks) | [bulbea](https://github.com/achillesrasquinha/bulbea) | [Deep Convolution Stock Technical Analysis](https://github.com/philipxjm/Deep-Convolution-Stock-Technical-Analysis) | [Test Stock Prediction Algorithms](https://github.com/timestocome/Test-stock-prediction-algorithms) | [Stock Price Prediction](https://github.com/scorpionhiccup/StockPricePrediction)
 + [Awesome Time Series in Python - Maximilian Christ](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 
-**Machine Learning**
+<ins>**Machine Learning**</ins>
 + [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
 + [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) (Tutorial) 
 
-**Deep Learning**
+<ins>**Deep Learning**</ins>
 + [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) (General) 
 + [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) (Roadmap) 
 + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) (Framework)
 
-**Computer Vision**
+<ins>**Computer Vision**</ins>
 + [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) (General) 
 
 ## Concepts
