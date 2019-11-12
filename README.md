@@ -46,10 +46,13 @@
 <ins>**Deep Learning**</ins>
 + [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) (General) 
 + [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) (Roadmap) 
++ [Awsome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) (General)
 + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) (Framework)
++ [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) (Tutorial)
 
 <ins>**Computer Vision**</ins>
 + [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) (General) 
++ [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) (Tutorial)
 
 ## Concepts
 <ins>**Machine Learning Concepts**</ins>
