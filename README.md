@@ -19,24 +19,24 @@
 + [Awesome Datascience - Academic.io](https://github.com/academic/awesome-datascience) ![GitHub stars](https://img.shields.io/github/stars/academic/awesome-datascience?style=social) (General)
 + [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) ![GitHub stars](https://img.shields.io/github/stars/krzjoa/awesome-python-datascience?style=social) (Framework)
 + [Awesome Quant Machine Learning Trading - Granqvist](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ![GitHub stars](https://img.shields.io/github/stars/grananqvist/Awesome-Quant-Machine-Learning-Trading?style=social) (General)
-+ Stock Prediction: [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) | [Machine Learning Stocks](https://github.com/robertmartin8/MachineLearningStocks) | [bulbea](https://github.com/achillesrasquinha/bulbea) | [Deep Convolution Stock Technical Analysis](https://github.com/philipxjm/Deep-Convolution-Stock-Technical-Analysis) | [Test Stock Prediction Algorithms](https://github.com/timestocome/Test-stock-prediction-algorithms) | [Stock Price Prediction](https://github.com/scorpionhiccup/StockPricePrediction) | [Stock-Analysis](https://github.com/Vaibhav/Stock-Analysis)
++ Stock Prediction: [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) ![GitHub stars](https://img.shields.io/github/stars/huseinzol05/Stock-Prediction-Models?style=social) | [Machine Learning Stocks](https://github.com/robertmartin8/MachineLearningStocks) ![GitHub stars](https://img.shields.io/github/stars/robertmartin8/MachineLearningStocks?style=social) | [bulbea](https://github.com/achillesrasquinha/bulbea) ![GitHub stars](https://img.shields.io/github/stars/achillesrasquinha/bulbea?style=social) | [Deep Convolution Stock Technical Analysis](https://github.com/philipxjm/Deep-Convolution-Stock-Technical-Analysis) ![GitHub stars](https://img.shields.io/github/stars/philipxjm/Deep-Convolution-Stock-Technical-Analysis?style=social) | [Test Stock Prediction Algorithms](https://github.com/timestocome/Test-stock-prediction-algorithms) ![GitHub stars](https://img.shields.io/github/stars/timestocome/Test-stock-prediction-algorithms?style=social) | [Stock Price Prediction](https://github.com/scorpionhiccup/StockPricePrediction) ![GitHub stars](https://img.shields.io/github/stars/scorpionhiccup/StockPricePrediction?style=social) | [Stock-Analysis](https://github.com/Vaibhav/Stock-Analysis) ![GitHub stars](https://img.shields.io/github/stars/Vaibhav/Stock-Analysis?style=social)
 + [Awesome Time Series in Python - Maximilian Christ](https://github.com/MaxBenChrist/awesome_time_series_in_python) ![GitHub stars](https://img.shields.io/github/stars/MaxBenChrist/awesome_time_series_in_python?style=social) (General)
 + [Awesome Causality Algorithms - Ruocheng Guo](https://github.com/rguo12/awesome-causality-algorithms) ![GitHub stars](https://img.shields.io/github/stars/rguo12/awesome-causality-algorithms?style=social) (General)
 
 <ins>**Machine Learning**</ins>
 + [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
-+ [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) (Tutorial) 
++ [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial) 
 
 <ins>**Deep Learning**</ins>
-+ [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) (General) 
-+ [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) (Roadmap) 
-+ [Awsome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) (General)
-+ [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) (Framework)
-+ [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) (Tutorial)
++ [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) (General) 
++ [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) (Roadmap) 
++ [Awsome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
++ [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
++ [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
 
 <ins>**Computer Vision**</ins>
-+ [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) (General) 
-+ [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) (Tutorial)
++ [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) ![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social) (General) 
++ [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) ![GitHub stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=social) (Tutorial)
 
 ## Concepts
 <ins>**Machine Learning Concepts**</ins>
