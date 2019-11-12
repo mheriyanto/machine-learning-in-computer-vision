@@ -1,21 +1,5 @@
-<a Data Science href="https://mheriyanto.wordpress.com/tutorials/">
-  <img src="https://avatars3.githubusercontent.com/u/22278148?s=460&v=4" width="10%">
-</a>
-<a Data Science href="https://mheriyanto.wordpress.com/tutorials/">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="30%">
-</a>
-<a Data Science href="https://mheriyanto.wordpress.com/tutorials/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/128px-PyCharm_Logo.svg.png" width="10%">
-</a>
-
 ## Data Science, Machine Learning, Deep Learning, and Computer Vision
 > Data is [the new oil](https://medium.com/project-2030/data-is-the-new-oil-a-ludicrous-proposition-1d91bba4f294)? No: Data is [the new soil](https://towardsdatascience.com/data-is-not-the-new-oil-bdb31f61bc2d). ~ David McCandless
-
-[**About** ](https://github.com/mheriyanto/Data-Science) |
-[**Download** ](https://github.com/mheriyanto/Data-Science/archive/v1.0.tar.gz) |
-[**Website** ](https://mheriyanto.wordpress.com/tutorials/) |
-[**mheriyanto** ](https://github.com/mheriyanto)
-
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/Data-Science/issues)
 ![GitHub contributors](https://img.shields.io/github/contributors/mheriyanto/Data-Science.svg)
