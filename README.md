@@ -76,6 +76,7 @@
 + **Computer Vision with Python 3** (S. Kapur, 2017. Packt): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Computer-Vision-with-Python-3?style=social)
 
 ## Courses
++ **Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
 + **Machine Learning** - Stanford by Andrew Ng in Coursera (2010-2014): [Coursera](https://www.coursera.org/learn/machine-learning)
 + **Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
 + **Deep Learning** - Stanford by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
