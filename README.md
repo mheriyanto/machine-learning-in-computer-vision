@@ -133,3 +133,5 @@ Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beber
 
 + [Unsupervised Machine Learning untuk Well Data](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)
 + [Inversion vs Machine Learning](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
+
+<ins>**AI Products in Geosciences**</ins>: [**ezygeo** - AI for Geoscience](https://ezygeo.com/) | [**Corva** - provides drilling analytics and other insights for gas and oil](https://www.corva.ai/)
