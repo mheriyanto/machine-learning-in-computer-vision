@@ -28,7 +28,10 @@
 
 <ins>**Machine Learning**</ins>
 + [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
-+ [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial) 
++ [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial)
++ [Machine Learning Mindset](https://github.com/machinelearningmindset) (Roadmap)
++ [Awesome Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning)![GitHub stars](https://img.shields.io/github/stars/?style=social)
++ <ins>**Others**</ins>: [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)![GitHub stars](https://img.shields.io/github/stars/Yorko/mlcourse.ai?style=social) | [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)![GitHub stars](https://img.shields.io/github/stars/lazyprogrammer/machine_learning_examples?style=social) | [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)![GitHub stars](https://img.shields.io/github/stars/eriklindernoren/ML-From-Scratch?style=social)
 
 <ins>**Deep Learning**</ins>
 + [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) (General) 
