@@ -113,7 +113,7 @@
 ## Journals and Magazines
 <ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [datascienceID](https://datascience.or.id/) | [tau-dataID](https://tau-data.id/) | [aidi.id](http://aidi.id/) | [idbigdata](https://idbigdata.com/official/)
 + **AI**: [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
-+ **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home)
++ **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home) | [DS - ID](https://datascience.or.id/)
 + **Machine Learning**: [towardsdatascience - ML](https://towardsdatascience.com/machine-learning/home) | [ML ID](https://medium.com/@machinelearningid)
 + **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing)
 + **Computer Vision**: [paperswithcode - CV](https://paperswithcode.com/area/computer-vision)
