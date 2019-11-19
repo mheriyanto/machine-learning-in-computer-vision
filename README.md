@@ -135,5 +135,9 @@ Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beber
 + [Inversion vs Machine Learning](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
 
 <ins>**AI Products in Geosciences**</ins>: 
-+ [**ezygeo**](https://ezygeo.com/) - AI for Geoscience
-+ [**Corva**](https://www.corva.ai/) - provides drilling analytics and other insights for gas and oil
++ [**ezygeo**](https://ezygeo.com/) - AI for Geoscience: [Github](https://github.com/ezygeo-ai)
++ [**Corva**](https://www.corva.ai/) - provides drilling analytics and other insights for gas and oil: [Github](https://github.com/corva-ai)
++ [**Agile**](https://agilescientific.com/) - a daring scientific computing company: [Github](https://github.com/agile-geoscience)
++ [**deepVector**](https://www.linkedin.com/in/witold-c/) - geoscientific startup providing geospatial data science, exploration target generation and risk assessment services: [GitHub](https://github.com/deepVector)
++ [**Pangeo**](http://pangeo.io/) - A community effort for big data geoscience: [Github](https://github.com/pangeo-data)
++ [**Software Underground**](https://softwareunderground.org/) - Connecting geo/computing researchers: [Github](https://github.com/softwareunderground)
