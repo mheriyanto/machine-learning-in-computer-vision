@@ -110,6 +110,20 @@
 + **Boxy Dataset** - bosch-ai by Karsten Behrendt (2019): [Web](https://boxy-dataset.com/boxy/) | [2D Box](https://boxy-dataset.com/boxy/benchmark_2d) | [3D Box](https://boxy-dataset.com/boxy/benchmark_3d) | [Realtime](https://boxy-dataset.com/boxy/benchmark_realtime)
 + **COCO Dataset** - COCO Consortium by Tsung-Yi Lin, et. al. (2015): [Web](http://cocodataset.org/) | [Download](http://cocodataset.org/#download)
 
+## Journals and Magazines
+<ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | []()
++ **AI**: [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
++ **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home)
++ **Machine Learning**: [towardsdatascience - ML](https://towardsdatascience.com/machine-learning/home) | [ML ID](https://medium.com/@machinelearningid)
++ **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing)
++ **Computer Vision**: [paperswithcode - CV](https://paperswithcode.com/area/computer-vision) | []()
+
+<ins>**Journals**</ins>
++ **AI**: [Artificial Intelligence (Q1)](https://www.journals.elsevier.com/artificial-intelligence/) | [Journal of Artificial Intelligence Research (Q1)](https://www.jair.org/index.php/jair) | [Artificial Intelligence Review (Q1)](https://www.springer.com/journal/10462)
++ **Data Science**: [EPJ Data Science (Q1)](https://link.springer.com/journal/13688) | [Data Science Journal (Q3)](https://datascience.codata.org/)
++ **Machine Learning**: [Journal of Machine Learning Research (Q1)](http://jmlr.csail.mit.edu/) | [Machine Learning (Q1)](https://www.springer.com/computer/ai/journal/10994) | [Foundations and Trends in Machine Learning (Q1)](https://www.nowpublishers.com/mal)
++ **Computer Vision**: [Image and Vision Computing (Q1)](https://www.journals.elsevier.com/image-and-vision-computing/) | [Computer Vision and Image Understanding (Q1)](https://www.journals.elsevier.com/computer-vision-and-image-understanding) | [International Journal of Computer Vision (Q1)](https://www.springer.com/journal/11263)
+
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 
