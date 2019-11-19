@@ -111,12 +111,12 @@
 + **COCO Dataset** - COCO Consortium by Tsung-Yi Lin, et. al. (2015): [Web](http://cocodataset.org/) | [Download](http://cocodataset.org/#download)
 
 ## Journals and Magazines
-<ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | []()
+<ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [datascienceID](https://datascience.or.id/) | [tau-dataID](https://tau-data.id/) | [aidi.id](http://aidi.id/) | [idbigdata](https://idbigdata.com/official/)
 + **AI**: [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
 + **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home)
 + **Machine Learning**: [towardsdatascience - ML](https://towardsdatascience.com/machine-learning/home) | [ML ID](https://medium.com/@machinelearningid)
 + **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing)
-+ **Computer Vision**: [paperswithcode - CV](https://paperswithcode.com/area/computer-vision) | []()
++ **Computer Vision**: [paperswithcode - CV](https://paperswithcode.com/area/computer-vision)
 
 <ins>**Journals**</ins>
 + **AI**: [Artificial Intelligence (Q1)](https://www.journals.elsevier.com/artificial-intelligence/) | [Journal of Artificial Intelligence Research (Q1)](https://www.jair.org/index.php/jair) | [Artificial Intelligence Review (Q1)](https://www.springer.com/journal/10462)
