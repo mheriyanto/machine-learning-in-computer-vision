@@ -114,6 +114,7 @@
 + **Boxy Dataset** - bosch-ai by Karsten Behrendt (2019): [Web](https://boxy-dataset.com/boxy/) | [2D Box](https://boxy-dataset.com/boxy/benchmark_2d) | [3D Box](https://boxy-dataset.com/boxy/benchmark_3d) | [Realtime](https://boxy-dataset.com/boxy/benchmark_realtime)
 + **COCO Dataset** - COCO Consortium by Tsung-Yi Lin, et. al. (2015): [Web](http://cocodataset.org/) | [Download](http://cocodataset.org/#download)
 + **Multiple Object Tracking (MOT) Benchmark**: [**MOT16** -  Univ. of Adelaide by A. Milan, et. al. (2016)](https://motchallenge.net/data/MOT16/) | [**KITTI**](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
++ **YouTube**: [YouTube-BoundingBoxes Dataset](https://research.google.com/youtube-bb/) - E. Real, et. al. | [YouTube-8M Dataset](https://research.google.com/youtube8m/) - S. Abu-El-Haija, et. al. (2017)
 
 ## Journals and Magazines
 <ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [datascienceID](https://datascience.or.id/) | [tau-dataID](https://tau-data.id/) | [aidi.id](http://aidi.id/) | [idbigdata](https://idbigdata.com/official/)
