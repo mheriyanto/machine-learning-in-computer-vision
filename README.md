@@ -59,6 +59,7 @@
 + **Deep Learning** (I. Goodfellow, Y. Bengio, & A. Courville. 2016. The MIT Press): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [**Web**](https://www.deeplearningbook.org/)
 
 <ins>**Computer Vision Concepts**</ins>
++ **Computer Vision: Models, Learning, and Inference** (Simon J.D. Prince 2012. Cambridge University Pres): [**Web**](http://www.computervisionmodels.com/) | [**Buku**](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | [**GitHub**](https://github.com/krishnadubba/python_cvmodels)![GitHub stars](https://img.shields.io/github/stars/krishnadubba/python_cvmodels?style=social) | [**Matlab Code**](www.cs.ucl.ac.uk/external/s.prince/book/CVM.rar)
 + **Computer Vision: Algorithms and Application** (R. Szeliski 2010. Springer): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation)![GitHub stars](https://img.shields.io/github/stars/sntchaitu/computer-vision-Algorithms-implementation?style=social) | [**Web**](http://szeliski.org/Book/)
 
 ## with Python
