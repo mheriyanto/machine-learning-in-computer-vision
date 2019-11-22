@@ -24,7 +24,7 @@
 + <ins>**Stock Prediction**</ins>: 
   + [Stock Prediction Models - huseinzol05](https://github.com/huseinzol05/Stock-Prediction-Models) ![GitHub stars](https://img.shields.io/github/stars/huseinzol05/Stock-Prediction-Models?style=social) 
   + [Machine Learning Stocks - robertmartin8](https://github.com/robertmartin8/MachineLearningStocks) ![GitHub stars](https://img.shields.io/github/stars/robertmartin8/MachineLearningStocks?style=social) 
-  +[bulbea - achillesrasquinha](https://github.com/achillesrasquinha/bulbea) ![GitHub stars](https://img.shields.io/github/stars/achillesrasquinha/bulbea?style=social) 
+  + [bulbea - achillesrasquinha](https://github.com/achillesrasquinha/bulbea) ![GitHub stars](https://img.shields.io/github/stars/achillesrasquinha/bulbea?style=social) 
   + [Deep Convolution Stock Technical Analysis - philipxjm](https://github.com/philipxjm/Deep-Convolution-Stock-Technical-Analysis) ![GitHub stars](https://img.shields.io/github/stars/philipxjm/Deep-Convolution-Stock-Technical-Analysis?style=social) 
   + [Test Stock Prediction Algorithms - timestocome](https://github.com/timestocome/Test-stock-prediction-algorithms) ![GitHub stars](https://img.shields.io/github/stars/timestocome/Test-stock-prediction-algorithms?style=social) 
   + [Stock Price Prediction - scorpionhiccup](https://github.com/scorpionhiccup/StockPricePrediction) ![GitHub stars](https://img.shields.io/github/stars/scorpionhiccup/StockPricePrediction?style=social) 
