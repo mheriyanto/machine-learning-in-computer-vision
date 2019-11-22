@@ -9,6 +9,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 
+:star: - recommended for beginer.
+
 ## Awesome Lists
 <ins>**Artificial Intelligence**</ins>
 + [Awesome Artificial Intelligence - Lightman Wang](https://github.com/hades217/awesome-ai) ![GitHub stars](https://img.shields.io/github/stars/hades217/awesome-ai?style=social) (General)
@@ -17,8 +19,7 @@
 
 <ins>**Data Science**</ins>
 + [Awesome Datascience - Academic.io](https://github.com/academic/awesome-datascience) ![GitHub stars](https://img.shields.io/github/stars/academic/awesome-datascience?style=social) (General)
-+ [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) ![GitHub stars](https://img.shields.io/github/stars/krzjoa/awesome-python-datascience?style=social) (Framework)
-+ [Awesome Quant Machine Learning Trading - Granqvist](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ![GitHub stars](https://img.shields.io/github/stars/grananqvist/Awesome-Quant-Machine-Learning-Trading?style=social) (General)
++ :star: [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) ![GitHub stars](https://img.shields.io/github/stars/krzjoa/awesome-python-datascience?style=social) (Framework)
 + [Awesome Time Series in Python - Maximilian Christ](https://github.com/MaxBenChrist/awesome_time_series_in_python) ![GitHub stars](https://img.shields.io/github/stars/MaxBenChrist/awesome_time_series_in_python?style=social) (General)
 + [Awesome Causality Algorithms - Ruocheng Guo](https://github.com/rguo12/awesome-causality-algorithms) ![GitHub stars](https://img.shields.io/github/stars/rguo12/awesome-causality-algorithms?style=social) (General)
 + <ins>**Stock Prediction**</ins>: 
@@ -29,7 +30,7 @@
   + [Test Stock Prediction Algorithms - timestocome](https://github.com/timestocome/Test-stock-prediction-algorithms) ![GitHub stars](https://img.shields.io/github/stars/timestocome/Test-stock-prediction-algorithms?style=social) 
   + [Stock Price Prediction - scorpionhiccup](https://github.com/scorpionhiccup/StockPricePrediction) ![GitHub stars](https://img.shields.io/github/stars/scorpionhiccup/StockPricePrediction?style=social) 
   + [Stock Analysis - Vaibhav](https://github.com/Vaibhav/Stock-Analysis) ![GitHub stars](https://img.shields.io/github/stars/Vaibhav/Stock-Analysis?style=social) 
-  + [Awesome Quant Machine Learning Trading - grananqvist](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)![GitHub stars](https://img.shields.io/github/stars/grananqvist/Awesome-Quant-Machine-Learning-Trading?style=social)
+  + [Awesome Quant Machine Learning Trading - grananqvist](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ![GitHub stars](https://img.shields.io/github/stars/grananqvist/Awesome-Quant-Machine-Learning-Trading?style=social)
 + <ins>**Socials & Politics**</ins>: 
   + [Serenata - okfn-brasil](https://github.com/okfn-brasil/serenata-de-amor) ![GitHub stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=social) 
   + [grano - ANCIR](https://github.com/ANCIR/grano) ![GitHub stars](https://img.shields.io/github/stars/ANCIR/grano?style=social) 
