@@ -13,7 +13,7 @@
 
 ## Awesome Lists
 <ins>**Artificial Intelligence**</ins>
-+ [Awesome Artificial Intelligence - Lightman Wang](https://github.com/hades217/awesome-ai) ![GitHub stars](https://img.shields.io/github/stars/hades217/awesome-ai?style=social) (General)
++ :star: [Awesome Artificial Intelligence - Lightman Wang](https://github.com/hades217/awesome-ai) ![GitHub stars](https://img.shields.io/github/stars/hades217/awesome-ai?style=social) (General)
 + [Awesome Artificial Intelligence (AI) - Owain Lewis](https://github.com/owainlewis/awesome-artificial-intelligence) ![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?style=social) (General)
 + A list of artificial intelligence tools you can use today - for: [1. Personal use](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f), [2. Business use — Enterprise Intelligence](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835), [2. Business use (cont’d) — Enterprise Functions](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-continued-21bf14280250), and [3. Industry specific businesses](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-industry-specific-3-3-5e16c68da697)
 
@@ -21,7 +21,7 @@
 + [Awesome Datascience - Academic.io](https://github.com/academic/awesome-datascience) ![GitHub stars](https://img.shields.io/github/stars/academic/awesome-datascience?style=social) (General)
 + :star: [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) ![GitHub stars](https://img.shields.io/github/stars/krzjoa/awesome-python-datascience?style=social) (Framework)
 + [Awesome Time Series in Python - Maximilian Christ](https://github.com/MaxBenChrist/awesome_time_series_in_python) ![GitHub stars](https://img.shields.io/github/stars/MaxBenChrist/awesome_time_series_in_python?style=social) (General)
-+ [Awesome Causality Algorithms - Ruocheng Guo](https://github.com/rguo12/awesome-causality-algorithms) ![GitHub stars](https://img.shields.io/github/stars/rguo12/awesome-causality-algorithms?style=social) (General)
++ :star: [Awesome Causality Algorithms - Ruocheng Guo](https://github.com/rguo12/awesome-causality-algorithms) ![GitHub stars](https://img.shields.io/github/stars/rguo12/awesome-causality-algorithms?style=social) (General)
 + <ins>**Stock Prediction**</ins>: 
   + [Stock Prediction Models - huseinzol05](https://github.com/huseinzol05/Stock-Prediction-Models) ![GitHub stars](https://img.shields.io/github/stars/huseinzol05/Stock-Prediction-Models?style=social) 
   + [Machine Learning Stocks - robertmartin8](https://github.com/robertmartin8/MachineLearningStocks) ![GitHub stars](https://img.shields.io/github/stars/robertmartin8/MachineLearningStocks?style=social) 
@@ -66,7 +66,7 @@
 + :star: [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) (Roadmap) 
 + [Awesome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
 + <ins>**Edge Detection**</ins>:
-  + [Awesome Edge Detection Papers - Haoran MO](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
+  + :star: [Awesome Edge Detection Papers - Haoran MO](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
   + [Awesome Background Subtraction - Murari Mandal](https://github.com/murari023/awesome-background-subtraction)
   + [Awesome Semantic Segmentation - mrgloom](https://github.com/mrgloom/awesome-semantic-segmentation)
 + <ins>**Object Detection and Tracking**</ins>:
@@ -80,7 +80,7 @@
 
 <ins>**Computer Vision**</ins>
 + [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) ![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social) (General) 
-+ [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) ![GitHub stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=social) (Tutorial)
++ :star: [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) ![GitHub stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=social) (Tutorial)
 
 ## Concepts
 <ins>**Machine Learning Concepts**</ins>
@@ -105,18 +105,18 @@
 + **Data Analysis and Visualization Using Python** (O. Embarak. 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484241080) | [**GitHub**](https://github.com/Apress/data-analysis-and-visualization-using-python)![GitHub stars](https://img.shields.io/github/stars/Apress/data-analysis-and-visualization-using-python?style=social)
 
 <ins>**Machine Learning with Python**</ins>
-+ **Introduction to Machine Learning with Python** (A.C. Muler & S. Guido. 2017. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) | [**GitHub**](https://github.com/amueller/introduction_to_ml_with_python)![GitHub stars](https://img.shields.io/github/stars/amueller/introduction_to_ml_with_python?style=social) | [**Web**](https://machinelearningmastery.com/start-here/)
++ :star: **Introduction to Machine Learning with Python** (A.C. Muler & S. Guido. 2017. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) | [**GitHub**](https://github.com/amueller/introduction_to_ml_with_python)![GitHub stars](https://img.shields.io/github/stars/amueller/introduction_to_ml_with_python?style=social) | [**Web**](https://machinelearningmastery.com/start-here/)
 + **Practical Machine Learning with Python** (D. Sarkar, R. Bali, and T. Sharma. 2018. Apress): [**Buku**](https://www.apress.com/us/book/9781484232064) | [**GitHub**](https://github.com/dipanjanS/practical-machine-learning-with-python)![GitHub stars](https://img.shields.io/github/stars/dipanjanS/practical-machine-learning-with-python?style=social)
 + **Machine Learning Applications Using Python** (P. Mathur. 2019. Apress): [**Buku**](https://www.apress.com/gp/book/9781484237861) | [**GitHub**](https://github.com/Apress/machine-learning-applications-using-python)![GitHub stars](https://img.shields.io/github/stars/Apress/machine-learning-applications-using-python?style=social)
 
 <ins>**Deep Learning with Python**</ins>
-+ **Deep Learning with Applications Using Python** (N.K. Manaswi, 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484235157) | [**GitHub**](https://github.com/Apress/Deep-Learning-Apps-Using-Python)![GitHub stars](https://img.shields.io/github/stars/Apress/Deep-Learning-Apps-Using-Python?style=social)
++ :star: **Deep Learning with Applications Using Python** (N.K. Manaswi, 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484235157) | [**GitHub**](https://github.com/Apress/Deep-Learning-Apps-Using-Python)![GitHub stars](https://img.shields.io/github/stars/Apress/Deep-Learning-Apps-Using-Python?style=social)
 
 <ins>**Computer Vision with Python**</ins>
-+ **Computer Vision with Python 3** (S. Kapur, 2017. Packt): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Computer-Vision-with-Python-3?style=social)
++ :star: **Computer Vision with Python 3** (S. Kapur, 2017. Packt): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Computer-Vision-with-Python-3?style=social)
 
 ## Courses
-+ **Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
++ :star: **Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
 + **Machine Learning** - Stanford by Andrew Ng in Coursera (2010-2014): [Coursera](https://www.coursera.org/learn/machine-learning)
 + **Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
 + **Deep Learning** - Stanford by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
@@ -173,7 +173,7 @@ Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beber
 + [Inversion vs Machine Learning](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
 
 <ins>**AI Products in Geosciences**</ins>: 
-+ [**ezygeo**](https://ezygeo.com/) - AI for Geoscience: [Github](https://github.com/ezygeo-ai)
++ :star: [**ezygeo**](https://ezygeo.com/) - AI for Geoscience: [Github](https://github.com/ezygeo-ai)
 + [**Corva**](https://www.corva.ai/) - provides drilling analytics and other insights for gas and oil: [Github](https://github.com/corva-ai)
 + [**Agile**](https://agilescientific.com/) - a daring scientific computing company: [Github](https://github.com/agile-geoscience)
 + [**deepVector**](https://www.linkedin.com/in/witold-c/) - geoscientific startup providing geospatial data science, exploration target generation and risk assessment services: [GitHub](https://github.com/deepVector)
