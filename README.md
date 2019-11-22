@@ -64,13 +64,15 @@
 <ins>**Deep Learning**</ins>
 + :star: [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) (General) 
 + :star: [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) (Roadmap) 
-+ [Awsome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
-+ [Deep Learning Object Detection - Lee hoseong](https://github.com/hoya012/deep_learning_object_detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/deep_learning_object_detection?style=social) (Roadmap) 
-+ [Deep Learning for Tracking and Detection - Abhineet Singh](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ![GitHub stars](https://img.shields.io/github/stars/abhineet123/Deep-Learning-for-Tracking-and-Detection?style=social) (Roadmap) 
-+ [Awesome Anomaly Detection - Lee hoseong](https://github.com/hoya012/awesome-anomaly-detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection?style=social) (General)
-+ [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
-+ [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (Tutorial)
-+ [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
++ [Awesome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
++ <ins>**Object Detection and Tracking**</ins>:
+  + :star: [Deep Learning Object Detection - Lee hoseong](https://github.com/hoya012/deep_learning_object_detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/deep_learning_object_detection?style=social) (Roadmap) 
+  + [Deep Learning for Tracking and Detection - Abhineet Singh](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ![GitHub stars](https://img.shields.io/github/stars/abhineet123/Deep-Learning-for-Tracking-and-Detection?style=social) (Roadmap) 
+  + [Awesome Anomaly Detection - Lee hoseong](https://github.com/hoya012/awesome-anomaly-detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection?style=social) (General)
++ <ins>**PyTorch Framework**</ins>:
+  + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
+  + [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (Tutorial)
+  + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
 
 <ins>**Computer Vision**</ins>
 + [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) ![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social) (General) 
