@@ -41,6 +41,7 @@
 + [Deep Learning for Tracking and Detection - Abhineet Singh](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ![GitHub stars](https://img.shields.io/github/stars/abhineet123/Deep-Learning-for-Tracking-and-Detection?style=social) (Roadmap) 
 + [Awesome Anomaly Detection - Lee hoseong](https://github.com/hoya012/awesome-anomaly-detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection?style=social) (General)
 + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
++ [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (Tutorial)
 + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
 
 <ins>**Computer Vision**</ins>
