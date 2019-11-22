@@ -9,7 +9,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 
-:star: - recommended for beginer.
+:star: - Recommendations for Beginners.
 
 ## Awesome Lists
 <ins>**Artificial Intelligence**</ins>
@@ -52,8 +52,8 @@
   + [Data Science Toolbox](https://github.com/DataScienceToolbox/data-science-toolbox) ![GitHub stars](https://img.shields.io/github/stars/DataScienceToolbox/data-science-toolbox?style=social)
 
 <ins>**Machine Learning**</ins>
-+ [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
-+ [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial)
++ :star: [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
++ :star: [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial)
 + [Machine Learning Mindset](https://github.com/machinelearningmindset) (Roadmap)
 + [Awesome Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
 + <ins>**Others**</ins>: 
@@ -62,8 +62,8 @@
   + [ML-From-Scratch - eriklindernoren](https://github.com/eriklindernoren/ML-From-Scratch) ![GitHub stars](https://img.shields.io/github/stars/eriklindernoren/ML-From-Scratch?style=social)
 
 <ins>**Deep Learning**</ins>
-+ [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) (General) 
-+ [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) (Roadmap) 
++ :star: [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) (General) 
++ :star: [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) (Roadmap) 
 + [Awsome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
 + [Deep Learning Object Detection - Lee hoseong](https://github.com/hoya012/deep_learning_object_detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/deep_learning_object_detection?style=social) (Roadmap) 
 + [Deep Learning for Tracking and Detection - Abhineet Singh](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ![GitHub stars](https://img.shields.io/github/stars/abhineet123/Deep-Learning-for-Tracking-and-Detection?style=social) (Roadmap) 
@@ -78,23 +78,23 @@
 
 ## Concepts
 <ins>**Machine Learning Concepts**</ins>
-+ **Pengenalan Pembelajaran Mesin dan Deep Learning** (J.W.G. Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
++ :star: **Pengenalan Pembelajaran Mesin dan Deep Learning** (J.W.G. Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
 + **Machine Learning Probabilistic Prespective** (K.P. Murphy, 2012. The MIT Press): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml)![GitHub stars](https://img.shields.io/github/stars/probml/pyprobml?style=social) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
 + **Pattern Recognition and Machine Learning** (C.M. Bishop. 2006. Springer): [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML)![GitHub stars](https://img.shields.io/github/stars/ctgk/PRML?style=social) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 
 <ins>**Deep Learning Concepts**</ins>
 + **Neural Networks and Deep Learning** (M. Nielsen, 2018): [**Buku**](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf) | [**GitHub**](https://github.com/mnielsen/neural-networks-and-deep-learning)![GitHub stars](https://img.shields.io/github/stars/mnielsen/neural-networks-and-deep-learning?style=social) | [**Web**](http://neuralnetworksanddeeplearning.com/)
-+ **Neural Networks and Deep Learning** (C.C. Aggarwal, 2018. Springer): [**Buku**](https://www.springer.com/gp/book/9783319944623) | [**Web**](http://www.charuaggarwal.net/neural.htm) | [**Slide**](http://www.charuaggarwal.net/AllSlides.pdf)
-+ **Deep Learning** (I. Goodfellow, Y. Bengio, & A. Courville. 2016. The MIT Press): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [**Web**](https://www.deeplearningbook.org/)
++ :star: **Neural Networks and Deep Learning** (C.C. Aggarwal, 2018. Springer): [**Buku**](https://www.springer.com/gp/book/9783319944623) | [**Web**](http://www.charuaggarwal.net/neural.htm) | [**Slide**](http://www.charuaggarwal.net/AllSlides.pdf)
++ :star: **Deep Learning** (I. Goodfellow, Y. Bengio, & A. Courville. 2016. The MIT Press): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [**Web**](https://www.deeplearningbook.org/)
 
 <ins>**Computer Vision Concepts**</ins>
-+ **Computer Vision: Models, Learning, and Inference** (Simon J.D. Prince 2012. Cambridge University Pres): [**Web**](http://www.computervisionmodels.com/) | [**Buku**](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | [**GitHub**](https://github.com/krishnadubba/python_cvmodels)![GitHub stars](https://img.shields.io/github/stars/krishnadubba/python_cvmodels?style=social) | [**Matlab Code**](www.cs.ucl.ac.uk/external/s.prince/book/CVM.rar)
++ :star: **Computer Vision: Models, Learning, and Inference** (Simon J.D. Prince 2012. Cambridge University Pres): [**Web**](http://www.computervisionmodels.com/) | [**Buku**](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | [**GitHub**](https://github.com/krishnadubba/python_cvmodels)![GitHub stars](https://img.shields.io/github/stars/krishnadubba/python_cvmodels?style=social) | [**Matlab Code**](www.cs.ucl.ac.uk/external/s.prince/book/CVM.rar)
 + **Computer Vision: Algorithms and Application** (R. Szeliski 2010. Springer): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation)![GitHub stars](https://img.shields.io/github/stars/sntchaitu/computer-vision-Algorithms-implementation?style=social) | [**Web**](http://szeliski.org/Book/)
 
 ## with Python
 <ins>**Data Science with Python**</ins>
-+ **Python Data Science Handbook** (J. Vanderplas. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-data-science/9781491912126/) | [**GitHub**](https://github.com/jakevdp/PythonDataScienceHandbook)![GitHub stars](https://img.shields.io/github/stars/jakevdp/PythonDataScienceHandbook?style=social) | [**Web**](https://jakevdp.github.io/PythonDataScienceHandbook/)
-+ **Python for Data  Analysis** (W. McKinney. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-for-data/9781491957653/) | [**GitHub**](https://github.com/wesm/pydata-book)![GitHub stars](https://img.shields.io/github/stars/wesm/pydata-book?style=social) | [**Web**](http://www.data-analysis-in-python.org/)
++ :star: **Python Data Science Handbook** (J. Vanderplas. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-data-science/9781491912126/) | [**GitHub**](https://github.com/jakevdp/PythonDataScienceHandbook)![GitHub stars](https://img.shields.io/github/stars/jakevdp/PythonDataScienceHandbook?style=social) | [**Web**](https://jakevdp.github.io/PythonDataScienceHandbook/)
++ :star: **Python for Data  Analysis** (W. McKinney. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-for-data/9781491957653/) | [**GitHub**](https://github.com/wesm/pydata-book)![GitHub stars](https://img.shields.io/github/stars/wesm/pydata-book?style=social) | [**Web**](http://www.data-analysis-in-python.org/)
 + **Python Data  Analytics** (F. Nelli. 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484239124) | [**GitHub**](https://github.com/Apress/python-data-analytics-2e)![GitHub stars](https://img.shields.io/github/stars/Apress/python-data-analytics-2e?style=social)
 + **Data Analysis and Visualization Using Python** (O. Embarak. 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484241080) | [**GitHub**](https://github.com/Apress/data-analysis-and-visualization-using-python)![GitHub stars](https://img.shields.io/github/stars/Apress/data-analysis-and-visualization-using-python?style=social)
 
@@ -118,7 +118,7 @@
 ## Deep Learning Frameworks
 + **Deep Learning with TensorFlow** (G. Zaccone & Md.R. Karim, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-TensorFlow?style=social)
 + **Deep Learning with PyTorch 1.0** (S. Yogesh K, 2019. Packt): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
-+ **Deep Learning with PyTorch** (V. Subramanian, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-PyTorch?style=social)
++ :star: **Deep Learning with PyTorch** (V. Subramanian, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-PyTorch?style=social)
 + **Deep Learning with Keras** (S. Pal & A. Gulli, 2017. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-Keras?style=social)
 
 ## Research Group
