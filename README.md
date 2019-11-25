@@ -72,6 +72,7 @@
 + <ins>**Object Detection and Tracking**</ins>:
   + :star: [Deep Learning Object Detection - Lee hoseong](https://github.com/hoya012/deep_learning_object_detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/deep_learning_object_detection?style=social) (Roadmap) 
   + [Deep Learning for Tracking and Detection - Abhineet Singh](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ![GitHub stars](https://img.shields.io/github/stars/abhineet123/Deep-Learning-for-Tracking-and-Detection?style=social) (Roadmap) 
+  + [Anomaly Detection Resources - Yue Zhao](https://github.com/yzhao062/anomaly-detection-resources) ![GitHub stars](https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources?style=social) (General)
   + [Awesome Anomaly Detection - Lee hoseong](https://github.com/hoya012/awesome-anomaly-detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection?style=social) (General)
 + <ins>**PyTorch Framework**</ins>:
   + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
