@@ -66,9 +66,9 @@
 + :star: [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) (Roadmap) 
 + [Awesome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
 + <ins>**Edge Detection**</ins>:
-  + :star: [Awesome Edge Detection Papers - Haoran MO](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
-  + [Awesome Background Subtraction - Murari Mandal](https://github.com/murari023/awesome-background-subtraction)
-  + [Awesome Semantic Segmentation - mrgloom](https://github.com/mrgloom/awesome-semantic-segmentation)
+  + :star: [Awesome Edge Detection Papers - Haoran MO](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers) ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Edge-Detection-Papers?style=social)
+  + [Awesome Background Subtraction - Murari Mandal](https://github.com/murari023/awesome-background-subtraction) ![GitHub stars](https://img.shields.io/github/stars/murari023/awesome-background-subtraction?style=social)
+  + [Awesome Semantic Segmentation - mrgloom](https://github.com/mrgloom/awesome-semantic-segmentation) ![GitHub stars](https://img.shields.io/github/stars/mrgloom/awesome-semantic-segmentation?style=social)
 + <ins>**Object Detection and Tracking**</ins>:
   + :star: [Deep Learning Object Detection - Lee hoseong](https://github.com/hoya012/deep_learning_object_detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/deep_learning_object_detection?style=social) (Roadmap) 
   + [Deep Learning for Tracking and Detection - Abhineet Singh](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ![GitHub stars](https://img.shields.io/github/stars/abhineet123/Deep-Learning-for-Tracking-and-Detection?style=social) (Roadmap) 
