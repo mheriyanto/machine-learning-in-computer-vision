@@ -99,7 +99,7 @@
 + **Computer Vision: Algorithms and Application** (R. Szeliski 2010. Springer): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation)![GitHub stars](https://img.shields.io/github/stars/sntchaitu/computer-vision-Algorithms-implementation?style=social) | [**Web**](http://szeliski.org/Book/)
 
 ## with Python
-+ :star: **Python 3 Object-oriented Programming** (D. Phillips. 2015. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-3-object-oriented/9781784398781/) | [**GitHub**](https://github.com/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition)
++ :star: **Python 3 Object-oriented Programming** (D. Phillips. 2015. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-3-object-oriented/9781784398781/) | [**GitHub**](https://github.com/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition?style=social)
 
 <ins>**Data Science with Python**</ins>
 + :star: **Python Data Science Handbook** (J. Vanderplas. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-data-science/9781491912126/) | [**GitHub**](https://github.com/jakevdp/PythonDataScienceHandbook)![GitHub stars](https://img.shields.io/github/stars/jakevdp/PythonDataScienceHandbook?style=social) | [**Web**](https://jakevdp.github.io/PythonDataScienceHandbook/)
