@@ -99,6 +99,8 @@
 + **Computer Vision: Algorithms and Application** (R. Szeliski 2010. Springer): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation)![GitHub stars](https://img.shields.io/github/stars/sntchaitu/computer-vision-Algorithms-implementation?style=social) | [**Web**](http://szeliski.org/Book/)
 
 ## with Python
++ :star: **Python 3 Object-oriented Programming** (D. Phillips. 2015. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-3-object-oriented/9781784398781/) | [**GitHub**](https://github.com/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition)
+
 <ins>**Data Science with Python**</ins>
 + :star: **Python Data Science Handbook** (J. Vanderplas. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-data-science/9781491912126/) | [**GitHub**](https://github.com/jakevdp/PythonDataScienceHandbook)![GitHub stars](https://img.shields.io/github/stars/jakevdp/PythonDataScienceHandbook?style=social) | [**Web**](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + :star: **Python for Data  Analysis** (W. McKinney. 2018. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-for-data/9781491957653/) | [**GitHub**](https://github.com/wesm/pydata-book)![GitHub stars](https://img.shields.io/github/stars/wesm/pydata-book?style=social) | [**Web**](http://www.data-analysis-in-python.org/)
@@ -177,6 +179,7 @@ Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beber
 + :star: [**ezygeo**](https://ezygeo.com/) - AI for Geoscience: [Github](https://github.com/ezygeo-ai)
 + [**Corva**](https://www.corva.ai/) - provides drilling analytics and other insights for gas and oil: [Github](https://github.com/corva-ai)
 + [**Agile**](https://agilescientific.com/) - a daring scientific computing company: [Github](https://github.com/agile-geoscience)
++ [**Earth Lab**](https://www.earthdatascience.org/) - Learn to use earth science and other data in R & Python: [Github](https://github.com/earthlab)
 + [**deepVector**](https://www.linkedin.com/in/witold-c/) - geoscientific startup providing geospatial data science, exploration target generation and risk assessment services: [GitHub](https://github.com/deepVector)
 + [**Pangeo**](http://pangeo.io/) - A community effort for big data geoscience: [Github](https://github.com/pangeo-data)
 + [**Software Underground**](https://softwareunderground.org/) - Connecting geo/computing researchers: [Github](https://github.com/softwareunderground)
