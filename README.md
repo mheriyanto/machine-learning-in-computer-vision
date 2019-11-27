@@ -152,6 +152,7 @@
 
 ## Datasets
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
++ **CIFAR10 Dataset** - University of Toronto by Alex Krizhevsky (2009): [Raw](https://www.cs.toronto.edu/~kriz/cifar.html)
 + **KITTI Dataset** - University of Tübingen by Andreas Geiger (2012): [Raw](http://www.cvlibs.net/datasets/kitti/raw_data.php) | [Object 2D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) | [Object 3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) | [Bird's Eye View](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev)
 + **Boxy Dataset** - bosch-ai by Karsten Behrendt (2019): [Web](https://boxy-dataset.com/boxy/) | [2D Box](https://boxy-dataset.com/boxy/benchmark_2d) | [3D Box](https://boxy-dataset.com/boxy/benchmark_3d) | [Realtime](https://boxy-dataset.com/boxy/benchmark_realtime)
 + **COCO Dataset** - COCO Consortium by Tsung-Yi Lin, et. al. (2015): [Web](http://cocodataset.org/) | [Download](http://cocodataset.org/#download)
