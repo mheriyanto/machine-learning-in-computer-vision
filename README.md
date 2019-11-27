@@ -159,7 +159,7 @@
 + **Multiple Object Tracking (MOT) Benchmark**: [**MOT16** -  Univ. of Adelaide by A. Milan, et. al. (2016)](https://motchallenge.net/data/MOT16/) | [**KITTI**](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
 + **YouTube**: [YouTube-BoundingBoxes Dataset](https://research.google.com/youtube-bb/) - E. Real, et. al. | [YouTube-8M Dataset](https://research.google.com/youtube8m/) - S. Abu-El-Haija, et. al. (2017) | [YouTube-VOS Dataset](https://youtube-vos.org/dataset/) - Ning Xu, et. al. (2018)
 
-## Journals and Magazines
+## Journals, Magazines, and People
 <ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [datascienceID](https://datascience.or.id/) | [tau-dataID](https://tau-data.id/) | [aidi.id](http://aidi.id/) | [idbigdata](https://idbigdata.com/official/)
 + **AI**: [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
 + **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home) | [DS - ID](https://datascience.or.id/)
