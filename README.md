@@ -160,6 +160,12 @@
 + **YouTube**: [YouTube-BoundingBoxes Dataset](https://research.google.com/youtube-bb/) - E. Real, et. al. | [YouTube-8M Dataset](https://research.google.com/youtube8m/) - S. Abu-El-Haija, et. al. (2017) | [YouTube-VOS Dataset](https://youtube-vos.org/dataset/) - Ning Xu, et. al. (2018)
 
 ## Journals, Magazines, and People
+<ins>**Journals**</ins>
++ **AI**: [Artificial Intelligence (Q1)](https://www.journals.elsevier.com/artificial-intelligence/) | [Journal of Artificial Intelligence Research (Q1)](https://www.jair.org/index.php/jair) | [Artificial Intelligence Review (Q1)](https://www.springer.com/journal/10462)
++ **Data Science**: [EPJ Data Science (Q1)](https://link.springer.com/journal/13688) | [Data Science Journal (Q3)](https://datascience.codata.org/)
++ **Machine Learning**: [Journal of Machine Learning Research (Q1)](http://jmlr.csail.mit.edu/) | [Machine Learning (Q1)](https://www.springer.com/computer/ai/journal/10994) | [Foundations and Trends in Machine Learning (Q1)](https://www.nowpublishers.com/mal)
++ **Computer Vision**: [Image and Vision Computing (Q1)](https://www.journals.elsevier.com/image-and-vision-computing/) | [Computer Vision and Image Understanding (Q1)](https://www.journals.elsevier.com/computer-vision-and-image-understanding) | [International Journal of Computer Vision (Q1)](https://www.springer.com/journal/11263)
+
 <ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [datascienceID](https://datascience.or.id/) | [tau-dataID](https://tau-data.id/) | [aidi.id](http://aidi.id/) | [idbigdata](https://idbigdata.com/official/)
 + **AI**: [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
 + **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home) | [DS - ID](https://datascience.or.id/)
@@ -167,11 +173,9 @@
 + **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing)
 + **Computer Vision**: [paperswithcode - CV](https://paperswithcode.com/area/computer-vision)
 
-<ins>**Journals**</ins>
-+ **AI**: [Artificial Intelligence (Q1)](https://www.journals.elsevier.com/artificial-intelligence/) | [Journal of Artificial Intelligence Research (Q1)](https://www.jair.org/index.php/jair) | [Artificial Intelligence Review (Q1)](https://www.springer.com/journal/10462)
-+ **Data Science**: [EPJ Data Science (Q1)](https://link.springer.com/journal/13688) | [Data Science Journal (Q3)](https://datascience.codata.org/)
-+ **Machine Learning**: [Journal of Machine Learning Research (Q1)](http://jmlr.csail.mit.edu/) | [Machine Learning (Q1)](https://www.springer.com/computer/ai/journal/10994) | [Foundations and Trends in Machine Learning (Q1)](https://www.nowpublishers.com/mal)
-+ **Computer Vision**: [Image and Vision Computing (Q1)](https://www.journals.elsevier.com/image-and-vision-computing/) | [Computer Vision and Image Understanding (Q1)](https://www.journals.elsevier.com/computer-vision-and-image-understanding) | [International Journal of Computer Vision (Q1)](https://www.springer.com/journal/11263)
+<ins>**People**</ins>:
++ **AI**: [Igi Ardiyanto, Dr (Robotics, Toyohashi University of Technology)](https://www.linkedin.com/in/igi-ardiyanto-07516766)
++ **Data Science**: [Andry Alamsyah, PhD (Social Network & Big Data, ITB))](https://www.linkedin.com/in/andryalamsyah) | [Taufik Sutanto, PhD (Data Science, Queensland University of Technology)](https://www.linkedin.com/in/taufikedys)
 
 ## Data Science for Geoscientists
 Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
