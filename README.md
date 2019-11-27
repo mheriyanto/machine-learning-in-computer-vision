@@ -174,7 +174,7 @@
 + **Computer Vision**: [paperswithcode - CV](https://paperswithcode.com/area/computer-vision)
 
 <ins>**People**</ins>:
-+ **AI**: [Igi Ardiyanto, Dr (Robotics, Toyohashi University of Technology)](https://www.linkedin.com/in/igi-ardiyanto-07516766)
++ **AI**: [Igi Ardiyanto, Dr (Robotics, Toyohashi University of Technology)](https://www.linkedin.com/in/igi-ardiyanto-07516766) | [Muhammad Ghifary, PhD (AI, Victoria University of Wellington)](https://www.linkedin.com/in/muhammad-ghifary-75056722)
 + **Data Science**: [Andry Alamsyah, PhD (Social Network & Big Data, ITB))](https://www.linkedin.com/in/andryalamsyah) | [Taufik Sutanto, PhD (Data Science, Queensland University of Technology)](https://www.linkedin.com/in/taufikedys)
 + **Machine Learning**: [Dwi H. Widyantoro, Dr (Machine Learning, Texas A&M University)](https://scholar.google.com/citations?user=lyaV0HgAAAAJ&hl=en)
 
