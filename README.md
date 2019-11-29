@@ -132,6 +132,8 @@
 + **Deep Learning with PyTorch 1.0** (S. Yogesh K, 2019. Packt): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
 + :star: **Deep Learning with PyTorch** (V. Subramanian, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-PyTorch?style=social)
 + **Deep Learning with Keras** (S. Pal & A. Gulli, 2017. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-Keras?style=social)
++ <ins>**Project Templates**</ins>
+  + PyTorch: [victoresque](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social) | [moemen95](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social) | [L1aoXingyu](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
 
 ## Research Group
 <ins>**Universities**</ins>
@@ -167,7 +169,7 @@
 + **Computer Vision**: [Image and Vision Computing (Q1)](https://www.journals.elsevier.com/image-and-vision-computing/) | [Computer Vision and Image Understanding (Q1)](https://www.journals.elsevier.com/computer-vision-and-image-understanding) | [International Journal of Computer Vision (Q1)](https://www.springer.com/journal/11263)
 
 <ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [datascienceID](https://datascience.or.id/) | [tau-dataID](https://tau-data.id/) | [aidi.id](http://aidi.id/) | [idbigdata](https://idbigdata.com/official/)
-+ **AI**: [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
++ **AI**: [towards-artificial-intelligence - AI ](https://medium.com/towards-artificial-intelligence) | [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
 + **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home) | [DS - ID](https://datascience.or.id/)
 + **Machine Learning**: [towardsdatascience - ML](https://towardsdatascience.com/machine-learning/home) | [ML - ID](https://medium.com/@machinelearningid)
 + **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing)
