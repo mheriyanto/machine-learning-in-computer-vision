@@ -16,7 +16,7 @@
 + :star: [Awesome Artificial Intelligence - Lightman Wang](https://github.com/hades217/awesome-ai) ![GitHub stars](https://img.shields.io/github/stars/hades217/awesome-ai?style=social) (General)
 + [Awesome Artificial Intelligence (AI) - Owain Lewis](https://github.com/owainlewis/awesome-artificial-intelligence) ![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?style=social) (General)
 + A list of artificial intelligence tools you can use today - for: [1. Personal use](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f), [2. Business use — Enterprise Intelligence](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835), [2. Business use (cont’d) — Enterprise Functions](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-continued-21bf14280250), and [3. Industry specific businesses](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-industry-specific-3-3-5e16c68da697)
-+ [Machine Learning and Data Science Applications in Industry - FirmAI](https://github.com/firmai/industry-machine-learning#agriculture-econ) ![GitHub stars](https://img.shields.io/github/stars/firmai/industry-machine-learning#agriculture-econ?style=social) (List)
++ FirmAI - [ML and DS Applications in **Industry**](https://github.com/firmai/industry-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/firmai/business-machine-learning?style=social) | [ML and DS Applications in **Business**](https://github.com/firmai/business-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/firmai/business-machine-learning?style=social) | [ML and DS Applications in **Asset Management**](https://github.com/firmai/machine-learning-asset-management) ![GitHub stars](https://img.shields.io/github/stars/firmai/machine-learning-asset-management?style=social) | [ML and DS Applications in **Financial**](https://github.com/firmai/financial-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/firmai/financial-machine-learning?style=social)
 
 <ins>**Data Science**</ins>
 + [Awesome Datascience - Academic.io](https://github.com/academic/awesome-datascience) ![GitHub stars](https://img.shields.io/github/stars/academic/awesome-datascience?style=social) (General)
@@ -151,7 +151,7 @@
 
 <ins>**Products**</ins>
 
-**Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) | **AI**: [Ultralytics LLC](https://github.com/ultralytics)
+**Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) | **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) 
 
 ## Datasets
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
