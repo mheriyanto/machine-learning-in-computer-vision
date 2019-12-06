@@ -153,6 +153,9 @@
 
 **Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) | **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) 
 
+<ins>**AI Start-Up in Indonesia**</ins>
+[nodeflux.io](https://www.nodeflux.io/) | [kata.ai](https://kata.ai/) | [pacmannai](http://www.pacmannai.com/) | [prosa.ai](https://prosa.ai/) | [bahasa.ai](https://www.bahasa.ai/) | [eureka.ai](https://eureka.ai/) 
+
 ## Datasets
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
 + **CIFAR10 Dataset** - University of Toronto by Alex Krizhevsky (2009): [Raw](https://www.cs.toronto.edu/~kriz/cifar.html)
