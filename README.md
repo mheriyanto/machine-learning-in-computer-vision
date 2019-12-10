@@ -158,6 +158,7 @@
 [nodeflux.io](https://www.nodeflux.io/) | [kata.ai](https://kata.ai/) | [pacmannai](http://www.pacmannai.com/) | [prosa.ai](https://prosa.ai/) | [bahasa.ai](https://www.bahasa.ai/) | [eureka.ai](https://eureka.ai/) 
 
 ## Datasets
+[cvpapers.com](http://www.cvpapers.com/datasets.html) | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
 + **CIFAR10 Dataset** - University of Toronto by Alex Krizhevsky (2009): [Raw](https://www.cs.toronto.edu/~kriz/cifar.html)
 + **KITTI Dataset** - University of Tübingen by Andreas Geiger (2012): [Raw](http://www.cvlibs.net/datasets/kitti/raw_data.php) | [Object 2D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) | [Object 3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) | [Bird's Eye View](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev)
