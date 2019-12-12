@@ -168,19 +168,19 @@
 + **YouTube**: [YouTube-BoundingBoxes Dataset](https://research.google.com/youtube-bb/) - E. Real, et. al. | [YouTube-8M Dataset](https://research.google.com/youtube8m/) - S. Abu-El-Haija, et. al. (2017) | [YouTube-VOS Dataset](https://youtube-vos.org/dataset/) - Ning Xu, et. al. (2018)
 
 ## Create Datasets
-+ Dataset Tools
++ **Dataset Tools**
   + [Dataset Search - google](https://toolbox.google.com/datasetsearch)
-  + [awesome dataset tools - A curated list of awesome dataset tools](https://github.com/jsbroks/awesome-dataset-tools)
+  + [awesome dataset tools - a curated list of awesome dataset tools](https://github.com/jsbroks/awesome-dataset-tools)
   + [labelImg - a graphical image annotation tool and label object bounding boxes in images](https://github.com/tzutalin/labelImg)
-  + [RectLabel - An image annotation tool to label images for bounding box object detection and segmentation](https://github.com/ryouchinsa/Rectlabel-support)
-+ 3D Box Dataset
-  + [Beat the MTurkers](http://liangchiehchen.com/projects/beat_the_MTurkers.html) | [Code](https://bitbucket.org/liang_chieh_chen/segkitti/src/master/)
+  + [RectLabel - an image annotation tool to label images for bounding box object detection and segmentation](https://github.com/ryouchinsa/Rectlabel-support)
++ **3D Box Dataset**
+  + [Beat the MTurkers - Liang-Chieh Chen](http://liangchiehchen.com/projects/beat_the_MTurkers.html) | [Code](https://bitbucket.org/liang_chieh_chen/segkitti/src/master/)
   + [3D Cuboids Annotation Tool - playment.io](https://playment.io/3d-cuboids-annotation-tool/) | [Video](https://www.youtube.com/watch?v=KWyFnXKvBCc) | [Doc](https://docs.playment.io/reference#cuboid)
   + [3D Cuboid Annotation - cogitotech.com](https://www.cogitotech.com/3d-cuboid-annotation/)
-+ 3D Box Point Cloud Dataset
-  + [Point Cloud Annotation Tool - Annotate 3D boxes in point cloud](https://github.com/springzfx/point-cloud-annotation-tool)
-  + [KITTI 3d annotator - Annotation tool for labeling KITTI dataset 3D ground truth instance segmentation](https://github.com/brian-h-wang/kitti-3d-annotator)
-+ Products: [scalabel.ai](https://www.scalabel.ai) | [labelbox.com](https://labelbox.com/) 
++ **3D Box Point Cloud Dataset**
+  + [Point Cloud Annotation Tool - annotate 3D boxes in point cloud](https://github.com/springzfx/point-cloud-annotation-tool)
+  + [KITTI 3d annotator - annotation tool for labeling KITTI dataset 3D ground truth instance segmentation](https://github.com/brian-h-wang/kitti-3d-annotator)
++ **Products**: [scalabel.ai](https://www.scalabel.ai) | [labelbox.com](https://labelbox.com/) 
 
 ## Journals, Magazines, and People
 <ins>**Journals**</ins>
