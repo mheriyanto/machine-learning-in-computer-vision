@@ -168,6 +168,11 @@
 + **YouTube**: [YouTube-BoundingBoxes Dataset](https://research.google.com/youtube-bb/) - E. Real, et. al. | [YouTube-8M Dataset](https://research.google.com/youtube8m/) - S. Abu-El-Haija, et. al. (2017) | [YouTube-VOS Dataset](https://youtube-vos.org/dataset/) - Ning Xu, et. al. (2018)
 
 ## Create Datasets
++ **Get Image from Sources**
+  + [Creating a dataset using an API with Python](https://towardsdatascience.com/creating-a-dataset-using-an-api-with-python-dcc1607616d)
+  + [How to create a dataset in Google Colab for your Machine Learning projects](https://medium.com/@gianfrancescoangelini/how-to-create-a-dataset-in-google-colab-for-your-machine-learning-projects-c1852d62936e)
+  + [How to (quickly) build a deep learning image dataset](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
+  + [Tips for building large image datasets](https://forums.fast.ai/t/tips-for-building-large-image-datasets/26688)
 + **Dataset Tools**
   + [Dataset Search - google](https://toolbox.google.com/datasetsearch)
   + [awesome dataset tools - a curated list of awesome dataset tools](https://github.com/jsbroks/awesome-dataset-tools)
