@@ -66,6 +66,7 @@
 + :star: [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) (General) 
 + :star: [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) (Roadmap) 
 + [Awesome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
++ [Awesome 3D Point Cloud Analysis - Yongcheng](https://github.com/Yochengliu/awesome-point-cloud-analysis) ![GitHub stars](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis) (Roadmap)
 + <ins>**Edge Detection**</ins>:
   + :star: [Awesome Edge Detection Papers - Haoran MO](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers) ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Edge-Detection-Papers?style=social)
   + [Awesome Background Subtraction - Murari Mandal](https://github.com/murari023/awesome-background-subtraction) ![GitHub stars](https://img.shields.io/github/stars/murari023/awesome-background-subtraction?style=social)
