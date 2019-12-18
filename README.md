@@ -8,6 +8,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mheriyanto/Data-Science)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://id.linkedin.com/in/mheriyanto)
 
 :star: - Recommendations for Beginners.
 
