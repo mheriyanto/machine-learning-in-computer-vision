@@ -1,4 +1,4 @@
-## Data Science, Machine Learning, Deep Learning, and Computer Vision
+## Data Science, Machine Learning, Deep Learning, and Computer Vision References
 > Data is [the new oil](https://medium.com/project-2030/data-is-the-new-oil-a-ludicrous-proposition-1d91bba4f294)? No: Data is [the new soil](https://towardsdatascience.com/data-is-not-the-new-oil-bdb31f61bc2d). ~ David McCandless
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/Data-Science/issues)
@@ -101,7 +101,8 @@
 + :star: **Computer Vision: Models, Learning, and Inference** (Simon J.D. Prince 2012. Cambridge University Pres): [**Web**](http://www.computervisionmodels.com/) | [**Buku**](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | [**GitHub**](https://github.com/krishnadubba/python_cvmodels)![GitHub stars](https://img.shields.io/github/stars/krishnadubba/python_cvmodels?style=social) | [**Matlab Code**](www.cs.ucl.ac.uk/external/s.prince/book/CVM.rar)
 + **Computer Vision: Algorithms and Application** (R. Szeliski 2010. Springer): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation)![GitHub stars](https://img.shields.io/github/stars/sntchaitu/computer-vision-Algorithms-implementation?style=social) | [**Web**](http://szeliski.org/Book/)
 
-## with Python
+## All with Python
+<ins>**Basic Python Books**</ins>
 + :star: **Python 3 Object-oriented Programming** (D. Phillips. 2015. O'Reilly Media): [**Buku**](https://www.oreilly.com/library/view/python-3-object-oriented/9781784398781/) | [**GitHub**](https://github.com/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition?style=social) | [**Web**](https://dusty.phillips.codes/books/)
 + :star: **Learning Python Design Patterns** (G. Zlobin. 2013. Packt): [**Buku**](https://www.packtpub.com/application-development/learning-python-design-patterns) | [**GitHub**](https://github.com/freephys/Learning-Python-Design-Patterns)![GitHub stars](https://img.shields.io/github/stars/freephys/Learning-Python-Design-Patterns?style=social)
 + **Mastering Python Design Patterns** (S. Kasampalis & K. Ayeva. 2018. Packt): [**Buku**](https://www.packtpub.com/application-development/mastering-python-design-patterns-second-edition) | [**GitHub**](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition?style=social)
@@ -138,7 +139,7 @@
 + <ins>**Project Templates**</ins>
   + PyTorch: [victoresque](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social) | [moemen95](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social) | [L1aoXingyu](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
 
-## Research Group
+## Research Groups
 <ins>**Universities**</ins>
 
 [**Standford Univ - Machine Learning Group**](https://stanfordmlgroup.github.io/) ([Prof. Andrew Ng](https://www.linkedin.com/in/andrewyng/)) | [**Standford Univ - Vision and Learning Lab**](http://vision.stanford.edu/) ([Prof. Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/)) | [**Univ of Montreal - Mila**](https://mila.quebec/en/) ([Prof. Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/)) | [**New York Univ - CILVR Lab**](https://wp.nyu.edu/cilvr/) ([Prof. Yann LeCun](http://yann.lecun.com/)) | [**Univ of Toronto - Machine Learning**](http://learning.cs.toronto.edu/) ([Prof. Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)) | [**Barkeley Univ - Artificial Intelligence Research (BAIR) Lab**](https://vision.berkeley.edu/) ([Prof. Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/))
@@ -211,7 +212,6 @@
 + **Machine Learning**: [Dwi H. Widyantoro, Dr (Machine Learning, Texas A&M University)](https://scholar.google.com/citations?user=lyaV0HgAAAAJ&hl=en)
 
 ## Data Science for Geoscientists
-Berangkat dari bidang keilmuan penulis yaitu Geofisika, maka akan dihimpun beberapa source code yang telah ada dan dimodifikasi sedemikian rupa menyesuaikan kebutuhan, kemudian akan diarsipkan dalam repositori ini.
 
 + [Unsupervised Machine Learning untuk Well Data](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)
 + [Inversion vs Machine Learning](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
