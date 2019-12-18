@@ -86,6 +86,12 @@
 + [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) ![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social) (General) 
 + :star: [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) ![GitHub stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=social) (Tutorial)
 
+<ins>**Visualization**</ins>
++ [Awesome dataviz - Fabio Souto](https://github.com/fasouto/awesome-dataviz)
++ [Tool for visualizing GitHub profiles - David](https://github.com/tipsy/profile-summary-for-github)
++ [An elegant, interactive and flexible charting library for mobile - antvis](https://github.com/antvis/F2)
++ products: [d3js](https://github.com/d3/d3) | [bokeh](https://github.com/bokeh/bokeh) | [plotly](https://github.com/plotly/plotly.js)
+
 ## Concepts
 <ins>**Machine Learning Concepts**</ins>
 + :star: **Pengenalan Pembelajaran Mesin dan Deep Learning** (J.W.G. Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
