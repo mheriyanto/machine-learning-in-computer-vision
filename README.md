@@ -87,10 +87,10 @@
 + :star: [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) ![GitHub stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=social) (Tutorial)
 
 <ins>**Visualization**</ins>
-+ [Awesome dataviz - Fabio Souto](https://github.com/fasouto/awesome-dataviz)
-+ [Tool for visualizing GitHub profiles - David](https://github.com/tipsy/profile-summary-for-github)
-+ [An elegant, interactive and flexible charting library for mobile - antvis](https://github.com/antvis/F2)
-+ products: [d3js](https://github.com/d3/d3) | [bokeh](https://github.com/bokeh/bokeh) | [plotly](https://github.com/plotly/plotly.js)
++ [Awesome dataviz - Fabio Souto](https://github.com/fasouto/awesome-dataviz) ![GitHub stars](https://img.shields.io/github/stars/fasouto/awesome-dataviz?style=social)
++ [Tool for visualizing GitHub profiles - David](https://github.com/tipsy/profile-summary-for-github) ![GitHub stars](https://img.shields.io/github/stars/tipsy/profile-summary-for-github?style=social)
++ [An elegant, interactive and flexible charting library for mobile - antvis](https://github.com/antvis/F2) ![GitHub stars](https://img.shields.io/github/stars/antvis/F2?style=social)
++ products: [d3js](https://github.com/d3/d3) ![GitHub stars](https://img.shields.io/github/stars/d3/d3?style=social) | [bokeh](https://github.com/bokeh/bokeh) ![GitHub stars](https://img.shields.io/github/stars/bokeh/bokeh?style=social) | [plotly](https://github.com/plotly/plotly.js) ![GitHub stars](https://img.shields.io/github/stars/plotly/plotly.js?style=social)
 
 ## Concepts
 <ins>**Machine Learning Concepts**</ins>
