@@ -91,6 +91,10 @@
 + [An elegant, interactive and flexible charting library for mobile - antvis](https://github.com/antvis/F2) ![GitHub stars](https://img.shields.io/github/stars/antvis/F2?style=social)
 + products: [d3js](https://github.com/d3/d3) ![GitHub stars](https://img.shields.io/github/stars/d3/d3?style=social) | [bokeh](https://github.com/bokeh/bokeh) ![GitHub stars](https://img.shields.io/github/stars/bokeh/bokeh?style=social) | [plotly](https://github.com/plotly/plotly.js) ![GitHub stars](https://img.shields.io/github/stars/plotly/plotly.js?style=social)
 
+<ins>**Production**</ins>
++ [Deep Learning in Production - Amir Hossein Karami](https://github.com/ahkarami/Deep-Learning-in-Production) (Roadmap)
++ PyTorch: [Deploying PyTorch using Flask and expose a REST API for model inference](https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html) | [Model Serving in PyTorch](https://pytorch.org/blog/model-serving-in-pyorch/)
+
 ## Concepts
 <ins>**Machine Learning Concepts**</ins>
 + :star: **Pengenalan Pembelajaran Mesin dan Deep Learning** (J.W.G. Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
