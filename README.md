@@ -3,9 +3,7 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/Data-Science/issues)
 ![GitHub contributors](https://img.shields.io/github/contributors/mheriyanto/Data-Science.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/mheriyanto/Data-Science/total.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/Data-Science)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mheriyanto/Data-Science)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://id.linkedin.com/in/mheriyanto)
