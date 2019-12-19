@@ -38,11 +38,11 @@
   + [opensanctions - alephdata](https://github.com/alephdata/opensanctions) ![GitHub stars](https://img.shields.io/github/stars/alephdata/opensanctions?style=social) 
   + [sherlock - sherlock-project](https://github.com/sherlock-project/sherlock) ![GitHub stars](https://img.shields.io/github/stars/sherlock-project/sherlock?style=social) 
   + [Stocktalk - anfederico](https://github.com/anfederico/Stocktalk) ![GitHub stars](https://img.shields.io/github/stars/anfederico/Stocktalk?style=social) 
-  + [tweets_analyzer - x0rz](https://github.com/x0rz/tweets_analyzer) ![GitHub stars](https://img.shields.io/github/stars/x0rz/tweets_analyzer?style=social)
+  + [tweets analyzer - x0rz](https://github.com/x0rz/tweets_analyzer) ![GitHub stars](https://img.shields.io/github/stars/x0rz/tweets_analyzer?style=social)
 + <ins>**Business**</ins>: 
   + [odoo - odoo](https://github.com/odoo/odoo) ![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social) 
   + [mining - mining](https://github.com/mining/mining) ![GitHub stars](https://img.shields.io/github/stars/mining/mining?style=social) 
-  + [facebook-python-business-sdk - facebook](https://github.com/facebook/facebook-python-business-sdk) ![GitHub stars](https://img.shields.io/github/stars/facebook/facebook-python-business-sdk?style=social)
+  + [facebook python business sdk - facebook](https://github.com/facebook/facebook-python-business-sdk) ![GitHub stars](https://img.shields.io/github/stars/facebook/facebook-python-business-sdk?style=social)
 + <ins>**Others**</ins>: 
   + [Data science blogs - rushter](https://github.com/rushter/data-science-blogs) ![GitHub stars](https://img.shields.io/github/stars/rushter/data-science-blogs?style=social) 
   + [Data Science from Scratch - joelgrus](https://github.com/joelgrus/data-science-from-scratch) ![GitHub stars](https://img.shields.io/github/stars/joelgrus/data-science-from-scratch?style=social) 
@@ -58,8 +58,8 @@
 + [Awesome Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
 + <ins>**Others**</ins>: 
   + [mlcourse.ai - Yorko](https://github.com/Yorko/mlcourse.ai) ![GitHub stars](https://img.shields.io/github/stars/Yorko/mlcourse.ai?style=social) 
-  + [machine_learning_examples - lazyprogrammer](https://github.com/lazyprogrammer/machine_learning_examples) ![GitHub stars](https://img.shields.io/github/stars/lazyprogrammer/machine_learning_examples?style=social) 
-  + [ML-From-Scratch - eriklindernoren](https://github.com/eriklindernoren/ML-From-Scratch) ![GitHub stars](https://img.shields.io/github/stars/eriklindernoren/ML-From-Scratch?style=social)
+  + [machine learning examples - lazyprogrammer](https://github.com/lazyprogrammer/machine_learning_examples) ![GitHub stars](https://img.shields.io/github/stars/lazyprogrammer/machine_learning_examples?style=social) 
+  + [ML From Scratch - eriklindernoren](https://github.com/eriklindernoren/ML-From-Scratch) ![GitHub stars](https://img.shields.io/github/stars/eriklindernoren/ML-From-Scratch?style=social)
 
 <ins>**Deep Learning**</ins>
 + :star: [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) (General) 
