@@ -66,6 +66,7 @@
 <ins>**Deep Learning**</ins>
 + :star: [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) (General) 
 + :star: [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) (Roadmap) 
++ [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) ![GitHub stars](https://img.shields.io/github/stars/fchollet/deep-learning-with-python-notebooks?style=social) (Tutorial) 
 + [Awesome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
 + [Awesome 3D Point Cloud Analysis - Yongcheng](https://github.com/Yochengliu/awesome-point-cloud-analysis) ![GitHub stars](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis?style=social) (Roadmap)
 + <ins>**Edge Detection**</ins>:
