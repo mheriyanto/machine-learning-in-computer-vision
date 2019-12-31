@@ -209,17 +209,3 @@
 + **AI**: [Igi Ardiyanto, Dr (Robotics, Toyohashi University of Technology)](https://www.linkedin.com/in/igi-ardiyanto-07516766) | [Muhammad Ghifary, PhD (AI, Victoria University of Wellington)](https://www.linkedin.com/in/muhammad-ghifary-75056722)
 + **Data Science**: [Andry Alamsyah, PhD (Social Network & Big Data, ITB))](https://www.linkedin.com/in/andryalamsyah) | [Taufik Sutanto, PhD (Data Science, Queensland University of Technology)](https://www.linkedin.com/in/taufikedys)
 + **Machine Learning**: [Dwi H. Widyantoro, Dr (Machine Learning, Texas A&M University)](https://scholar.google.com/citations?user=lyaV0HgAAAAJ&hl=en)
-
-## Data Science for Geoscientists
-
-+ [Unsupervised Machine Learning untuk Well Data](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)
-+ [Inversion vs Machine Learning](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion)
-
-<ins>**AI Products in Geosciences**</ins>: 
-+ :star: [**ezygeo**](https://ezygeo.com/) - AI for Geoscience: [Github](https://github.com/ezygeo-ai)
-+ [**Corva**](https://www.corva.ai/) - provides drilling analytics and other insights for gas and oil: [Github](https://github.com/corva-ai)
-+ [**Agile**](https://agilescientific.com/) - a daring scientific computing company: [Github](https://github.com/agile-geoscience)
-+ [**Earth Lab**](https://www.earthdatascience.org/) - Learn to use earth science and other data in R & Python: [Github](https://github.com/earthlab)
-+ [**deepVector**](https://www.linkedin.com/in/witold-c/) - geoscientific startup providing geospatial data science, exploration target generation and risk assessment services: [GitHub](https://github.com/deepVector)
-+ [**Pangeo**](http://pangeo.io/) - A community effort for big data geoscience: [Github](https://github.com/pangeo-data)
-+ [**Software Underground**](https://softwareunderground.org/) - Connecting geo/computing researchers: [Github](https://github.com/softwareunderground)
