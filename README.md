@@ -23,7 +23,7 @@
 + :star: [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) ![GitHub stars](https://img.shields.io/github/stars/krzjoa/awesome-python-datascience?style=social) (Framework)
 + [Awesome Time Series in Python - Maximilian Christ](https://github.com/MaxBenChrist/awesome_time_series_in_python) ![GitHub stars](https://img.shields.io/github/stars/MaxBenChrist/awesome_time_series_in_python?style=social) (General)
 + :star: [Awesome Causality Algorithms - Ruocheng Guo](https://github.com/rguo12/awesome-causality-algorithms) ![GitHub stars](https://img.shields.io/github/stars/rguo12/awesome-causality-algorithms?style=social) (General)
-+ [Data Science Cheat Sheet - abhat222](https://github.com/abhat222/Data-Science--Cheat-Sheet) ![GitHub stars](https://img.shields.io/github/stars/abhat222/Data-Science--Cheat-Sheet?style=social) (Cheat Sheet)
++ [Data Science Cheat Sheet - abhat222](https://github.com/abhat222/Data-Science--Cheat-Sheet) ![GitHub stars](https://img.shields.io/github/stars/abhat222/Data-Science--Cheat-Sheet?style=social) > [afshine amidi](https://www.mit.edu/~amidi/) & [shevrine amidi](https://stanford.edu/~shervine/) (Cheat Sheet) 
 + <ins>**Stock Prediction**</ins>: 
   + [Stock Prediction Models - huseinzol05](https://github.com/huseinzol05/Stock-Prediction-Models) ![GitHub stars](https://img.shields.io/github/stars/huseinzol05/Stock-Prediction-Models?style=social) 
   + [Machine Learning Stocks - robertmartin8](https://github.com/robertmartin8/MachineLearningStocks) ![GitHub stars](https://img.shields.io/github/stars/robertmartin8/MachineLearningStocks?style=social) 
