@@ -111,7 +111,7 @@
 + :star: **Deep Learning** (I. Goodfellow, Y. Bengio, & A. Courville. 2016. The MIT Press): [**Buku**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [**Web**](https://www.deeplearningbook.org/)
 
 <ins>**Computer Vision Concepts**</ins>
-+ :star: **Computer Vision: Models, Learning, and Inference** (Simon J.D. Prince 2012. Cambridge University Pres): [**Web**](http://www.computervisionmodels.com/) | [**Buku**](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | [**GitHub**](https://github.com/krishnadubba/python_cvmodels)![GitHub stars](https://img.shields.io/github/stars/krishnadubba/python_cvmodels?style=social) | [**Matlab Code**](www.cs.ucl.ac.uk/external/s.prince/book/CVM.rar)
++ :star: **Computer Vision: Models, Learning, and Inference** (Simon J.D. Prince 2012. Cambridge University Pres): [**Web**](http://www.computervisionmodels.com/) | [**Buku**](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf) | [**GitHub**](https://github.com/krishnadubba/python_cvmodels)![Gihttps://deeplearning.mit.edu/tHub stars](https://img.shields.io/github/stars/krishnadubba/python_cvmodels?style=social) | [**Matlab Code**](www.cs.ucl.ac.uk/external/s.prince/book/CVM.rar)
 + **Computer Vision: Algorithms and Application** (R. Szeliski 2010. Springer): [**Buku**](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) | [**GitHub**](https://github.com/sntchaitu/computer-vision-Algorithms-implementation)![GitHub stars](https://img.shields.io/github/stars/sntchaitu/computer-vision-Algorithms-implementation?style=social) | [**Web**](http://szeliski.org/Book/)
 
 ## All with Python
@@ -156,7 +156,12 @@
 ## Research Groups
 <ins>**Universities**</ins>
 
-[**Standford Univ - Machine Learning Group**](https://stanfordmlgroup.github.io/) ([Prof. Andrew Ng](https://www.linkedin.com/in/andrewyng/)) | [**Standford Univ - Vision and Learning Lab**](http://vision.stanford.edu/) ([Prof. Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/)) | [**Univ of Montreal - Mila**](https://mila.quebec/en/) ([Prof. Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/)) | [**New York Univ - CILVR Lab**](https://wp.nyu.edu/cilvr/) ([Prof. Yann LeCun](http://yann.lecun.com/)) | [**Univ of Toronto - Machine Learning**](http://learning.cs.toronto.edu/) ([Prof. Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)) | [**Barkeley Univ - Artificial Intelligence Research (BAIR) Lab**](https://vision.berkeley.edu/) ([Prof. Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/))
++ [**Standford Univ - Machine Learning Group**](https://stanfordmlgroup.github.io/) ([Prof. Andrew Ng](https://www.linkedin.com/in/andrewyng/)) 
++ [**Standford Univ - Vision and Learning Lab**](http://vision.stanford.edu/) ([Prof. Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/)) 
++ [**Univ of Montreal - Mila**](https://mila.quebec/en/) ([Prof. Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/))
++ [**New York Univ - CILVR Lab**](https://wp.nyu.edu/cilvr/) ([Prof. Yann LeCun](http://yann.lecun.com/)) | [**Univ of Toronto - Machine Learning**](http://learning.cs.toronto.edu/) ([Prof. Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/))
++ [**Barkeley Univ - Artificial Intelligence Research (BAIR) Lab**](https://vision.berkeley.edu/) ([Prof. Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)) 
++ [**MIT - Deep Learning**](https://deeplearning.mit.edu/) ([Lex Fridman](https://lexfridman.com/))
 
 <ins>**Corporations**</ins>
 
