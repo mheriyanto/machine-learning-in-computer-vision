@@ -139,11 +139,11 @@
 + :star: **Computer Vision with Python 3** (S. Kapur, 2017. Packt): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Computer-Vision-with-Python-3?style=social)
 
 ## Courses
-+ :star: **Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
-+ **Machine Learning** - Stanford by Andrew Ng in Coursera (2010-2014): [Coursera](https://www.coursera.org/learn/machine-learning)
 + **Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
++ :star: **Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
++ :star: **Neural Networks and Deep Learning** - Standford by Fei-Fei Li: [YouTube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
++ :star: **Deep Learning** - MIT by Lex Fridman: [GitHub](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [YouTube](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
 + **Deep Learning** - Stanford by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
-+ :star: **MIT Deep Learning related courses** - MIT by Lex Fridman: [GitHub](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social)
 
 ## Deep Learning Frameworks
 + **Deep Learning with TensorFlow** (G. Zaccone & Md.R. Karim, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-TensorFlow?style=social)
