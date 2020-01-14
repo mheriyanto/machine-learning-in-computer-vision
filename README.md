@@ -145,6 +145,7 @@
 + :star: **Deep Learning** - MIT by Lex Fridman: [GitHub](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [YouTube](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
 + **Deep Learning** - CMU by: [YouTube](https://www.youtube.com/watch?v=wqSZ5Z-Blpg&list=PLp-0K3kfddPzNdZPX4p0lVi6AcDXBofuf) | [Web](http://deeplearning.cs.cmu.edu/)
 + **Deep Learning** - Stanford by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
++ :star: **Deep Learning with PyTorch** - by  sentdex: [YouTube](https://www.youtube.com/watch?v=BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
 
 ## Deep Learning Frameworks
 + **Deep Learning with TensorFlow** (G. Zaccone & Md.R. Karim, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-TensorFlow?style=social)
