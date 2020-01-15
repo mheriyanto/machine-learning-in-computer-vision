@@ -141,7 +141,7 @@
 ## Courses
 + **Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
 + :star: **Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
-+ :star: **Neural Networks and Deep Learning** - Standford by Fei-Fei Li: [YouTube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
++ :star: **Neural Networks and Deep Learning** - Standford by Fei-Fei Li: [YouTube: 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 + :star: **Deep Learning** - MIT by Lex Fridman: [GitHub](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [YouTube](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
 + **Deep Learning** - CMU by: [YouTube](https://www.youtube.com/watch?v=wqSZ5Z-Blpg&list=PLp-0K3kfddPzNdZPX4p0lVi6AcDXBofuf) | [Web](http://deeplearning.cs.cmu.edu/)
 + **Deep Learning** - Stanford by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
