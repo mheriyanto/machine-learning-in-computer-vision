@@ -137,6 +137,7 @@
 
 <ins>**Computer Vision with Python**</ins>
 + :star: **Computer Vision with Python 3** (S. Kapur, 2017. Packt): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Computer-Vision-with-Python-3?style=social)
++ **Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images** (Jan Erik Solem, 2012. O'Reilly): [**Buku**](https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549)
 
 ## Courses
 + :star: **Standford Machine Learning** - Standford by Andrew Ng: [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
