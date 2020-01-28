@@ -141,7 +141,8 @@
 + **Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images** (Jan Erik Solem, 2012. O'Reilly): [**Buku**](https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549)
 
 ## Courses
-+ :star: **Standford Machine Learning** - Standford by Andrew Ng: [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
++ **Neural networks** - University De Sherbrooke by Hugo Larochelle (2013): [YouTube](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PLEAYkSg4uSQ39wGk8XawnlfFYvjVftvUe)
++ :star: **Standford Machine Learning** - Standford by Andrew Ng (2008): [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 + :star: **Caltech Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
 + :star: **Carnegie Mellon University Deep Learning** - CMU by: [YouTube](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) | [Web](http://deeplearning.cs.cmu.edu/)
 + :star: **Deeplearning.ai Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
