@@ -104,6 +104,7 @@
 + :star: **Pengenalan Pembelajaran Mesin dan Deep Learning** (J.W.G. Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
 + **Machine Learning Probabilistic Prespective** (K.P. Murphy, 2012. The MIT Press): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml)![GitHub stars](https://img.shields.io/github/stars/probml/pyprobml?style=social) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
 + **Pattern Recognition and Machine Learning** (C.M. Bishop. 2006. Springer): [**Buku**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML)![GitHub stars](https://img.shields.io/github/stars/ctgk/PRML?style=social) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
++ **Mathematics for Machine Learning** (M.P. Deisenroth. 2020. Cambridge University Press) [**Web**](https://mml-book.github.io/) | [**Buku**](https://mml-book.github.io/book/mml-book.pdf)
 
 <ins>**Deep Learning Concepts**</ins>
 + **Principles of Artificial Neural Networks** (Daniel Graupe, 2013): [**Buku**](https://www.worldscientific.com/worldscibooks/10.1142/8868)
