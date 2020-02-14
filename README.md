@@ -203,18 +203,23 @@
 + **BLVD Dataset** - Xian Jiaotong University by Jianru Xue, et. al. (2019): [Paper](https://arxiv.org/pdf/1903.06405.pdf) | [GitHub](https://github.com/VCCIV/BLVD)
 
 ## Benchmark
-[benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | 
+[benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | [MobilePhone - ai-benchmark.com](http://ai-benchmark.com/index.html) | GitHub > [deep-learning-benchmark - u39kun](https://github.com/u39kun/deep-learning-benchmark), [DeepBench - baidu-research](https://github.com/baidu-research/DeepBench)
++ Tools
+  + [Jetson Nano: Deep Learning Inference Benchmarks](https://developer.nvidia.com/embedded/jetson-nano-dl-inference-benchmarks)
+  + [2017-02 - Benchmarking State-of-the-Art Deep Learning Software Tools](https://arxiv.org/pdf/1608.07249.pdf)
+  + [2019-07 - Benchmarking TPU, GPU, and CPU Platforms for Deep Learning](https://arxiv.org/pdf/1907.10701.pdf)
 + Machine Learning
   + [mlperf.org](https://mlperf.org/) - Fair and useful benchmarks for measuring training and inference performance of ML hardware, software, and services. 
 + Object Classification
   + [MNIST](https://benchmarks.ai/mnist)
   + [CIFAR-10](https://benchmarks.ai/cifar-10)
   + [CIFAR-100](https://benchmarks.ai/cifar-100)
-  + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d)
 + Object Detection
   + [PASCAL VOC](https://benchmarks.ai/voc-2012-comp4)
   + [COCO](https://benchmarks.ai/coco-detection)
+  + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d)
 + Multi-Object Tracking
+  + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
 
 ## Create Datasets
 + **Get Image from Sources**
@@ -237,7 +242,7 @@
 + **AI**: [towards-artificial-intelligence - AI ](https://medium.com/towards-artificial-intelligence) | [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
 + **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home) | [DS - ID](https://datascience.or.id/)
 + **Machine Learning**: [towardsdatascience - ML](https://towardsdatascience.com/machine-learning/home) | [ML - ID](https://medium.com/@machinelearningid)
-+ **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing)
++ **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing) | [deeplearningweekly.com](https://www.deeplearningweekly.com/)
 + **Computer Vision**: [paperswithcode - CV](https://paperswithcode.com/area/computer-vision)
 
 <ins>**People**</ins>:
