@@ -191,7 +191,7 @@
 [nodeflux.io](https://www.nodeflux.io/) | [kata.ai](https://kata.ai/) | [pacmannai](http://www.pacmannai.com/) | [prosa.ai](https://prosa.ai/) | [bahasa.ai](https://www.bahasa.ai/) | [eureka.ai](https://eureka.ai/) 
 
 ## Datasets
-[cvpapers.com](http://www.cvpapers.com/datasets.html) | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) | [datasetlist.com](https://www.datasetlist.com/)
+[cvpapers.com](http://www.cvpapers.com/datasets.html) | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) | [datasetlist.com](https://www.datasetlist.com/) | [deeplearning.net](http://deeplearning.net/datasets/)
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
 + **CIFAR10 Dataset** - University of Toronto by Alex Krizhevsky (2009): [Raw](https://www.cs.toronto.edu/~kriz/cifar.html)
 + **COCO Dataset** - COCO Consortium by Tsung-Yi Lin, et. al. (2015): [Web](http://cocodataset.org/) | [Download](http://cocodataset.org/#download)
@@ -201,6 +201,20 @@
 + **Boxy Dataset** - bosch-ai by Karsten Behrendt (2019): [Web](https://boxy-dataset.com/boxy/) | [2D Box](https://boxy-dataset.com/boxy/benchmark_2d) | [3D Box](https://boxy-dataset.com/boxy/benchmark_3d) | [Realtime](https://boxy-dataset.com/boxy/benchmark_realtime)
 + **H3D Dataset** - Honda by Abhishek Patil et. al. (2019): [Paper](https://usa.honda-ri.com/documents/32932/126732/h3d_paper.pdf/6d92fba0-06f8-6a12-5d71-b6feb9ba0842) | [Web](https://usa.honda-ri.com/H3D) 
 + **BLVD Dataset** - Xian Jiaotong University by Jianru Xue, et. al. (2019): [Paper](https://arxiv.org/pdf/1903.06405.pdf) | [GitHub](https://github.com/VCCIV/BLVD)
+
+## Benchmark
+[benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | 
++ Machine Learning
+  + [mlperf.org](https://mlperf.org/) - Fair and useful benchmarks for measuring training and inference performance of ML hardware, software, and services. 
++ Object Classification
+  + [MNIST](https://benchmarks.ai/mnist)
+  + [CIFAR-10](https://benchmarks.ai/cifar-10)
+  + [CIFAR-100](https://benchmarks.ai/cifar-100)
+  + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d)
++ Object Detection
+  + [PASCAL VOC](https://benchmarks.ai/voc-2012-comp4)
+  + [COCO](https://benchmarks.ai/coco-detection)
++ Multi-Object Tracking
 
 ## Create Datasets
 + **Get Image from Sources**
