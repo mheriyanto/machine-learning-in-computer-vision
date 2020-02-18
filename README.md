@@ -100,6 +100,11 @@
 + PyTorch: :star: [Model Serving in PyTorch](https://pytorch.org/blog/model-serving-in-pyorch/) | [Deploying PyTorch using Flask and expose a REST API for model inference](https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html)
 
 ## Concepts
+<ins>**Mathematics Concepts**</ins>
++ **ProofWiki** (proofwiki.org): [**Web**](https://proofwiki.org/wiki/Main_Page)
++ **Book of Proof** (Richard Hammack, 2018, 3rd Ed.): [**Buku**](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf) | [**Web**](https://www.people.vcu.edu/~rhammack/BookOfProof/)
++ **Book of Proofs** (bookofproofs.org): [**Web**](https://www.bookofproofs.org/)
+
 <ins>**Machine Learning Concepts**</ins>
 + :star: **Pengenalan Pembelajaran Mesin dan Deep Learning** (J.W.G. Putra, 2019): [**Buku**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
 + **Machine Learning Probabilistic Prespective** (K.P. Murphy, 2012. The MIT Press): [**Buku**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml)![GitHub stars](https://img.shields.io/github/stars/probml/pyprobml?style=social) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
