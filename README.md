@@ -197,7 +197,7 @@
 + Data Analytics: [eureka.ai](https://eureka.ai/) 
 
 ## Datasets
-[cvpapers.com](http://www.cvpapers.com/datasets.html) | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) | [datasetlist.com](https://www.datasetlist.com/) | [deeplearning.net](http://deeplearning.net/datasets/)
+[cvpapers.com](http://www.cvpapers.com/datasets.html) | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) | [datasetlist.com](https://www.datasetlist.com/) | [deeplearning.net](http://deeplearning.net/datasets/) | [towardsai.net](https://towardsai.net/p/machine-learning/best-free-datasets-for-machine-learning-and-data-science/stanfordai/3451/)
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/)
 + **CIFAR10 Dataset** - University of Toronto by Alex Krizhevsky (2009): [Raw](https://www.cs.toronto.edu/~kriz/cifar.html)
 + **COCO Dataset** - COCO Consortium by Tsung-Yi Lin, et. al. (2015): [Web](http://cocodataset.org/) | [Download](http://cocodataset.org/#download)
