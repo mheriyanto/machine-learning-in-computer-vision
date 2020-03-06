@@ -189,7 +189,7 @@
 
 <ins>**Products**</ins>
 
-**Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) | **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) 
+**Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) | **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) | [deepdetect.com](https://www.deepdetect.com/)
 
 <ins>**AI Start-Up in Indonesia**</ins>
 + ChatBot: [kata.ai](https://kata.ai/) | [prosa.ai](https://prosa.ai/) | [bahasa.ai](https://www.bahasa.ai/) | [aichat.id](https://aichat.id/) | [konvergen.ai](https://konvergen.ai/)
