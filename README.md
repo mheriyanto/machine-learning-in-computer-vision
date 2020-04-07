@@ -59,6 +59,7 @@
 + [Python Machine Learning Jupyter Notebooks](https://github.com/tirthajyoti/Machine-Learning-with-Python) ![GitHub stars](https://img.shields.io/github/stars/tirthajyoti/Machine-Learning-with-Python?style=social) (Tutorial)
 + [Machine Learning Mindset](https://github.com/machinelearningmindset) (Roadmap)
 + [Awesome Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
++ [3D Machine Learning - Yuxuan (Tim) Zhang](https://github.com/timzhang642/3D-Machine-Learning) ![GitHub stars](https://img.shields.io/github/stars/timzhang642/3D-Machine-Learning?style=social)
 + <ins>**Others**</ins>: 
   + [mlcourse.ai - Yorko](https://github.com/Yorko/mlcourse.ai) ![GitHub stars](https://img.shields.io/github/stars/Yorko/mlcourse.ai?style=social) 
   + [machine learning examples - lazyprogrammer](https://github.com/lazyprogrammer/machine_learning_examples) ![GitHub stars](https://img.shields.io/github/stars/lazyprogrammer/machine_learning_examples?style=social) 
