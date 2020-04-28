@@ -194,7 +194,7 @@
 
 <ins>**AI Start-Up in Indonesia**</ins>
 + ChatBot: [kata.ai](https://kata.ai/) | [prosa.ai](https://prosa.ai/) | [bahasa.ai](https://www.bahasa.ai/) | [aichat.id](https://aichat.id/) | [konvergen.ai](https://konvergen.ai/)
-+ Vision: [nodeflux.io](https://www.nodeflux.io/) | [delligence.ai](https://delligence.ai/index.html) | 
++ Vision: [nodeflux.io](https://www.nodeflux.io/) | [delligence.ai](https://delligence.ai/index.html) | [grit.id](https://grit.id/index.html)
 + Data Analytics: [eureka.ai](https://eureka.ai/) 
 
 ## Datasets
