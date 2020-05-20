@@ -216,6 +216,7 @@
   + [Jetson Nano: Deep Learning Inference Benchmarks](https://developer.nvidia.com/embedded/jetson-nano-dl-inference-benchmarks)
   + [2017-02 - Benchmarking State-of-the-Art Deep Learning Software Tools](https://arxiv.org/pdf/1608.07249.pdf)
   + [2019-07 - Benchmarking TPU, GPU, and CPU Platforms for Deep Learning](https://arxiv.org/pdf/1907.10701.pdf)
+  + [2019-04-20 - Google Coral Edge TPU Board Vs NVIDIA Jetson Nano Dev board — Hardware Comparison](https://towardsdatascience.com/google-coral-edge-tpu-board-vs-nvidia-jetson-nano-dev-board-hardware-comparison-31660a8bda88)
 + Machine Learning
   + [mlperf.org](https://mlperf.org/) - Fair and useful benchmarks for measuring training and inference performance of ML hardware, software, and services. 
 + Object Classification
