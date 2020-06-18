@@ -193,8 +193,8 @@
 **Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) | **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) | [deepdetect.com](https://www.deepdetect.com/)
 
 <ins>**AI Start-Up in Indonesia**</ins>
-+ ChatBot: [kata.ai](https://kata.ai/) | [prosa.ai](https://prosa.ai/) | [bahasa.ai](https://www.bahasa.ai/) | [aichat.id](https://aichat.id/) | [konvergen.ai](https://konvergen.ai/)
-+ Vision: [nodeflux.io](https://www.nodeflux.io/) | [delligence.ai](https://delligence.ai/index.html) | [grit.id](https://grit.id/index.html)
++ ChatBot: [kata.ai](https://kata.ai/) > [github.com/kata-ai](https://github.com/kata-ai) & [medium.com/kata-engineering](https://medium.com/kata-engineering) | [prosa.ai](https://prosa.ai/) > [medium.com/@prosa.ai](https://medium.com/@prosa.ai) | [bahasa.ai](https://www.bahasa.ai/) > [github.com/bahasa-ai](https://github.com/bahasa-ai) & [medium.com/bahasa-ai](https://medium.com/bahasa-ai) | [aichat.id](https://aichat.id/) | [konvergen.ai](https://konvergen.ai/) > [github.com/konvergen](https://github.com/konvergen) & [medium.com/konvergen](https://medium.com/konvergen)
++ Vision: [nodeflux.io](https://www.nodeflux.io/) > [github.com/nodefluxio](https://github.com/nodefluxio) & [medium.com/nodeflux](https://medium.com/nodeflux) | [delligence.ai](https://delligence.ai/index.html) | [grit.id](https://grit.id/index.html) > [github.com/grit-id](https://github.com/grit-id)
 + Data Analytics: [eureka.ai](https://eureka.ai/) 
 
 ## Datasets
