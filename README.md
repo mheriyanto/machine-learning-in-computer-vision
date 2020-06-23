@@ -143,6 +143,7 @@
 
 <ins>**Deep Learning with Python**</ins>
 + :star: **Deep Learning with Applications Using Python** (N.K. Manaswi, 2018. Apress): [**Buku**](https://www.apress.com/gp/book/9781484235157) | [**GitHub**](https://github.com/Apress/Deep-Learning-Apps-Using-Python)![GitHub stars](https://img.shields.io/github/stars/Apress/Deep-Learning-Apps-Using-Python?style=social)
++ :star: **Dive into Deep Learning** - NumPy/MXNet and PyTorch implementations (Aston Zhang, 2020): [**Buku**](https://d2l.ai/)
 
 <ins>**Computer Vision with Python**</ins>
 + :star: **Computer Vision with Python 3** (S. Kapur, 2017. Packt): [**Buku**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Computer-Vision-with-Python-3?style=social)
