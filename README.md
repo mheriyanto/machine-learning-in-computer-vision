@@ -149,6 +149,9 @@
 + **Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images** (Jan Erik Solem, 2012. O'Reilly): [**Buku**](https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549)
 
 ## All with C++
+<ins>**Basic Python Books**</ins>
++ **The C++ Programming Language** (B Stroustrup. 2013. Addison-Wesley Professional): [**Buku**](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
+
 <ins>**Machine Learning with C++**</ins>
 + **Hands-On Machine Learning with C++** (K. Kolodiazhnyi, 2020-05. Packt): [**Buku**](https://www.packtpub.com/data/hands-on-machine-learning-with-c) | [**GitHub**](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Hands-On-Machine-Learning-with-CPP?style=social)
 
