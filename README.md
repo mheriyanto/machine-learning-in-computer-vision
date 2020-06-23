@@ -150,7 +150,8 @@
 + **Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images** (Jan Erik Solem, 2012. O'Reilly): [**Buku**](https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549)
 
 ## All with C++
-<ins>**Basic Python Books**</ins>
+<ins>**Basic C++ Books**</ins>
++ **Programming: Principles and Practice Using C++** (B Stroustrup. 2008. Addison-Wesley Professional): [**Buku**](https://www.stroustrup.com/programming.html) 
 + **The C++ Programming Language** (B Stroustrup. 2013. Addison-Wesley Professional): [**Buku**](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
 
 <ins>**Machine Learning with C++**</ins>
