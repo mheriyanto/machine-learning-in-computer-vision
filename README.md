@@ -259,7 +259,7 @@
 <ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [xenonstack](https://www.xenonstack.com/) | [datascienceID](https://datascience.or.id/) | [tau-dataID](https://tau-data.id/) | [aidi.id](http://aidi.id/) | [idbigdata](https://idbigdata.com/official/) | [awesomeopensource.com](https://awesomeopensource.com/)
 + **AI**: [towards-artificial-intelligence - AI ](https://medium.com/towards-artificial-intelligence) | [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
 + **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home) | [DS - ID](https://datascience.or.id/)
-+ **Machine Learning**: [towardsdatascience - ML](https://towardsdatascience.com/machine-learning/home) | [ML - ID](https://medium.com/@machinelearningid)
++ **Machine Learning**: [towardsdatascience - ML](https://towardsdatascience.com/machine-learning/home) | [ML - ID](https://medium.com/@machinelearningid) | [jakartamachinelearning](https://jakartamachinelearning.com/)
 + **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing) | [deeplearningweekly.com](https://www.deeplearningweekly.com/)
 + **Computer Vision**: [paperswithcode - CV](https://paperswithcode.com/area/computer-vision)
 
