@@ -225,6 +225,8 @@
 + [docker.com](https://www.docker.com/): build and ship apps.
 + [comet.ml](https://www.comet.ml/site/): track, compare, explain and optimize experiments and models.
 + [onnx.ai](https://onnx.ai/): open format built to represent machine learning models.
++ [mlflow.org](https://mlflow.org/): an open source platform for the machine learning lifecycle.
++ [cortex.dev](https://www.cortex.dev/): the open source stack for machine learning engineering.
 
 ## Benchmark
 [benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | [MobilePhone - ai-benchmark.com](http://ai-benchmark.com/index.html) | GitHub > [deep-learning-benchmark - u39kun](https://github.com/u39kun/deep-learning-benchmark), [DeepBench - baidu-research](https://github.com/baidu-research/DeepBench)
