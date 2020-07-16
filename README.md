@@ -110,11 +110,11 @@
 + :star: **Pengenalan Pembelajaran Mesin dan Deep Learning** (J.W.G. Putra, 2019): [**Book**](https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf) | [**GitHub**](https://github.com/wiragotama) | [**Web**](https://wiragotama.github.io/)
 + **Machine Learning Probabilistic Prespective** (K.P. Murphy, 2012. The MIT Press): [**Book**](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | [**GitHub**](https://github.com/probml/pyprobml)![GitHub stars](https://img.shields.io/github/stars/probml/pyprobml?style=social) | [**Solution**](https://github.com/ArthurZC23/Machine-Learning-A-Probabilistic-Perspective-Solutions) | [**Web**](https://www.cs.ubc.ca/~murphyk/MLbook/)
 + **Pattern Recognition and Machine Learning** (C.M. Bishop. 2006. Springer): [**Book**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | [**GitHub**](https://github.com/ctgk/PRML)![GitHub stars](https://img.shields.io/github/stars/ctgk/PRML?style=social) | [**Web**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
-+ **Mathematics for Machine Learning** (M.P. Deisenroth. 2020. Cambridge University Press) [**Web**](https://mml-book.github.io/) | [**Buku versi update**](https://mml-book.github.io/book/mml-book.pdf). [**Buku versi printed**](https://mml-book.github.io/book/mml-book_printed.pdf)
++ **Mathematics for Machine Learning** (M.P. Deisenroth. 2020. Cambridge University Press) [**Web**](https://mml-book.github.io/) | [**Book update**](https://mml-book.github.io/book/mml-book.pdf). [**Book printed**](https://mml-book.github.io/book/mml-book_printed.pdf)
 
 <ins>**Deep Learning Concepts**</ins>
-+ **Principles of Artificial Neural Networks** (Daniel Graupe, 2013): [**Buku**](https://www.worldscientific.com/worldscibooks/10.1142/8868)
-+ **Principles of Neurocomputing for Science and Engineering** (Fredric M. Ham, 2001): [**Buku**](https://www.amazon.com/Principles-Neurocomputing-Science-Engineering-Fredric/dp/0070259666)
++ **Principles of Artificial Neural Networks** (Daniel Graupe, 2013): [**Book**](https://www.worldscientific.com/worldscibooks/10.1142/8868)
++ **Principles of Neurocomputing for Science and Engineering** (Fredric M. Ham, 2001): [**Book**](https://www.amazon.com/Principles-Neurocomputing-Science-Engineering-Fredric/dp/0070259666)
 + **Neural Networks and Deep Learning** (M. Nielsen, 2018): [**Book**](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf) | [**GitHub**](https://github.com/mnielsen/neural-networks-and-deep-learning)![GitHub stars](https://img.shields.io/github/stars/mnielsen/neural-networks-and-deep-learning?style=social) | [**Web**](http://neuralnetworksanddeeplearning.com/)
 + :star: **Neural Networks and Deep Learning** (C.C. Aggarwal, 2018. Springer): [**Book**](https://www.springer.com/gp/book/9783319944623) | [**Web**](http://www.charuaggarwal.net/neural.htm) | [**Slide**](http://www.charuaggarwal.net/AllSlides.pdf)
 + :star: **Deep Learning** (I. Goodfellow, Y. Bengio, & A. Courville. 2016. The MIT Press): [**Book**](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) | [**GitHub**](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [**Web**](https://www.deeplearningbook.org/)
@@ -152,7 +152,7 @@
 
 ## All with C++
 <ins>**Basic C++ Books**</ins>
-+ **Programming: Principles and Practice Using C++** (B Stroustrup. 2008. Addison-Wesley Professional): [**Buku**](https://www.stroustrup.com/programming.html) 
++ **Programming: Principles and Practice Using C++** (B Stroustrup. 2008. Addison-Wesley Professional): [**Book**](https://www.stroustrup.com/programming.html) 
 + **The C++ Programming Language** (B Stroustrup. 2013. Addison-Wesley Professional): [**Book**](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
 
 <ins>**Machine Learning with C++**</ins>
