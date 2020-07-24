@@ -144,7 +144,7 @@
 <ins>**Deep Learning with Python**</ins>
 + :star: **Deep Learning with Applications Using Python** (N.K. Manaswi, 2018. Apress): [**Book**](https://www.apress.com/gp/book/9781484235157) | [**GitHub**](https://github.com/Apress/Deep-Learning-Apps-Using-Python)![GitHub stars](https://img.shields.io/github/stars/Apress/Deep-Learning-Apps-Using-Python?style=social)
 + :star: **Dive into Deep Learning** - NumPy/MXNet and PyTorch implementations (Aston Zhang, 2020): [**Book**](https://d2l.ai/) | [**GitHub**](https://github.com/d2l-ai/d2l-en)![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-en?style=social)
-  + **Dive into Deep Learning Compiler** (Aston Zhang, 2020): [**Book**](https://tvm.d2l.ai/) | | [**GitHub**](https://github.com/d2l-ai/d2l-tvm)![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-tvm?style=social)
+  + **Dive into Deep Learning Compiler** (Aston Zhang, 2020): [**Book**](https://tvm.d2l.ai/) | [**GitHub**](https://github.com/d2l-ai/d2l-tvm)![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-tvm?style=social)
 + :star: **Deep Learning with PyTorch** (Eli Stevens, 2020. MEAP): [**Book**](https://pytorch.org/deep-learning-with-pytorch)
 
 <ins>**Computer Vision with Python**</ins>
@@ -277,3 +277,8 @@
 + **AI**: [Ayu Purwarianti, Dr (Computer Science, Toyohashi University of Technology)](https://www.linkedin.com/in/ayu-purwarianti/) | [Igi Ardiyanto, Dr (Robotics, Toyohashi University of Technology)](https://www.linkedin.com/in/igi-ardiyanto-07516766) | [Muhammad Ghifary, PhD (AI, Victoria University of Wellington)](https://www.linkedin.com/in/muhammad-ghifary-75056722)
 + **Data Science**: [Andry Alamsyah, PhD (Social Network & Big Data, ITB))](https://www.linkedin.com/in/andryalamsyah) | [Taufik Sutanto, PhD (Data Science, Queensland University of Technology)](https://www.linkedin.com/in/taufikedys)
 + **Machine Learning**: [Dwi H. Widyantoro, Dr (Machine Learning, Texas A&M University)](https://scholar.google.com/citations?user=lyaV0HgAAAAJ&hl=en)
+
+<ins>**Podcast**</ins>:
++ **AI**: [Lex Fridman Podcast | Artificial Intelligence (AI)](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
++ **StartUp**: [Ngobrolin Startup & Teknologi by Imre Nagi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X)
++ **Data Science**: [**ID** DataPods - Data Science Indonesia](https://open.spotify.com/show/356i7xRQBUFukuL25UKsf1) | [Towards Data Science - The TDS team](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU) | [Practical AI: Machine Learning & Data Science - Changelog Media](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp) 
