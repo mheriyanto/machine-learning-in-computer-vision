@@ -143,7 +143,8 @@
 
 <ins>**Deep Learning with Python**</ins>
 + :star: **Deep Learning with Applications Using Python** (N.K. Manaswi, 2018. Apress): [**Book**](https://www.apress.com/gp/book/9781484235157) | [**GitHub**](https://github.com/Apress/Deep-Learning-Apps-Using-Python)![GitHub stars](https://img.shields.io/github/stars/Apress/Deep-Learning-Apps-Using-Python?style=social)
-+ :star: **Dive into Deep Learning** - NumPy/MXNet and PyTorch implementations (Aston Zhang, 2020): [**Book**](https://d2l.ai/)
++ :star: **Dive into Deep Learning** - NumPy/MXNet and PyTorch implementations (Aston Zhang, 2020): [**Book**](https://d2l.ai/) | [**GitHub**](https://github.com/d2l-ai/d2l-en)![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-en?style=social)
+  + **Dive into Deep Learning Compiler** (Aston Zhang, 2020): [**Book**](https://tvm.d2l.ai/) | | [**GitHub**](https://github.com/d2l-ai/d2l-tvm)![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-tvm?style=social)
 + :star: **Deep Learning with PyTorch** (Eli Stevens, 2020. MEAP): [**Book**](https://pytorch.org/deep-learning-with-pytorch)
 
 <ins>**Computer Vision with Python**</ins>
