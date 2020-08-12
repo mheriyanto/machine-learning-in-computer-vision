@@ -56,6 +56,7 @@
 <ins>**Machine Learning**</ins>
 + :star: [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
 + :star: [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial)
++ [2020 Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) ![GitHub stars](https://img.shields.io/github/stars/mrdbourke/machine-learning-roadmap?style=social) (Roadmap)
 + [Python Machine Learning Jupyter Notebooks](https://github.com/tirthajyoti/Machine-Learning-with-Python) ![GitHub stars](https://img.shields.io/github/stars/tirthajyoti/Machine-Learning-with-Python?style=social) (Tutorial)
 + [Machine Learning Mindset](https://github.com/machinelearningmindset) (Roadmap)
 + [Awesome Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
@@ -126,6 +127,7 @@
 
 ## All with Python
 <ins>**Basic Python Books**</ins>
++ **CheatSheet** > [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)![GitHub stars](https://img.shields.io/github/stars/gto76/python-cheatsheet?style=social)
 + :star: **Python 3 Object-oriented Programming** (D. Phillips. 2015. O'Reilly Media): [**Book**](https://www.oreilly.com/library/view/python-3-object-oriented/9781784398781/) | [**GitHub**](https://github.com/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Python-3-Object-Oriented-Programming-Third-Edition?style=social) | [**Web**](https://dusty.phillips.codes/books/)
 + :star: **Learning Python Design Patterns** (G. Zlobin. 2013. Packt): [**Book**](https://www.packtpub.com/application-development/learning-python-design-patterns) | [**GitHub**](https://github.com/freephys/Learning-Python-Design-Patterns)![GitHub stars](https://img.shields.io/github/stars/freephys/Learning-Python-Design-Patterns?style=social)
 + **Mastering Python Design Patterns** (S. Kasampalis & K. Ayeva. 2018. Packt): [**Book**](https://www.packtpub.com/application-development/mastering-python-design-patterns-second-edition) | [**GitHub**](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition?style=social)
@@ -154,6 +156,7 @@
 
 ## All with C++
 <ins>**Basic C++ Books**</ins>
++ **CheatSheet** > [C++ QUICK REFERENCE / C++ CHEATSHEET](https://github.com/mortennobel/cpp-cheatsheet)![GitHub stars](https://img.shields.io/github/stars/mortennobel/cpp-cheatsheet?style=social) | [A cheatsheet of modern C++ language and library features](https://github.com/AnthonyCalandra/modern-cpp-features)
 + **Programming: Principles and Practice Using C++** (B Stroustrup. 2008. Addison-Wesley Professional): [**Book**](https://www.stroustrup.com/programming.html) 
 + **The C++ Programming Language** (B Stroustrup. 2013. Addison-Wesley Professional): [**Book**](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
 
@@ -222,6 +225,7 @@
 + **Boxy Dataset** - bosch-ai by Karsten Behrendt (2019): [Web](https://boxy-dataset.com/boxy/) | [2D Box](https://boxy-dataset.com/boxy/benchmark_2d) | [3D Box](https://boxy-dataset.com/boxy/benchmark_3d) | [Realtime](https://boxy-dataset.com/boxy/benchmark_realtime)
 + **H3D Dataset** - Honda by Abhishek Patil et. al. (2019): [Paper](https://usa.honda-ri.com/documents/32932/126732/h3d_paper.pdf/6d92fba0-06f8-6a12-5d71-b6feb9ba0842) | [Web](https://usa.honda-ri.com/H3D) 
 + **BLVD Dataset** - Xian Jiaotong University by Jianru Xue, et. al. (2019): [Paper](https://arxiv.org/pdf/1903.06405.pdf) | [GitHub](https://github.com/VCCIV/BLVD)
++ **nuScenes** - The nuScenes dataset is a large-scale autonomous driving dataset: [Link](https://www.nuscenes.org/)
 
 ## Tools
 + [docker.com](https://www.docker.com/): build and ship apps.
@@ -229,6 +233,8 @@
 + [onnx.ai](https://onnx.ai/): open format built to represent machine learning models.
 + [mlflow.org](https://mlflow.org/): an open source platform for the machine learning lifecycle.
 + [cortex.dev](https://www.cortex.dev/): the open source stack for machine learning engineering.
++ [Netron](https://github.com/lutzroeder/netron): a viewer for neural network, deep learning and machine learning models.
++ [DIGITS](https://github.com/NVIDIA/DIGITS): DIGITS (the Deep Learning GPU Training System) is a webapp for training deep learning models. The currently supported frameworks are: Caffe, Torch, and Tensorflow.
 
 ## Benchmark
 [benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | [MobilePhone - ai-benchmark.com](http://ai-benchmark.com/index.html) | GitHub > [deep-learning-benchmark - u39kun](https://github.com/u39kun/deep-learning-benchmark), [DeepBench - baidu-research](https://github.com/baidu-research/DeepBench)
