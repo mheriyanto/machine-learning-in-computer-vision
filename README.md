@@ -156,7 +156,7 @@
 
 ## All with C++
 <ins>**Basic C++ Books**</ins>
-+ **CheatSheet** > [C++ QUICK REFERENCE / C++ CHEATSHEET](https://github.com/mortennobel/cpp-cheatsheet)![GitHub stars](https://img.shields.io/github/stars/mortennobel/cpp-cheatsheet?style=social) | [A cheatsheet of modern C++ language and library features](https://github.com/AnthonyCalandra/modern-cpp-features)
++ **CheatSheet** > [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)![GitHub stars](https://img.shields.io/github/stars/isocpp/CppCoreGuidelines?style=social) | [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)![GitHub stars](https://img.shields.io/github/stars/mortennobel/cpp-cheatsheet?style=social) | [A cheatsheet of modern C++ language and library features](https://github.com/AnthonyCalandra/modern-cpp-features)
 + **Programming: Principles and Practice Using C++** (B Stroustrup. 2008. Addison-Wesley Professional): [**Book**](https://www.stroustrup.com/programming.html) 
 + **The C++ Programming Language** (B Stroustrup. 2013. Addison-Wesley Professional): [**Book**](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
 
