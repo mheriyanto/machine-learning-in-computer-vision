@@ -156,12 +156,20 @@
 
 ## All with C++
 <ins>**Basic C++ Books**</ins>
-+ **CheatSheet** > [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)![GitHub stars](https://img.shields.io/github/stars/isocpp/CppCoreGuidelines?style=social) | [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)![GitHub stars](https://img.shields.io/github/stars/mortennobel/cpp-cheatsheet?style=social) | [A cheatsheet of modern C++ language and library features](https://github.com/AnthonyCalandra/modern-cpp-features)
++ **CheatSheet** > [**C++ Core Guidelines**](https://github.com/isocpp/CppCoreGuidelines)![GitHub stars](https://img.shields.io/github/stars/isocpp/CppCoreGuidelines?style=social) | [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)![GitHub stars](https://img.shields.io/github/stars/mortennobel/cpp-cheatsheet?style=social) | [A cheatsheet of modern C++ language and library features](https://github.com/AnthonyCalandra/modern-cpp-features) | [awesome-cpp1](https://github.com/fffaraz/awesome-cpp)![GitHub stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp?style=social) | [awesome-cpp2](https://github.com/rigtorp/awesome-modern-cpp)![GitHub stars](https://img.shields.io/github/stars/rigtorp/awesome-modern-cpp?style=social)
++ **cppreference.com** > [**Website**](https://en.cppreference.com/w/Main_Page)
++ **Matplot++**: A C++ Graphics Library for Data Visualization: [GitHub](https://github.com/alandefreitas/matplotplusplus)![GitHub stars](https://img.shields.io/github/stars/alandefreitas/matplotplusplus?style=social)
 + **Programming: Principles and Practice Using C++** (B Stroustrup. 2008. Addison-Wesley Professional): [**Book**](https://www.stroustrup.com/programming.html) 
 + **The C++ Programming Language** (B Stroustrup. 2013. Addison-Wesley Professional): [**Book**](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
 
 <ins>**Machine Learning with C++**</ins>
 + **Hands-On Machine Learning with C++** (K. Kolodiazhnyi, 2020-05. Packt): [**Book**](https://www.packtpub.com/data/hands-on-machine-learning-with-c) | [**GitHub**](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Hands-On-Machine-Learning-with-CPP?style=social)
+
+<ins>**Deep Learning with C++**</ins>
++ C++ Implementation of **PyTorch Tutorials** for Everyone: [**GitHub**](https://github.com/prabhuomkar/pytorch-cpp)![GitHub stars](https://img.shields.io/github/stars/prabhuomkar/pytorch-cpp?style=social)
+
+<ins>**Image Processing & Computer Vision with C++**</ins>
++ **The CImg Library** is a small and open-source C++ toolkit for image processing: [**Web**](https://cimg.eu/)
 
 ## Courses
 + **Neural networks** - University De Sherbrooke by Hugo Larochelle (2013): [YouTube](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PLEAYkSg4uSQ39wGk8XawnlfFYvjVftvUe) | [Web](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
