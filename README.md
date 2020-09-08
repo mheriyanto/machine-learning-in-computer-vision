@@ -1,4 +1,4 @@
-## Data Science, Machine Learning, Deep Learning, and Computer Vision References
+## Machine Learning, Deep Learning, and Computer Vision References
 > Data is [the new oil](https://medium.com/project-2030/data-is-the-new-oil-a-ludicrous-proposition-1d91bba4f294)? No: Data is [the new soil](https://towardsdatascience.com/data-is-not-the-new-oil-bdb31f61bc2d). ~ David McCandless
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/Data-Science/issues)
@@ -17,41 +17,6 @@
 + [practicalAI - practicalAI](https://github.com/practicalAI/practicalAI) ![GitHub stars](https://img.shields.io/github/stars/practicalAI/practicalAI?style=social)
 + A list of artificial intelligence tools you can use today - for: [1. Personal use](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f), [2. Business use — Enterprise Intelligence](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835), [2. Business use (cont’d) — Enterprise Functions](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-continued-21bf14280250), and [3. Industry specific businesses](https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-industry-specific-3-3-5e16c68da697)
 + FirmAI - [ML and DS Applications in **Industry**](https://github.com/firmai/industry-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/firmai/business-machine-learning?style=social) | [ML and DS Applications in **Business**](https://github.com/firmai/business-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/firmai/business-machine-learning?style=social) | [ML and DS Applications in **Asset Management**](https://github.com/firmai/machine-learning-asset-management) ![GitHub stars](https://img.shields.io/github/stars/firmai/machine-learning-asset-management?style=social) | [ML and DS Applications in **Financial**](https://github.com/firmai/financial-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/firmai/financial-machine-learning?style=social)
-
-<ins>**Data Science**</ins>
-+ [Awesome Datascience - Academic.io](https://github.com/academic/awesome-datascience) ![GitHub stars](https://img.shields.io/github/stars/academic/awesome-datascience?style=social) (General)
-+ :star: [Awesome Python Datascience - Krzysztof Joachimiak](https://github.com/krzjoa/awesome-python-datascience) ![GitHub stars](https://img.shields.io/github/stars/krzjoa/awesome-python-datascience?style=social) (Framework)
-+ [Awesome Time Series in Python - Maximilian Christ](https://github.com/MaxBenChrist/awesome_time_series_in_python) ![GitHub stars](https://img.shields.io/github/stars/MaxBenChrist/awesome_time_series_in_python?style=social) (General)
-+ :star: [Awesome Causality Algorithms - Ruocheng Guo](https://github.com/rguo12/awesome-causality-algorithms) ![GitHub stars](https://img.shields.io/github/stars/rguo12/awesome-causality-algorithms?style=social) (General)
-+ [Data Science Cheat Sheet - abhat222](https://github.com/abhat222/Data-Science--Cheat-Sheet) ![GitHub stars](https://img.shields.io/github/stars/abhat222/Data-Science--Cheat-Sheet?style=social) > [afshine amidi](https://www.mit.edu/~amidi/) & [shevrine amidi](https://stanford.edu/~shervine/) (Cheat Sheet) 
-+ <ins>**Stock Prediction**</ins>: 
-  + [Stock Prediction Models - huseinzol05](https://github.com/huseinzol05/Stock-Prediction-Models) ![GitHub stars](https://img.shields.io/github/stars/huseinzol05/Stock-Prediction-Models?style=social) 
-  + [Machine Learning Stocks - robertmartin8](https://github.com/robertmartin8/MachineLearningStocks) ![GitHub stars](https://img.shields.io/github/stars/robertmartin8/MachineLearningStocks?style=social) 
-  + [bulbea - achillesrasquinha](https://github.com/achillesrasquinha/bulbea) ![GitHub stars](https://img.shields.io/github/stars/achillesrasquinha/bulbea?style=social) 
-  + [Deep Convolution Stock Technical Analysis - philipxjm](https://github.com/philipxjm/Deep-Convolution-Stock-Technical-Analysis) ![GitHub stars](https://img.shields.io/github/stars/philipxjm/Deep-Convolution-Stock-Technical-Analysis?style=social) 
-  + [Test Stock Prediction Algorithms - timestocome](https://github.com/timestocome/Test-stock-prediction-algorithms) ![GitHub stars](https://img.shields.io/github/stars/timestocome/Test-stock-prediction-algorithms?style=social) 
-  + [Stock Price Prediction - scorpionhiccup](https://github.com/scorpionhiccup/StockPricePrediction) ![GitHub stars](https://img.shields.io/github/stars/scorpionhiccup/StockPricePrediction?style=social) 
-  + [Stock Analysis - Vaibhav](https://github.com/Vaibhav/Stock-Analysis) ![GitHub stars](https://img.shields.io/github/stars/Vaibhav/Stock-Analysis?style=social) 
-  + [Awesome Quant Machine Learning Trading - grananqvist](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ![GitHub stars](https://img.shields.io/github/stars/grananqvist/Awesome-Quant-Machine-Learning-Trading?style=social)
-+ <ins>**Socials & Politics**</ins>: 
-  + [Serenata - okfn-brasil](https://github.com/okfn-brasil/serenata-de-amor) ![GitHub stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=social) 
-  + [grano - ANCIR](https://github.com/ANCIR/grano) ![GitHub stars](https://img.shields.io/github/stars/ANCIR/grano?style=social) 
-  + [OpenCiviWiki - CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) ![GitHub stars](https://img.shields.io/github/stars/CiviWiki/OpenCiviWiki?style=social) 
-  + [opensanctions - alephdata](https://github.com/alephdata/opensanctions) ![GitHub stars](https://img.shields.io/github/stars/alephdata/opensanctions?style=social) 
-  + [sherlock - sherlock-project](https://github.com/sherlock-project/sherlock) ![GitHub stars](https://img.shields.io/github/stars/sherlock-project/sherlock?style=social) 
-  + [Stocktalk - anfederico](https://github.com/anfederico/Stocktalk) ![GitHub stars](https://img.shields.io/github/stars/anfederico/Stocktalk?style=social) 
-  + [tweets analyzer - x0rz](https://github.com/x0rz/tweets_analyzer) ![GitHub stars](https://img.shields.io/github/stars/x0rz/tweets_analyzer?style=social)
-+ <ins>**Business**</ins>: 
-  + [odoo - odoo](https://github.com/odoo/odoo) ![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social) 
-  + [mining - mining](https://github.com/mining/mining) ![GitHub stars](https://img.shields.io/github/stars/mining/mining?style=social) 
-  + [facebook python business sdk - facebook](https://github.com/facebook/facebook-python-business-sdk) ![GitHub stars](https://img.shields.io/github/stars/facebook/facebook-python-business-sdk?style=social)
-+ <ins>**Others**</ins>: 
-  + [Data science blogs - rushter](https://github.com/rushter/data-science-blogs) ![GitHub stars](https://img.shields.io/github/stars/rushter/data-science-blogs?style=social) 
-  + [Data Science from Scratch - joelgrus](https://github.com/joelgrus/data-science-from-scratch) ![GitHub stars](https://img.shields.io/github/stars/joelgrus/data-science-from-scratch?style=social) 
-  + [data scientist roadmap - MrMimic](https://github.com/MrMimic/data-scientist-roadmap) ![GitHub stars](https://img.shields.io/github/stars/MrMimic/data-scientist-roadmap?style=social) 
-  + [DataCamp - wblakecannon](https://github.com/wblakecannon/DataCamp) ![GitHub stars](https://img.shields.io/github/stars/wblakecannon/DataCamp?style=social) 
-  + [Kaggler - jeongyoonlee](https://github.com/jeongyoonlee/Kaggler) ![GitHub stars](https://img.shields.io/github/stars/jeongyoonlee/Kaggler?style=social) 
-  + [Data Science Toolbox](https://github.com/DataScienceToolbox/data-science-toolbox) ![GitHub stars](https://img.shields.io/github/stars/DataScienceToolbox/data-science-toolbox?style=social)
 
 <ins>**Machine Learning**</ins>
 + :star: [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
@@ -90,12 +55,6 @@
 <ins>**Computer Vision**</ins>
 + [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) ![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social) (General) 
 + :star: [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) ![GitHub stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=social) (Tutorial)
-
-<ins>**Visualization**</ins>
-+ [Awesome dataviz - Fabio Souto](https://github.com/fasouto/awesome-dataviz) ![GitHub stars](https://img.shields.io/github/stars/fasouto/awesome-dataviz?style=social)
-+ [Tool for visualizing GitHub profiles - David](https://github.com/tipsy/profile-summary-for-github) ![GitHub stars](https://img.shields.io/github/stars/tipsy/profile-summary-for-github?style=social)
-+ [An elegant, interactive and flexible charting library for mobile - antvis](https://github.com/antvis/F2) ![GitHub stars](https://img.shields.io/github/stars/antvis/F2?style=social)
-+ products: [d3js](https://github.com/d3/d3) ![GitHub stars](https://img.shields.io/github/stars/d3/d3?style=social) | [bokeh](https://github.com/bokeh/bokeh) ![GitHub stars](https://img.shields.io/github/stars/bokeh/bokeh?style=social) | [plotly](https://github.com/plotly/plotly.js) ![GitHub stars](https://img.shields.io/github/stars/plotly/plotly.js?style=social)
 
 <ins>**Production**</ins>
 + :star: [Deep Learning in Production - Amir Hossein Karami](https://github.com/ahkarami/Deep-Learning-in-Production) (Roadmap)
@@ -277,23 +236,19 @@
 ## Journals, Magazines, and People
 <ins>**Journals**</ins>
 + **AI**: [Artificial Intelligence (Q1)](https://www.journals.elsevier.com/artificial-intelligence/) | [Journal of Artificial Intelligence Research (Q1)](https://www.jair.org/index.php/jair) | [Artificial Intelligence Review (Q1)](https://www.springer.com/journal/10462)
-+ **Data Science**: [EPJ Data Science (Q1)](https://link.springer.com/journal/13688) | [Data Science Journal (Q3)](https://datascience.codata.org/)
 + **Machine Learning**: [Journal of Machine Learning Research (Q1)](http://jmlr.csail.mit.edu/) | [Machine Learning (Q1)](https://www.springer.com/computer/ai/journal/10994) | [Foundations and Trends in Machine Learning (Q1)](https://www.nowpublishers.com/mal)
 + **Computer Vision**: [Image and Vision Computing (Q1)](https://www.journals.elsevier.com/image-and-vision-computing/) | [Computer Vision and Image Understanding (Q1)](https://www.journals.elsevier.com/computer-vision-and-image-understanding) | [International Journal of Computer Vision (Q1)](https://www.springer.com/journal/11263)
 
 <ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [xenonstack](https://www.xenonstack.com/) | [datascienceID](https://datascience.or.id/) | [tau-dataID](https://tau-data.id/) | [aidi.id](http://aidi.id/) | [idbigdata](https://idbigdata.com/official/) | [awesomeopensource.com](https://awesomeopensource.com/)
 + **AI**: [towards-artificial-intelligence - AI ](https://medium.com/towards-artificial-intelligence) | [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
-+ **Data Science**: [towardsdatascience - DS](https://towardsdatascience.com/data-science/home) | [DS - ID](https://datascience.or.id/)
 + **Machine Learning**: [towardsdatascience - ML](https://towardsdatascience.com/machine-learning/home) | [ML - ID](https://medium.com/@machinelearningid) | [jakartamachinelearning](https://jakartamachinelearning.com/)
 + **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing) | [deeplearningweekly.com](https://www.deeplearningweekly.com/)
 + **Computer Vision**: [paperswithcode - CV](https://paperswithcode.com/area/computer-vision)
 
-<ins>**People**</ins>:
+<ins>**People**</ins>
 + **AI**: [Ayu Purwarianti, Dr (Computer Science, Toyohashi University of Technology)](https://www.linkedin.com/in/ayu-purwarianti/) | [Igi Ardiyanto, Dr (Robotics, Toyohashi University of Technology)](https://www.linkedin.com/in/igi-ardiyanto-07516766) | [Muhammad Ghifary, PhD (AI, Victoria University of Wellington)](https://www.linkedin.com/in/muhammad-ghifary-75056722)
-+ **Data Science**: [Andry Alamsyah, PhD (Social Network & Big Data, ITB))](https://www.linkedin.com/in/andryalamsyah) | [Taufik Sutanto, PhD (Data Science, Queensland University of Technology)](https://www.linkedin.com/in/taufikedys)
 + **Machine Learning**: [Dwi H. Widyantoro, Dr (Machine Learning, Texas A&M University)](https://scholar.google.com/citations?user=lyaV0HgAAAAJ&hl=en)
 
-<ins>**Podcast**</ins>:
+<ins>**Podcast**</ins>
 + **AI**: [Lex Fridman Podcast | Artificial Intelligence (AI)](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
 + **StartUp**: [Ngobrolin Startup & Teknologi by Imre Nagi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X)
-+ **Data Science**: [**ID** DataPods - Data Science Indonesia](https://open.spotify.com/show/356i7xRQBUFukuL25UKsf1) | [Towards Data Science - The TDS team](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU) | [Practical AI: Machine Learning & Data Science - Changelog Media](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp) 
