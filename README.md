@@ -128,6 +128,7 @@
 + C++ Implementation of **PyTorch Tutorials** for Everyone: [**GitHub**](https://github.com/prabhuomkar/pytorch-cpp)![GitHub stars](https://img.shields.io/github/stars/prabhuomkar/pytorch-cpp?style=social)
 
 <ins>**Image Processing & Computer Vision with C++**</ins>
++ **Learning OpenCV 3**: Computer Vision in C++ with the OpenCV Library: [**Book**](https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library-ebook/dp/B01MRXIYAN/ref=sr_1_5?dchild=1&keywords=opencv&qid=1590686604&sr=8-5) | [**GitHub**](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
 + **The CImg Library** is a small and open-source C++ toolkit for image processing: [**Web**](https://cimg.eu/)
 
 ## Courses
