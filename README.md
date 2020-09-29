@@ -178,8 +178,9 @@
 <ins>**AI Start-Up in Indonesia**</ins>
 + ChatBot: [**kata.ai**](https://kata.ai/) > [github.com/kata-ai](https://github.com/kata-ai) & [medium.com/kata-engineering](https://medium.com/kata-engineering) | [**prosa.ai**](https://prosa.ai/) > [medium.com/@prosa.ai](https://medium.com/@prosa.ai) | [**bahasa.ai**](https://www.bahasa.ai/) > [github.com/bahasa-ai](https://github.com/bahasa-ai) & [medium.com/bahasa-ai](https://medium.com/bahasa-ai) | [**aichat.id**](https://aichat.id/) | [**konvergen.ai**](https://konvergen.ai/) > [github.com/konvergen](https://github.com/konvergen) & [medium.com/konvergen](https://medium.com/konvergen)
 + Vision: [**nodeflux.io**](https://www.nodeflux.io/) > [github.com/nodefluxio](https://github.com/nodefluxio) & [medium.com/nodeflux](https://medium.com/nodeflux) | [**delligence.ai**](https://delligence.ai/index.html) | [**grit.id**](https://grit.id/index.html) > [github.com/grit-id](https://github.com/grit-id)
-+ Data Analytics: [**eureka.ai**](https://eureka.ai/) 
++ Data Analytics: [**eureka.ai**](https://eureka.ai/)  | [**kepingai.com**](https://kepingai.com/)
 + Annotation Service: [**acquaire - nodeflux.io**](https://acquaire.ai/)
++ Communities: [**ai-innovation.id**](https://ai-innovation.id/) | [**Indonesia AI Society**](https://indonesiaai.org/) | [**atapdata.ai**](https://atapdata.ai/) | [**coleaves.ai**](https://coleaves.ai/) | [**jakartamachinelearning**](https://jakartamachinelearning.com/) | [**datascienceID**](https://datascience.or.id/) | [**tau-dataID**](https://tau-data.id/) | [**aidi.id**](http://aidi.id/) | [**idbigdata**](https://idbigdata.com/official/)
 
 ## Datasets
 [cvpapers.com](http://www.cvpapers.com/datasets.html) | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) | [datasetlist.com](https://www.datasetlist.com/) | [deeplearning.net](http://deeplearning.net/datasets/) | [towardsai.net](https://towardsai.net/p/machine-learning/best-free-datasets-for-machine-learning-and-data-science/stanfordai/3451/)
@@ -223,6 +224,8 @@
   + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d)
 + Multi-Object Tracking
   + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
++ NLP
+  + [IndoNLU Benchmark](https://www.indobenchmark.com/)
 
 ## Create Datasets
 + **Get Image from Sources**
@@ -240,7 +243,7 @@
 + **Machine Learning**: [Journal of Machine Learning Research (Q1)](http://jmlr.csail.mit.edu/) | [Machine Learning (Q1)](https://www.springer.com/computer/ai/journal/10994) | [Foundations and Trends in Machine Learning (Q1)](https://www.nowpublishers.com/mal)
 + **Computer Vision**: [Image and Vision Computing (Q1)](https://www.journals.elsevier.com/image-and-vision-computing/) | [Computer Vision and Image Understanding (Q1)](https://www.journals.elsevier.com/computer-vision-and-image-understanding) | [International Journal of Computer Vision (Q1)](https://www.springer.com/journal/11263)
 
-<ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [xenonstack](https://www.xenonstack.com/) | [datascienceID](https://datascience.or.id/) | [tau-dataID](https://tau-data.id/) | [aidi.id](http://aidi.id/) | [idbigdata](https://idbigdata.com/official/) | [awesomeopensource.com](https://awesomeopensource.com/)
+<ins>**Magazines**</ins>: [towardsdatascience](https://towardsdatascience.com) | [paperswithcode](https://paperswithcode.com/) | [distill](https://distill.pub/) | [xenonstack](https://www.xenonstack.com/) | [awesomeopensource.com](https://awesomeopensource.com/)
 + **AI**: [towards-artificial-intelligence - AI ](https://medium.com/towards-artificial-intelligence) | [towardsdatascience - AI](https://towardsdatascience.com/artificial-intelligence/home) | [AI - ID](https://artificialintelligence.id/)
 + **Machine Learning**: [towardsdatascience - ML](https://towardsdatascience.com/machine-learning/home) | [ML - ID](https://medium.com/@machinelearningid) | [jakartamachinelearning](https://jakartamachinelearning.com/)
 + **Deep Learning**: [paperswithcode - NLP](https://paperswithcode.com/area/natural-language-processing) | [deeplearningweekly.com](https://www.deeplearningweekly.com/)
