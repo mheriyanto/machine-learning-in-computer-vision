@@ -132,6 +132,7 @@
 + **The CImg Library** is a small and open-source C++ toolkit for image processing: [**Web**](https://cimg.eu/)
 
 ## Courses
++ :star: **Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical** - WiraD.K. Putra (2020): [YouTube](https://www.youtube.com/channel/UCszUEDUxCax7i5YsbAt0Tag) | [GitHub](https://github.com/WiraDKP)
 + **Neural networks** - University De Sherbrooke by Hugo Larochelle (2013): [YouTube](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PLEAYkSg4uSQ39wGk8XawnlfFYvjVftvUe) | [Web](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 + :star: **Standford Machine Learning** - Standford by Andrew Ng (2008): [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 + :star: **Caltech Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
@@ -150,7 +151,7 @@
 + :star: **Deep Learning with PyTorch** (Eli Stevens, 2020. MEAP): [**Book**](https://www.manning.com/books/deep-learning-with-pytorch#toc), [**Code**](https://www.manning.com/downloads/1754)
 + **Deep Learning with Keras** (S. Pal & A. Gulli, 2017. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-Keras?style=social)
 + <ins>**Project Templates**</ins>
-  + PyTorch: [victoresque](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social) | [moemen95](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social) | [L1aoXingyu](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
+  + PyTorch: :star: [victoresque](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social) | [moemen95](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social) | [L1aoXingyu](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social) | []()
 
 ## Research Groups
 <ins>**Universities**</ins>
@@ -176,11 +177,12 @@
 **Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) | **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) | [deepdetect.com](https://www.deepdetect.com/)
 
 <ins>**AI Start-Up in Indonesia**</ins>
++ Institutions: [**ai-innovation.id**](https://ai-innovation.id/)
 + ChatBot: [**kata.ai**](https://kata.ai/) > [github.com/kata-ai](https://github.com/kata-ai) & [medium.com/kata-engineering](https://medium.com/kata-engineering) | [**prosa.ai**](https://prosa.ai/) > [medium.com/@prosa.ai](https://medium.com/@prosa.ai) | [**bahasa.ai**](https://www.bahasa.ai/) > [github.com/bahasa-ai](https://github.com/bahasa-ai) & [medium.com/bahasa-ai](https://medium.com/bahasa-ai) | [**aichat.id**](https://aichat.id/) | [**konvergen.ai**](https://konvergen.ai/) > [github.com/konvergen](https://github.com/konvergen) & [medium.com/konvergen](https://medium.com/konvergen)
-+ Vision: [**nodeflux.io**](https://www.nodeflux.io/) > [github.com/nodefluxio](https://github.com/nodefluxio) & [medium.com/nodeflux](https://medium.com/nodeflux) | [**delligence.ai**](https://delligence.ai/index.html) | [**grit.id**](https://grit.id/index.html) > [github.com/grit-id](https://github.com/grit-id)
++ Vision: [**nodeflux.io**](https://www.nodeflux.io/) > [github.com/nodefluxio](https://github.com/nodefluxio) & [medium.com/nodeflux](https://medium.com/nodeflux) | [**delligence.ai**](https://delligence.ai/index.html) | [**grit.id**](https://grit.id/index.html) > [github.com/grit-id](https://github.com/grit-id) | [**riset.ai**](https://www.riset.ai/)
 + Data Analytics: [**eureka.ai**](https://eureka.ai/)  | [**kepingai.com**](https://kepingai.com/)
 + Annotation Service: [**acquaire - nodeflux.io**](https://acquaire.ai/)
-+ Communities: [**ai-innovation.id**](https://ai-innovation.id/) | [**Indonesia AI Society**](https://indonesiaai.org/) | [**atapdata.ai**](https://atapdata.ai/) | [**coleaves.ai**](https://coleaves.ai/) | [**jakartamachinelearning**](https://jakartamachinelearning.com/) | [**datascienceID**](https://datascience.or.id/) | [**tau-dataID**](https://tau-data.id/) | [**aidi.id**](http://aidi.id/) | [**idbigdata**](https://idbigdata.com/official/)
++ Communities: [**Indonesia AI Society**](https://indonesiaai.org/) | [**atapdata.ai**](https://atapdata.ai/) | [**coleaves.ai**](https://coleaves.ai/) | [**jakartamachinelearning**](https://jakartamachinelearning.com/) | [**datascienceID**](https://datascience.or.id/) | [**tau-dataID**](https://tau-data.id/) | [**aidi.id**](http://aidi.id/) | [**idbigdata**](https://idbigdata.com/official/)
 
 ## Datasets
 [cvpapers.com](http://www.cvpapers.com/datasets.html) | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) | [datasetlist.com](https://www.datasetlist.com/) | [deeplearning.net](http://deeplearning.net/datasets/) | [towardsai.net](https://towardsai.net/p/machine-learning/best-free-datasets-for-machine-learning-and-data-science/stanfordai/3451/)
@@ -202,8 +204,20 @@
 + [onnx.ai](https://onnx.ai/): open format built to represent machine learning models.
 + [mlflow.org](https://mlflow.org/): an open source platform for the machine learning lifecycle.
 + [cortex.dev](https://www.cortex.dev/): the open source stack for machine learning engineering.
-+ [Netron](https://github.com/lutzroeder/netron): a viewer for neural network, deep learning and machine learning models.
++ [mlperf.org](https://mlperf.org/): Fair and useful benchmarks for measuring training and inference performance of ML hardware, software, and services. 
+
 + [DIGITS](https://github.com/NVIDIA/DIGITS): DIGITS (the Deep Learning GPU Training System) is a webapp for training deep learning models. The currently supported frameworks are: Caffe, Torch, and Tensorflow.
++ [Optuna](https://github.com/optuna/optuna): A hyperparameter optimization framework.
++ [Determined](https://github.com/determined-ai/determined): Deep Learning Training Platform.
++ [cuDF](https://github.com/rapidsai/cudf): GPU DataFrame Library 
+
++ [Netron](https://github.com/lutzroeder/netron): a viewer for neural network, deep learning and machine learning models.
++ [playground](https://github.com/tensorflow/playground): Deep playground is an interactive visualization of neural networks, written in TypeScript using d3.js.
++ [PerceptiLabs](https://github.com/PerceptiLabs/PerceptiLabs): a dataflow driven, visual API for TensorFlow that enables data scientists to work more efficiently with machine learning models and to gain more insight into their models.
++ [conv](https://www.cs.ryerson.ca/~aharley/vis/conv/): 3D visualization of convolutional neural network.
++ [PyTorchViz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs and traces.
+
++ [openpilot](https://github.com/commaai/openpilot): is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 
 ## Benchmark
 [benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | [MobilePhone - ai-benchmark.com](http://ai-benchmark.com/index.html) | GitHub > [deep-learning-benchmark - u39kun](https://github.com/u39kun/deep-learning-benchmark), [DeepBench - baidu-research](https://github.com/baidu-research/DeepBench)
@@ -212,8 +226,6 @@
   + [2017-02 - Benchmarking State-of-the-Art Deep Learning Software Tools](https://arxiv.org/pdf/1608.07249.pdf)
   + [2019-07 - Benchmarking TPU, GPU, and CPU Platforms for Deep Learning](https://arxiv.org/pdf/1907.10701.pdf)
   + [2019-04-20 - Google Coral Edge TPU Board Vs NVIDIA Jetson Nano Dev board — Hardware Comparison](https://towardsdatascience.com/google-coral-edge-tpu-board-vs-nvidia-jetson-nano-dev-board-hardware-comparison-31660a8bda88)
-+ Machine Learning
-  + [mlperf.org](https://mlperf.org/) - Fair and useful benchmarks for measuring training and inference performance of ML hardware, software, and services. 
 + Object Classification
   + [MNIST](https://benchmarks.ai/mnist)
   + [CIFAR-10](https://benchmarks.ai/cifar-10)
