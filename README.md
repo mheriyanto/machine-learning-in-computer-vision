@@ -56,10 +56,6 @@
 + [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) ![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social) (General) 
 + :star: [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) ![GitHub stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=social) (Tutorial)
 
-<ins>**Production**</ins>
-+ :star: [Deep Learning in Production - Amir Hossein Karami](https://github.com/ahkarami/Deep-Learning-in-Production) (Roadmap)
-+ PyTorch: :star: [Model Serving in PyTorch](https://pytorch.org/blog/model-serving-in-pyorch/) | [Deploying PyTorch using Flask and expose a REST API for model inference](https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html)
-
 ## Concepts
 <ins>**Mathematics Concepts**</ins>
 + **ProofWiki** (proofwiki.org): [**Web**](https://proofwiki.org/wiki/Main_Page)
@@ -177,7 +173,7 @@
 **Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) | **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) | [deepdetect.com](https://www.deepdetect.com/)
 
 <ins>**AI Start-Up in Indonesia**</ins>
-+ Institutions: [**ai-innovation.id**](https://ai-innovation.id/)
++ Institutions: [**ai-innovation.id**](https://ai-innovation.id/) | [**Strategi Nasional Kecerdasan Artifisial (KA)**](https://ai-innovation.id/strategi)
 + ChatBot: [**kata.ai**](https://kata.ai/) > [github.com/kata-ai](https://github.com/kata-ai) & [medium.com/kata-engineering](https://medium.com/kata-engineering) | [**prosa.ai**](https://prosa.ai/) > [medium.com/@prosa.ai](https://medium.com/@prosa.ai) | [**bahasa.ai**](https://www.bahasa.ai/) > [github.com/bahasa-ai](https://github.com/bahasa-ai) & [medium.com/bahasa-ai](https://medium.com/bahasa-ai) | [**aichat.id**](https://aichat.id/) | [**konvergen.ai**](https://konvergen.ai/) > [github.com/konvergen](https://github.com/konvergen) & [medium.com/konvergen](https://medium.com/konvergen)
 + Vision: [**nodeflux.io**](https://www.nodeflux.io/) > [github.com/nodefluxio](https://github.com/nodefluxio) & [medium.com/nodeflux](https://medium.com/nodeflux) | [**delligence.ai**](https://delligence.ai/index.html) | [**grit.id**](https://grit.id/index.html) > [github.com/grit-id](https://github.com/grit-id) | [**riset.ai**](https://www.riset.ai/)
 + Data Analytics: [**eureka.ai**](https://eureka.ai/)  | [**kepingai.com**](https://kepingai.com/)
