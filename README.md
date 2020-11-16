@@ -188,11 +188,14 @@
 + **Open Images dataset** - [Web](https://storage.googleapis.com/openimages/web/index.html) 
 + **Multiple Object Tracking (MOT) Benchmark**: [**MOT16** -  Univ. of Adelaide by A. Milan, et. al. (2016)](https://motchallenge.net/data/MOT16/) | [**KITTI**](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
 + **YouTube**: [YouTube-BoundingBoxes Dataset](https://research.google.com/youtube-bb/) - E. Real, et. al. | [YouTube-8M Dataset](https://research.google.com/youtube8m/) - S. Abu-El-Haija, et. al. (2017) | [YouTube-VOS Dataset](https://youtube-vos.org/dataset/) - Ning Xu, et. al. (2018)
-+ **KITTI Dataset** - University of Tübingen by Andreas Geiger (2012): [Raw](http://www.cvlibs.net/datasets/kitti/raw_data.php) | [Object 2D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) | [Object 3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) | [Bird's Eye View](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev) (**8 classes**)
-+ **Boxy Dataset** - bosch-ai by Karsten Behrendt (2019): [Web](https://boxy-dataset.com/boxy/) | [2D Box](https://boxy-dataset.com/boxy/benchmark_2d) | [3D Box](https://boxy-dataset.com/boxy/benchmark_3d) | [Realtime](https://boxy-dataset.com/boxy/benchmark_realtime)
 + **H3D Dataset** - Honda by Abhishek Patil et. al. (2019): [Paper](https://usa.honda-ri.com/documents/32932/126732/h3d_paper.pdf/6d92fba0-06f8-6a12-5d71-b6feb9ba0842) | [Web](https://usa.honda-ri.com/H3D) 
 + **BLVD Dataset** - Xian Jiaotong University by Jianru Xue, et. al. (2019): [Paper](https://arxiv.org/pdf/1903.06405.pdf) | [GitHub](https://github.com/VCCIV/BLVD)
-+ **nuScenes** - The nuScenes dataset is a large-scale autonomous driving dataset: [Link](https://www.nuscenes.org/) (**23 classes**)
+
+<ins>**Monocular 3D Object Detection**</ins>
++ **KITTI Dataset** - University of Tübingen by Andreas Geiger (**2012**): [Raw](http://www.cvlibs.net/datasets/kitti/raw_data.php) | [Object 2D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) | [Object 3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) | [Bird's Eye View](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev) (**8 classes**: car, van, truck, pedestrian, person_sitting, cyclist, tram, and misc or don’t care)
++ **Boxy Dataset** - bosch-ai by Karsten Behrendt (**2019**): [Web](https://boxy-dataset.com/boxy/) | [2D Box](https://boxy-dataset.com/boxy/benchmark_2d) | [3D Box](https://boxy-dataset.com/boxy/benchmark_3d) | [Realtime](https://boxy-dataset.com/boxy/benchmark_realtime) | [Paper](https://ieeexplore.ieee.org/document/9022257) (**1 classes**: freeways {passenger cars, trucks, campers, boats, car carriers, construction equipment, and motorcycles}, heavy traffic, traffic jams)
++ **nuScenes** - nuTonomy by Holger Caesar (**2019-03**) The nuScenes dataset is a large-scale autonomous driving dataset: [Link](https://www.nuscenes.org/) | [Toolbox](https://github.com/nutonomy/nuscenes-devkit) | [Paper](https://arxiv.org/abs/1903.11027) (**23 classes | 19 detection**: animal, debris, pushable, bicycle, ambulance, police, barrier, bicycle, bus, car, construction vehicle, motorcycle, pedestrian, personal mobility, stroller, wheelchair, traffic cone, trailer, truck)
++ **Cityscapes3D** - Mercedes-Benz AG by Nils Gählert (**2020-06**), Dataset and Benchmark for Monocular 3D Object Detection: [Link](https://www.cityscapes-dataset.com) | [Toolbox](https://github.com/mcordts/cityscapesScripts) | [Paper](https://arxiv.org/abs/2006.07864) (**8 classes**: car, truck, bus, on rails, motorcycle, bicycle, caravan, and trailer)
 
 ## Tools
 + [docker.com](https://www.docker.com/): build and ship apps.
@@ -264,3 +267,11 @@
 <ins>**Podcast**</ins>
 + **AI**: [Lex Fridman Podcast | Artificial Intelligence (AI)](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
 + **StartUp**: [Ngobrolin Startup & Teknologi by Imre Nagi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X)
+
+<ins>**Conferences for Image Processing & Computer Vision**</ins>: [guide2research.com](http://www.guide2research.com/topconf/computer-vision) | [openaccess.thecvf.com](https://openaccess.thecvf.com/menu)
++ **CVPR**: IEEE/CVF Conference on Computer Vision and Pattern Recognition: http://cvpr2021.thecvf.com/
++ **ICCV**: IEEE/CVF International Conference on Computer Vision: http://iccv2021.thecvf.com/home
++ **ECCV**: European Conference on Computer Vision: https://eccv2020.eu/
++ **WACV**: Workshop on Applications of Computer Vision: http://wacv2021.thecvf.com/home 
++ **3DV**: International Conference on 3D Vision: http://3dv2020.dgcv.nii.ac.jp/index.html
++ **ACCV**: Asian Conference on Computer Vision (ACCV): http://accv2020.kyoto/
