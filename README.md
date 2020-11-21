@@ -33,6 +33,7 @@
 
 <ins>**Deep Learning**</ins>
 + :star: [Awesome Deep Learning - Christos Christofidis](https://github.com/ChristosChristofidis/awesome-deep-learning) ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) (General) 
++ [Awesome AutoDL - D-X-Y](https://github.com/D-X-Y/Awesome-AutoDL) ![GitHub stars](https://img.shields.io/github/stars/D-X-Y/Awesome-AutoDL?style=social) (General) 
 + :star: [Deep Learning Papers Reading Roadmap - Flood Sung](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ![GitHub stars](https://img.shields.io/github/stars/floodsung/Deep-Learning-Papers-Reading-Roadmap?style=social) (Roadmap) 
 + [Awesome Deep Learning Resources - Guillaume Chevalier](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) ![GitHub stars](https://img.shields.io/github/stars/guillaume-chevalier/Awesome-Deep-Learning-Resources?style=social) (General)
 + [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) ![GitHub stars](https://img.shields.io/github/stars/fchollet/deep-learning-with-python-notebooks?style=social) (Tutorial) 
@@ -108,6 +109,7 @@
 <ins>**Computer Vision with Python**</ins>
 + :star: **Computer Vision with Python 3** (S. Kapur, 2017. Packt): [**Book**](https://www.packtpub.com/application-development/computer-vision-python-3) | [**GitHub**](https://github.com/PacktPublishing/Computer-Vision-with-Python-3)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Computer-Vision-with-Python-3?style=social)
 + **Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images** (Jan Erik Solem, 2012. O'Reilly): [**Book**](https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549)
++ **Modern Computer Vision with PyTorch** (V Kishore Ayyadevara, 2020. Packt): [**Book**](https://www.amazon.com/Modern-Computer-Vision-PyTorch-hands/dp/1839213477) | [**GitHub**](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch)
 
 ## All with C++
 <ins>**Basic C++ Books**</ins>
@@ -181,15 +183,25 @@
 + Communities: [**Indonesia AI Society**](https://indonesiaai.org/) | [**atapdata.ai**](https://atapdata.ai/) | [**coleaves.ai**](https://coleaves.ai/) | [**jakartamachinelearning**](https://jakartamachinelearning.com/) | [**datascienceID**](https://datascience.or.id/) | [**tau-dataID**](https://tau-data.id/) | [**aidi.id**](http://aidi.id/) | [**idbigdata**](https://idbigdata.com/official/)
 
 ## Datasets
-[cvpapers.com](http://www.cvpapers.com/datasets.html) | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) | [datasetlist.com](https://www.datasetlist.com/) | [deeplearning.net](http://deeplearning.net/datasets/) | [towardsai.net](https://towardsai.net/p/machine-learning/best-free-datasets-for-machine-learning-and-data-science/stanfordai/3451/)
+[cvpapers.com](http://www.cvpapers.com/datasets.html) | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) | [datasetlist.com](https://www.datasetlist.com/) | [deeplearning.net](http://deeplearning.net/datasets/) | [towardsai.net](https://towardsai.net/p/machine-learning/best-free-datasets-for-machine-learning-and-data-science/stanfordai/3451/) | [medium-towards-artificial-intelligence](https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d)
 + **MNIST Dataset** - New York University by Yann LeCun (1998): [Raw](http://yann.lecun.com/exdb/mnist/) 
-+ **CIFAR10 Dataset** - University of Toronto by Alex Krizhevsky (2009): [Raw](https://www.cs.toronto.edu/~kriz/cifar.html)
-+ **COCO Dataset** - COCO Consortium by Tsung-Yi Lin, et. al. (2015): [Web](http://cocodataset.org/) | [Download](http://cocodataset.org/#download) (**80 classes**)
 + **Open Images dataset** - [Web](https://storage.googleapis.com/openimages/web/index.html) 
-+ **Multiple Object Tracking (MOT) Benchmark**: [**MOT16** -  Univ. of Adelaide by A. Milan, et. al. (2016)](https://motchallenge.net/data/MOT16/) | [**KITTI**](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
 + **YouTube**: [YouTube-BoundingBoxes Dataset](https://research.google.com/youtube-bb/) - E. Real, et. al. | [YouTube-8M Dataset](https://research.google.com/youtube8m/) - S. Abu-El-Haija, et. al. (2017) | [YouTube-VOS Dataset](https://youtube-vos.org/dataset/) - Ning Xu, et. al. (2018)
 + **H3D Dataset** - Honda by Abhishek Patil et. al. (2019): [Paper](https://usa.honda-ri.com/documents/32932/126732/h3d_paper.pdf/6d92fba0-06f8-6a12-5d71-b6feb9ba0842) | [Web](https://usa.honda-ri.com/H3D) 
 + **BLVD Dataset** - Xian Jiaotong University by Jianru Xue, et. al. (2019): [Paper](https://arxiv.org/pdf/1903.06405.pdf) | [GitHub](https://github.com/VCCIV/BLVD)
+
+<ins>**Object Detection & Recognition**</ins>
++ **CIFAR10 [10]** - University of Toronto by Alex Krizhevsky (2009): [Raw](https://www.cs.toronto.edu/~kriz/cifar.html) (**10 classes**: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck) | [pdf](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)
++ **PASCAL VOC [20]** -  M. Everingham (2012):  [Raw](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html) (**20 classes**: **person**: person; **animal**:bird, cat, cow, dog, horse, sheep; **vehicle**: aeroplane, bicycle, boat, bus, car, motorbike, train; **indoor**: bottle, chair, dining table, potted plant, sofa, tv/monitor) | [pdf](http://host.robots.ox.ac.uk/pascal/VOC/pubs/everingham10.pdf)
++ **COCO [80]** - COCO Consortium by Tsung-Yi Lin, et. al. (2015): [Web](http://cocodataset.org/) | [Download](http://cocodataset.org/#download) (**80 classes**: person & accessory, animal, vehicle, aoutdoor objects, sports, kitchenware, food, furniture, appliance, electronics, and indoor objects) | [pdf](https://arxiv.org/abs/1405.0312)
++ **CIFAR100 [100]** - University of Toronto by Alex Krizhevsky (2009): [Raw](https://www.cs.toronto.edu/~kriz/cifar.html) (**100 classes**: **aquatic mammals**: beaver, dolphin, otter, seal, whale; **fish**: aquarium fish, flatfish, ray, shark, trout, **flowers**: orchids, poppies, roses, sunflowers, tulips; **food containers**: bottles, bowls, cans, cups, plates; **fruit and vegetables**: apples, mushrooms, oranges, pears, sweet peppers; **household electrical devices**: clock, computer keyboard, lamp, telephone, television; **household furniture**: bed, chair, couch, table, wardrobe; **insects**:  	bee, beetle, butterfly, caterpillar, cockroach; **large carnivores**: bear, leopard, lion, tiger, wolf; **large man-made outdoor things**: bridge, castle, house, road, skyscraper; **large natural outdoor scenes**: cloud, forest, mountain, plain, sea; **large omnivores and herbivores**:  	camel, cattle, chimpanzee, elephant, kangaroo; **medium-sized mammals**: fox, porcupine, possum, raccoon, skunk; **non-insect invertebrates**: crab, lobster, snail, spider, worm; **people**: baby, boy, girl, man, woman; **reptiles**: crocodile, dinosaur, lizard, snake, turtle; **small mammals**: hamster, mouse, rabbit, shrew, squirrel; **trees**: maple, oak, palm, pine, willow; **vehicles 1**: bicycle, bus, motorcycle, pickup truck, train; **vehicles 2**: lawn-mower, rocket, streetcar, tank, tractor) | [pdf](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)
++ **ImageNet [10,000]** Stanford University by Olga Russakovsky (2012) - [Raw](http://www.image-net.org/challenges/LSVRC/2012/index) | [pdf](https://link.springer.com/article/10.1007/s11263-015-0816-y?sa_campaign=email/event/articleAuthor/onlineFirst)
+
+<ins>**Object Tracking**</ins>
++ **KITTI [2]**:  [Raw](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)(**2 classes**: car & pedestrian) | [pdf](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf)
++ **LaSOT [85]**: A High-quality Large-scale Single Object TrackingBenchmark - Stony Brook University by Heng Fan (2020): [Raw](http://vision.cs.stonybrook.edu/~lasot/) (**85 classes**) | [pdf](https://arxiv.org/pdf/2009.03465.pdf)
++ **MOT16**: A Benchmark for Multi-Object Tracking -  Univ. of Adelaide by A. Milan, et. al. (2016)]: [Raw](https://motchallenge.net/data/MOT16/) | [pdf](https://arxiv.org/abs/1603.00831)
++ **TAO [833]**: A Large-Scale Benchmark for Tracking Any Object - Carnegie Mellon University by Achal Dave (2020): [Raw](https://taodataset.org/) (**833 classes**) | [pdf](https://arxiv.org/abs/2005.10356) 
 
 <ins>**Monocular 3D Object Detection**</ins>
 + **KITTI Dataset** - University of Tübingen by Andreas Geiger (**2012**): [Raw](http://www.cvlibs.net/datasets/kitti/raw_data.php) | [Object 2D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) | [Object 3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) | [Bird's Eye View](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev) (**8 classes**: car, van, truck, pedestrian, person_sitting, cyclist, tram, and misc or don’t care)
@@ -205,16 +217,22 @@
 + [cortex.dev](https://www.cortex.dev/): the open source stack for machine learning engineering.
 + [mlperf.org](https://mlperf.org/): Fair and useful benchmarks for measuring training and inference performance of ML hardware, software, and services. 
 
+===
+
 + [DIGITS](https://github.com/NVIDIA/DIGITS): DIGITS (the Deep Learning GPU Training System) is a webapp for training deep learning models. The currently supported frameworks are: Caffe, Torch, and Tensorflow.
 + [Optuna](https://github.com/optuna/optuna): A hyperparameter optimization framework.
 + [Determined](https://github.com/determined-ai/determined): Deep Learning Training Platform.
 + [cuDF](https://github.com/rapidsai/cudf): GPU DataFrame Library 
+
+===
 
 + [Netron](https://github.com/lutzroeder/netron): a viewer for neural network, deep learning and machine learning models.
 + [playground](https://github.com/tensorflow/playground): Deep playground is an interactive visualization of neural networks, written in TypeScript using d3.js.
 + [PerceptiLabs](https://github.com/PerceptiLabs/PerceptiLabs): a dataflow driven, visual API for TensorFlow that enables data scientists to work more efficiently with machine learning models and to gain more insight into their models.
 + [conv](https://www.cs.ryerson.ca/~aharley/vis/conv/): 3D visualization of convolutional neural network.
 + [PyTorchViz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs and traces.
+
+===
 
 + [openpilot](https://github.com/commaai/openpilot): is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 
@@ -265,8 +283,11 @@
 + **Machine Learning**: [Dwi H. Widyantoro, Dr (Machine Learning, Texas A&M University)](https://scholar.google.com/citations?user=lyaV0HgAAAAJ&hl=en)
 
 <ins>**Podcast**</ins>
-+ **AI**: [Lex Fridman Podcast | Artificial Intelligence (AI)](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
-+ **StartUp**: [Ngobrolin Startup & Teknologi by Imre Nagi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X)
++ **Indonesia Tech/Dev**: [Ceritanya Developer Podcast - Riza Fahmi](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs) | [Kode Nol - deep tech foundation](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY) | 
++ **Indonesia StartUp**: [Startup Studio Indonesia - Startup Studio Indonesia](https://open.spotify.com/show/2UFPq0jIelIlLPduFyLEYw) | [Ngobrolin Startup & Teknologi - Imre Nagi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X) | [#NgobrolinStartup - Dailysocial Podcast](https://open.spotify.com/show/5nn1jczLgAfiyrkdBGk5u2)
++ **Data Science**: [Towards Data Science - The TDS team](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU) | [DataPods - Data Science Indonesia](https://open.spotify.com/show/356i7xRQBUFukuL25UKsf1?si=fODHPgpuSv69xUktjbYQKw) | [Data Talks - KBR Prime x Algoritma](https://open.spotify.com/show/5rDY9Yt7vZE3NGlrypIKPI?si=3_iP2frHQxGvebwaahCsqw) 
++ **AI**: [AI Today Podcast: Artificial Intelligence Insights, Experts, and Opinion - Cognilytica](https://open.spotify.com/show/4z2M4S9e0K6yk3KB9XrO7h) | [Practical AI: Machine Learning & Data Science](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp?si=97a-K3SQSjuna7sK44DlWA) | [Lex Fridman Podcast - Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
++ **IoT**: [IoT For All Podcast - IoT For All](https://open.spotify.com/show/0jYLPvfCrBZVCwM5a7aldP?si=V3T5ASf4SOiX3kPoeSbPqw) | [IOTALK - IOTIZEN](https://open.spotify.com/show/1Lbma7v1cl1VdgUjGF0gOb?si=4caQHTsORh-cCie_y-OEuQ)
 
 <ins>**Conferences for Image Processing & Computer Vision**</ins>: [guide2research.com](http://www.guide2research.com/topconf/computer-vision) | [openaccess.thecvf.com](https://openaccess.thecvf.com/menu)
 + **CVPR**: IEEE/CVF Conference on Computer Vision and Pattern Recognition: http://cvpr2021.thecvf.com/
