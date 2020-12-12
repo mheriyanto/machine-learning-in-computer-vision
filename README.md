@@ -20,11 +20,11 @@
 
 <ins>**Machine Learning**</ins>
 + :star: [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
-+ :star: [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial)
++ [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial)
 + [2020 Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) ![GitHub stars](https://img.shields.io/github/stars/mrdbourke/machine-learning-roadmap?style=social) (Roadmap)
 + [Python Machine Learning Jupyter Notebooks](https://github.com/tirthajyoti/Machine-Learning-with-Python) ![GitHub stars](https://img.shields.io/github/stars/tirthajyoti/Machine-Learning-with-Python?style=social) (Tutorial)
 + [Machine Learning Mindset](https://github.com/machinelearningmindset) (Roadmap)
-+ [Awesome Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
++ :star: [Awesome Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
 + [3D Machine Learning - Yuxuan (Tim) Zhang](https://github.com/timzhang642/3D-Machine-Learning) ![GitHub stars](https://img.shields.io/github/stars/timzhang642/3D-Machine-Learning?style=social)
 + <ins>**Others**</ins>: 
   + [mlcourse.ai - Yorko](https://github.com/Yorko/mlcourse.ai) ![GitHub stars](https://img.shields.io/github/stars/Yorko/mlcourse.ai?style=social) 
@@ -40,7 +40,7 @@
 + [Awesome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
 + [Awesome 3D Point Cloud Analysis - Yongcheng](https://github.com/Yochengliu/awesome-point-cloud-analysis) ![GitHub stars](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis?style=social) (Roadmap)
 + <ins>**Edge Detection**</ins>:
-  + :star: [Awesome Edge Detection Papers - Haoran MO](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers) ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Edge-Detection-Papers?style=social)
+  + [Awesome Edge Detection Papers - Haoran MO](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers) ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Edge-Detection-Papers?style=social)
   + [Awesome Background Subtraction - Murari Mandal](https://github.com/murari023/awesome-background-subtraction) ![GitHub stars](https://img.shields.io/github/stars/murari023/awesome-background-subtraction?style=social)
   + [Awesome Semantic Segmentation - mrgloom](https://github.com/mrgloom/awesome-semantic-segmentation) ![GitHub stars](https://img.shields.io/github/stars/mrgloom/awesome-semantic-segmentation?style=social)
 + <ins>**Object Detection and Tracking**</ins>:
@@ -48,13 +48,10 @@
   + [Deep Learning for Tracking and Detection - Abhineet Singh](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ![GitHub stars](https://img.shields.io/github/stars/abhineet123/Deep-Learning-for-Tracking-and-Detection?style=social) (Roadmap) 
   + [Anomaly Detection Resources - Yue Zhao](https://github.com/yzhao062/anomaly-detection-resources) ![GitHub stars](https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources?style=social) (General)
   + [Awesome Anomaly Detection - Lee hoseong](https://github.com/hoya012/awesome-anomaly-detection) ![GitHub stars](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection?style=social) (General)
-+ <ins>**PyTorch Framework**</ins>:
-  + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
-  + :star: [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (Tutorial)
-  + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
 
 <ins>**Computer Vision**</ins>
-+ [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) ![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social) (General) 
++ :star: [Awesome Computer Vision - Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision) ![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social) (General) 
++ [Awesome Deep Vision - Jiwon Kim](https://github.com/kjw0612/awesome-deep-vision) ![GitHub stars](https://img.shields.io/github/stars/kjw0612/awesome-deep-vision?style=social) (General) 
 + :star: [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) ![GitHub stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=social) (Tutorial)
 
 ## Concepts
@@ -88,7 +85,8 @@
 + :star: **Learning Python Design Patterns** (G. Zlobin. 2013. Packt): [**Book**](https://www.packtpub.com/application-development/learning-python-design-patterns) | [**GitHub**](https://github.com/freephys/Learning-Python-Design-Patterns)![GitHub stars](https://img.shields.io/github/stars/freephys/Learning-Python-Design-Patterns?style=social)
 + **Mastering Python Design Patterns** (S. Kasampalis & K. Ayeva. 2018. Packt): [**Book**](https://www.packtpub.com/application-development/mastering-python-design-patterns-second-edition) | [**GitHub**](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition?style=social)
 + :star: **Clean Code in Python** (M. Anaya. 2018. Packt): [**Book**](https://www.packtpub.com/application-development/clean-code-python) | [**GitHub**](https://github.com/PacktPublishing/Clean-Code-in-Python)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Clean-Code-in-Python?style=social)
-+ **Machine Learning Design Patterns** (): [**Book**](https://shop.aer.io/oreilly/p/machine-learning-design/9781098115784-9149) | [**GitHub**](https://github.com/GoogleCloudPlatform/ml-design-patterns)![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/ml-design-patterns?style=social)
++ A collection of **design patterns/idioms in Python** (Sakis Kasampalis. GitHub): [**GitHub**](https://github.com/faif/python-patterns)![GitHub stars](https://img.shields.io/github/stars/faif/python-patterns?style=social)
++ **Machine Learning Design Patterns** (V. Lakshmanan, S. Robinson, M. Munn. 2020. O'Reilly): [**Book**](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783) | [**GitHub**](https://github.com/GoogleCloudPlatform/ml-design-patterns)![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/ml-design-patterns?style=social)
 
 <ins>**Data Science with Python**</ins>
 + :star: **Python Data Science Handbook** (J. Vanderplas. 2018. O'Reilly Media): [**Book**](https://www.oreilly.com/library/view/python-data-science/9781491912126/) | [**GitHub**](https://github.com/jakevdp/PythonDataScienceHandbook)![GitHub stars](https://img.shields.io/github/stars/jakevdp/PythonDataScienceHandbook?style=social) | [**Web**](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -114,11 +112,13 @@
 
 ## All with C++
 <ins>**Basic C++ Books**</ins>
-+ **CheatSheet** > [**C++ Core Guidelines**](https://github.com/isocpp/CppCoreGuidelines)![GitHub stars](https://img.shields.io/github/stars/isocpp/CppCoreGuidelines?style=social) | [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)![GitHub stars](https://img.shields.io/github/stars/mortennobel/cpp-cheatsheet?style=social) | [A cheatsheet of modern C++ language and library features](https://github.com/AnthonyCalandra/modern-cpp-features) | [awesome-cpp1](https://github.com/fffaraz/awesome-cpp)![GitHub stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp?style=social) | [awesome-cpp2](https://github.com/rigtorp/awesome-modern-cpp)![GitHub stars](https://img.shields.io/github/stars/rigtorp/awesome-modern-cpp?style=social)
++ **C++ Core Guidelines** (a collaborative effort led by Bjarne Stroustrup, much like the C++ language itself): [**Web**](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | [**GitHub**](https://github.com/isocpp/CppCoreGuidelines)![GitHub stars](https://img.shields.io/github/stars/isocpp/CppCoreGuidelines?style=social)
++ **CheatSheet** > [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)![GitHub stars](https://img.shields.io/github/stars/mortennobel/cpp-cheatsheet?style=social) | [A cheatsheet of modern C++ language and library features](https://github.com/AnthonyCalandra/modern-cpp-features) | [awesome-cpp1](https://github.com/fffaraz/awesome-cpp)![GitHub stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp?style=social) | [awesome-cpp2](https://github.com/rigtorp/awesome-modern-cpp)![GitHub stars](https://img.shields.io/github/stars/rigtorp/awesome-modern-cpp?style=social)
 + **cppreference.com** > [**Website**](https://en.cppreference.com/w/Main_Page)
 + **Matplot++**: A C++ Graphics Library for Data Visualization: [GitHub](https://github.com/alandefreitas/matplotplusplus)![GitHub stars](https://img.shields.io/github/stars/alandefreitas/matplotplusplus?style=social)
-+ **Programming: Principles and Practice Using C++** (B Stroustrup. 2008. Addison-Wesley Professional): [**Book**](https://www.stroustrup.com/programming.html) 
-+ **The C++ Programming Language** (B Stroustrup. 2013. Addison-Wesley Professional): [**Book**](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
++ **Programming: Principles and Practice Using C++** (B. Stroustrup. 2008. Addison-Wesley Professional): [**Book**](https://www.stroustrup.com/programming.html) 
++ **The C++ Programming Language** (B. Stroustrup. 2013. Addison-Wesley Professional): [**Book**](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
++ **Modern C++ Tutorial**: C++11/14/17/20 On the Fly (O. Changkun. 2020. ): [**Web**](https://changkun.de/modern-cpp/en-us/00-preface/) | [**Book**](https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) | [**GitHub**](https://github.com/changkun/modern-cpp-tutorial)![GitHub stars](https://img.shields.io/github/stars/changkun/modern-cpp-tutorial?style=social)
 
 <ins>**Machine Learning with C++**</ins>
 + **Hands-On Machine Learning with C++** (K. Kolodiazhnyi, 2020-05. Packt): [**Book**](https://www.packtpub.com/data/hands-on-machine-learning-with-c) | [**GitHub**](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Hands-On-Machine-Learning-with-CPP?style=social)
@@ -149,8 +149,20 @@
 + :star: **Deep Learning with PyTorch** (V. Subramanian, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-PyTorch?style=social)
 + :star: **Deep Learning with PyTorch** (Eli Stevens, 2020. MEAP): [**Book**](https://www.manning.com/books/deep-learning-with-pytorch#toc), [**Code**](https://www.manning.com/downloads/1754)
 + **Deep Learning with Keras** (S. Pal & A. Gulli, 2017. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-Keras?style=social)
+
+## PyTorch Frameworks
 + <ins>**Project Templates**</ins>
-  + PyTorch: :star: [victoresque](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social) | [moemen95](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social) | [L1aoXingyu](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
+  + :star: [victoresque](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social)
+  + [moemen95](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social)
+  + [L1aoXingyu](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
+ + <ins>**Awesome Lists**</ins>:
+  + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
+  + :star: [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (Tutorial)
+  + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
+  + [The Incredible PyTorch - ritchieng](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) (Lists)
+  
+## Network Programming
++ :star: **Foundations of Python Network Programming** (Brandon Rhodes. 2014. Apress): [**Book**](https://www.apress.com/gp/book/9781430258544) | [**GitHub**](https://github.com/brandon-rhodes/fopnp) ![GitHub stars](https://img.shields.io/github/stars/brandon-rhodes/fopnp?style=social)
 
 ## Research Groups
 <ins>**Universities**</ins>
@@ -191,6 +203,9 @@
 + **H3D Dataset** - Honda by Abhishek Patil et. al. (2019): [Paper](https://usa.honda-ri.com/documents/32932/126732/h3d_paper.pdf/6d92fba0-06f8-6a12-5d71-b6feb9ba0842) | [Web](https://usa.honda-ri.com/H3D) 
 + **BLVD Dataset** - Xian Jiaotong University by Jianru Xue, et. al. (2019): [Paper](https://arxiv.org/pdf/1903.06405.pdf) | [GitHub](https://github.com/VCCIV/BLVD)
 + **Awesome Vehicle Dataset**: [**manfreddiaz**](https://github.com/manfreddiaz/awesome-autonomous-vehicles#datasets)![GitHub stars](https://img.shields.io/github/stars/manfreddiaz/awesome-autonomous-vehicles?style=social) | [**hunjung-lim**](https://github.com/hunjung-lim/awesome-vehicle-datasets)![GitHub stars](https://img.shields.io/github/stars/hunjung-lim/awesome-vehicle-datasets?style=social) | [**AmiTitus**](https://github.com/AmiTitus/awesome-vehicle-datasets)![GitHub stars](https://img.shields.io/github/stars/AmiTitus/awesome-vehicle-datasets?style=social)
+
+<ins>**Vehicle Classification**</ins>
++ **Vehicle image database** - Universidad Politécnica de Madrid (UPM) by J. Arróspide (2012) - **3425 images** of vehicle rears: [Web](http://www.gti.ssr.upm.es/data/Vehicle_database.html)
 
 <ins>**Object Detection & Recognition**</ins>
 + **CIFAR10 [10]** - University of Toronto by Alex Krizhevsky (2009): [Raw](https://www.cs.toronto.edu/~kriz/cifar.html) (**10 classes**: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck) | [pdf](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)
@@ -237,6 +252,16 @@
 ===
 
 + [openpilot](https://github.com/commaai/openpilot): is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+
+## Interested Research
++ **Deep Learning Models** - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks:  [**GitHub**](https://github.com/rasbt/deeplearning-models) ![GitHub stars](https://img.shields.io/github/stars/rasbt/deeplearning-models?style=social)
++ **Hyperparameter Optimization of Machine Learning Algorithms** - Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear): [**GitHub**](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) ![GitHub stars](https://img.shields.io/github/stars/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms?style=social)
++ **FairMOT** - A simple baseline for one-shot multi-object tracking: [**GitHub**](https://github.com/ifzhang/FairMOT) ![GitHub stars](https://img.shields.io/github/stars/ifzhang/FairMOT?style=social)
+
+<ins>**Autonomous Vehicles**</ins>
++ **Awesome Autonomous Vehicles** - manfreddiaz: [**GitHub**](https://github.com/manfreddiaz/awesome-autonomous-vehicles) ![GitHub stars](https://img.shields.io/github/stars/manfreddiaz/awesome-autonomous-vehicles?style=social)
++ **Autoware** - Integrated open-source software for urban autonomous driving: [**Web**](www.autoware.ai/) | [**GitHub**](https://github.com/Autoware-AI/autoware.ai) ![GitHub stars](https://img.shields.io/github/stars/Autoware-AI/autoware.ai?style=social)
++ **CARLA Simulator** - Open-source simulator for autonomous driving research: [**GitHub**](https://github.com/carla-simulator/carla) ![GitHub stars](https://img.shields.io/github/stars/carla-simulator/carla?style=social)
 
 ## Benchmark
 [benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | [MobilePhone - ai-benchmark.com](http://ai-benchmark.com/index.html) | GitHub > [deep-learning-benchmark - u39kun](https://github.com/u39kun/deep-learning-benchmark), [DeepBench - baidu-research](https://github.com/baidu-research/DeepBench)
