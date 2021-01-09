@@ -163,6 +163,8 @@
   
 ## Network Programming
 + :star: **Foundations of Python Network Programming** (Brandon Rhodes. 2014. Apress): [**Book**](https://www.apress.com/gp/book/9781430258544) | [**GitHub**](https://github.com/brandon-rhodes/fopnp) ![GitHub stars](https://img.shields.io/github/stars/brandon-rhodes/fopnp?style=social)
++ **C++ Network Programming, Volume I**: Mastering Complexity with ACE and Patterns (Douglas Schmidt. 2001. Addison-Wesley Professional): [**Book**](https://www.amazon.com/Network-Programming-Mastering-Complexity-Patterns/dp/0201604647)
++ **C++ Network Programming, Volume 2**: Systematic Reuse with ACE and Frameworks (Douglas Schmidt. 2002. Addison-Wesley Professional): [**Book**](https://www.amazon.com/Network-Programming-Systematic-Reuse-Frameworks/dp/0201795256/ref=pd_bxgy_2/133-5779415-9596742?_encoding=UTF8&pd_rd_i=0201795256&pd_rd_r=4a8eab54-319f-4695-8fb4-cd0f5c4cdd82&pd_rd_w=2CejQ&pd_rd_wg=F4pA9&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=6NY7V1NSC7GMV9R01TTW&psc=1&refRID=6NY7V1NSC7GMV9R01TTW)
 
 ## Research Groups
 <ins>**Universities**</ins>
@@ -248,10 +250,16 @@
 + [PerceptiLabs](https://github.com/PerceptiLabs/PerceptiLabs): a dataflow driven, visual API for TensorFlow that enables data scientists to work more efficiently with machine learning models and to gain more insight into their models.
 + [conv](https://www.cs.ryerson.ca/~aharley/vis/conv/): 3D visualization of convolutional neural network.
 + [PyTorchViz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs and traces.
++ [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet): Latex code for making neural networks diagrams.
++ [ml-visuals](https://github.com/dair-ai/ml-visuals): ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing. 
 
 ===
 
 + [openpilot](https://github.com/commaai/openpilot): is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+
+===
+
++ [H2O Wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python.
 
 ## Interested Research
 + **Deep Learning Models** - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks:  [**GitHub**](https://github.com/rasbt/deeplearning-models) ![GitHub stars](https://img.shields.io/github/stars/rasbt/deeplearning-models?style=social)
