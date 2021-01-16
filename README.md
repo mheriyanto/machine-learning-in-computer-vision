@@ -130,19 +130,6 @@
 + **Learning OpenCV 3**: Computer Vision in C++ with the OpenCV Library: [**Book**](https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library-ebook/dp/B01MRXIYAN/ref=sr_1_5?dchild=1&keywords=opencv&qid=1590686604&sr=8-5) | [**GitHub**](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
 + **The CImg Library** is a small and open-source C++ toolkit for image processing: [**Web**](https://cimg.eu/)
 
-## Courses
-+ :star: **Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical** - WiraD.K. Putra (2020): [YouTube](https://www.youtube.com/channel/UCszUEDUxCax7i5YsbAt0Tag) | [GitHub](https://github.com/WiraDKP)
-+ **Neural networks** - University De Sherbrooke by Hugo Larochelle (2013): [YouTube](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PLEAYkSg4uSQ39wGk8XawnlfFYvjVftvUe) | [Web](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
-+ :star: **Standford Machine Learning** - Standford by Andrew Ng (2008): [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
-+ :star: **Caltech Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
-+ :star: **Carnegie Mellon University Deep Learning** - CMU by: [YouTube](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) | [Web](http://deeplearning.cs.cmu.edu/)
-+ :star: **Deeplearning.ai Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
-+ **Standford Neural Networks and Deep Learning** - Standford by Fei-Fei Li: [YouTube: 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-+ **MIT Deep Learning** - MIT by Lex Fridman: [GitHub](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [YouTube](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
-+ **Stanford Deep Learning** - Stanford by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
-+ :star: **Deep Learning with PyTorch** - by  sentdex: [YouTube](https://www.youtube.com/watch?v=BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
-+ **Computer Vision** - Univ. Central Florida by Mubarak Shah [YouTube](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
-
 ## Deep Learning Frameworks
 + **Deep Learning with TensorFlow** (G. Zaccone & Md.R. Karim, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-TensorFlow?style=social)
 + **Deep Learning with PyTorch 1.0** (S. Yogesh K, 2019. Packt): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
@@ -155,16 +142,29 @@
   + :star: [victoresque](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social)
   + [moemen95](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social)
   + [L1aoXingyu](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
- + <ins>**Awesome Lists**</ins>:
++ <ins>**Awesome Lists**</ins>:
   + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
   + :star: [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (Tutorial)
   + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
   + [The Incredible PyTorch - ritchieng](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) (Lists)
-  
+
 ## Network Programming
 + :star: **Foundations of Python Network Programming** (Brandon Rhodes. 2014. Apress): [**Book**](https://www.apress.com/gp/book/9781430258544) | [**GitHub**](https://github.com/brandon-rhodes/fopnp) ![GitHub stars](https://img.shields.io/github/stars/brandon-rhodes/fopnp?style=social)
 + **C++ Network Programming, Volume I**: Mastering Complexity with ACE and Patterns (Douglas Schmidt. 2001. Addison-Wesley Professional): [**Book**](https://www.amazon.com/Network-Programming-Mastering-Complexity-Patterns/dp/0201604647)
 + **C++ Network Programming, Volume 2**: Systematic Reuse with ACE and Frameworks (Douglas Schmidt. 2002. Addison-Wesley Professional): [**Book**](https://www.amazon.com/Network-Programming-Systematic-Reuse-Frameworks/dp/0201795256/ref=pd_bxgy_2/133-5779415-9596742?_encoding=UTF8&pd_rd_i=0201795256&pd_rd_r=4a8eab54-319f-4695-8fb4-cd0f5c4cdd82&pd_rd_w=2CejQ&pd_rd_wg=F4pA9&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=6NY7V1NSC7GMV9R01TTW&psc=1&refRID=6NY7V1NSC7GMV9R01TTW)
+
+## Courses
++ :star: **Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical** - WiraD.K. Putra (2020): [YouTube](https://www.youtube.com/channel/UCszUEDUxCax7i5YsbAt0Tag) | [GitHub](https://github.com/WiraDKP)
++ **Neural networks** - University De Sherbrooke by Hugo Larochelle (2013): [YouTube](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PLEAYkSg4uSQ39wGk8XawnlfFYvjVftvUe) | [Web](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
++ :star: **Standford Machine Learning** - Standford by Andrew Ng (2008): [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
++ :star: **Caltech Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
++ :star: **Carnegie Mellon University Deep Learning** - CMU by: [YouTube](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) | [Web](http://deeplearning.cs.cmu.edu/)
++ :star: **Deeplearning.ai Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
++ **Standford Neural Networks and Deep Learning** - Standford by Fei-Fei Li: [YouTube: 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
++ **MIT Deep Learning** - MIT by Lex Fridman: [GitHub](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [YouTube](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
++ **Stanford Deep Learning** - Stanford by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
++ :star: **Deep Learning with PyTorch** - by  sentdex: [YouTube](https://www.youtube.com/watch?v=BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
++ **Computer Vision** - Univ. Central Florida by Mubarak Shah [YouTube](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
 
 ## Research Groups
 <ins>**Universities**</ins>
@@ -228,6 +228,20 @@
 + **nuScenes** - nuTonomy by Holger Caesar (**2019-03**) The nuScenes dataset is a large-scale autonomous driving dataset: [Link](https://www.nuscenes.org/) | [Toolbox](https://github.com/nutonomy/nuscenes-devkit) | [Paper](https://arxiv.org/abs/1903.11027) (**23 classes | 19 detection**: animal, debris, pushable, bicycle, ambulance, police, barrier, bicycle, bus, car, construction vehicle, motorcycle, pedestrian, personal mobility, stroller, wheelchair, traffic cone, trailer, truck)
 + **Cityscapes3D** - Mercedes-Benz AG by Nils Gählert (**2020-06**), Dataset and Benchmark for Monocular 3D Object Detection: [Link](https://www.cityscapes-dataset.com) | [Toolbox](https://github.com/mcordts/cityscapesScripts) | [Paper](https://arxiv.org/abs/2006.07864) (**8 classes**: car, truck, bus, on rails, motorcycle, bicycle, caravan, and trailer)
 
+## Hardware
+
+<ins>**Edge Hardware**</ins>
++ Jetson Nano Dev Board: [**Website**](https://developer.nvidia.com/embedded/jetson-modules) | [**GitHub**](https://github.com/dusty-nv/jetson-inference)
++ Google Coral Dev Board: [**Website**](https://coral.ai/docs/dev-board/get-started) | [**GitHub**](https://github.com/google-coral)
++ Intel Neural Compute Sticks: [**Website**](https://ark.intel.com/content/www/us/en/ark/products/125743/intel-movidius-neural-compute-stick.html) | [**GitHub**](https://github.com/movidius) 
+
+<ins>**Processor**</ins>
++ Tensor Processing Unit (**TPU**) by Google: [Wiki](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
++ Neural Processing Unit (**NPU**) by MobilePhone Company: [Wiki](https://en.wikichip.org/wiki/neural_processor)
++ Vision Processing Unit (**VPU**) by NEC & Intel: [Wiki](https://en.wikipedia.org/wiki/Vision_processing_unit)
++ Intelligence Processing Unit (**IPU**) by Graphcore: [GitHub](https://github.com/graphcore)
++ Machine Learning Unit (**MLU**) by Cambricon: [GitHub](https://github.com/Cambricon)
+
 ## Tools
 + [docker.com](https://www.docker.com/): build and ship apps.
 + [comet.ml](https://www.comet.ml/site/): track, compare, explain and optimize experiments and models.
@@ -252,6 +266,7 @@
 + [PyTorchViz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs and traces.
 + [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet): Latex code for making neural networks diagrams.
 + [ml-visuals](https://github.com/dair-ai/ml-visuals): ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing. 
++ [traingenerator](https://github.com/jrieke/traingenerator): A web app to generate template code for machine learning.
 
 ===
 
@@ -265,6 +280,7 @@
 + **Deep Learning Models** - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks:  [**GitHub**](https://github.com/rasbt/deeplearning-models) ![GitHub stars](https://img.shields.io/github/stars/rasbt/deeplearning-models?style=social)
 + **Hyperparameter Optimization of Machine Learning Algorithms** - Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear): [**GitHub**](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) ![GitHub stars](https://img.shields.io/github/stars/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms?style=social)
 + **FairMOT** - A simple baseline for one-shot multi-object tracking: [**GitHub**](https://github.com/ifzhang/FairMOT) ![GitHub stars](https://img.shields.io/github/stars/ifzhang/FairMOT?style=social)
++ **Transformer**: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) | [pytorch2libtorch](https://github.com/dk-liang/pytorch2libtorch) | [Fast Transformers](https://github.com/idiap/fast-transformers)
 
 <ins>**Autonomous Vehicles**</ins>
 + **Awesome Autonomous Vehicles** - manfreddiaz: [**GitHub**](https://github.com/manfreddiaz/awesome-autonomous-vehicles) ![GitHub stars](https://img.shields.io/github/stars/manfreddiaz/awesome-autonomous-vehicles?style=social)
