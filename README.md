@@ -54,6 +54,9 @@
 + [Awesome Deep Vision - Jiwon Kim](https://github.com/kjw0612/awesome-deep-vision) ![GitHub stars](https://img.shields.io/github/stars/kjw0612/awesome-deep-vision?style=social) (General) 
 + :star: [Learn OpenCV - Satya Mallick](https://github.com/spmallick/learnopencv) ![GitHub stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=social) (Tutorial)
 
+<ins>**Production**</ins>
++ Papers and blogs by organizations sharing their work on data science & machine learning in **production**: [applied-ml - eugeneyan](https://github.com/eugeneyan/applied-ml) ![GitHub stars](https://img.shields.io/github/stars/eugeneyan/applied-ml?style=social)
+
 ## Concepts
 <ins>**Mathematics Concepts**</ins>
 + **ProofWiki** (proofwiki.org): [**Web**](https://proofwiki.org/wiki/Main_Page)
@@ -138,10 +141,13 @@
 + **Deep Learning with Keras** (S. Pal & A. Gulli, 2017. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-Keras?style=social)
 
 ## PyTorch Frameworks
-+ <ins>**Project Templates**</ins>
-  + :star: [victoresque](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social)
-  + [moemen95](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social)
-  + [L1aoXingyu](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
++ <ins>**Project Templates: Python**</ins>
+  + :star: [victoresque - pytorch-template](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social)
+  + [moemen95 - Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social)
+  + [L1aoXingyu - Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
++ <ins>**Project Templates: C++**</ins>
+  + :star: [kigster - CMake C++ Project Template](https://github.com/kigster/cmake-project-template)![GitHub stars](https://img.shields.io/github/stars/kigster/cmake-project-template?style=social)
+
 + <ins>**Awesome Lists**</ins>:
   + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
   + :star: [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (Tutorial)
@@ -156,19 +162,18 @@
 ## Courses
 + :star: **Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical** - WiraD.K. Putra (2020): [YouTube](https://www.youtube.com/channel/UCszUEDUxCax7i5YsbAt0Tag) | [GitHub](https://github.com/WiraDKP)
 + **Neural networks** - University De Sherbrooke by Hugo Larochelle (2013): [YouTube](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PLEAYkSg4uSQ39wGk8XawnlfFYvjVftvUe) | [Web](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
-+ :star: **Standford Machine Learning** - Standford by Andrew Ng (2008): [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
-+ :star: **Caltech Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
-+ :star: **Carnegie Mellon University Deep Learning** - CMU by: [YouTube](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) | [Web](http://deeplearning.cs.cmu.edu/)
-+ :star: **Deeplearning.ai Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
++ **Standford Machine Learning** - Standford by Andrew Ng (2008): [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
++ **Caltech Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
++ **Carnegie Mellon University Deep Learning** - CMU by: [YouTube](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) | [Web](http://deeplearning.cs.cmu.edu/)
++ **Deeplearning.ai Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
 + **Standford Neural Networks and Deep Learning** - Standford by Fei-Fei Li: [YouTube: 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 + **MIT Deep Learning** - MIT by Lex Fridman: [GitHub](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [YouTube](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
 + **Stanford Deep Learning** - Stanford by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
-+ :star: **Deep Learning with PyTorch** - by  sentdex: [YouTube](https://www.youtube.com/watch?v=BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
++ **Deep Learning with PyTorch** - by  sentdex: [YouTube](https://www.youtube.com/watch?v=BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
 + **Computer Vision** - Univ. Central Florida by Mubarak Shah [YouTube](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
 
 ## Research Groups
 <ins>**Universities**</ins>
-
 + [**Standford Univ - Machine Learning Group**](https://stanfordmlgroup.github.io/) ([Prof. Andrew Ng](https://www.linkedin.com/in/andrewyng/)) 
 + [**Standford Univ - Vision and Learning Lab**](http://vision.stanford.edu/) ([Prof. Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/)) 
 + [**Univ of Montreal - Mila**](https://mila.quebec/en/) ([Prof. Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/))
@@ -178,16 +183,27 @@
 + [**MIT - Deep Learning**](https://deeplearning.mit.edu/) ([Lex Fridman](https://lexfridman.com/))
 
 <ins>**Corporations**</ins>
-
-[**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/), [**GitHub** Google AI Research](https://github.com/google-research) | [**Facebook AI**](https://ai.facebook.com/): [PyTorch](https://pytorch.org/), [**GitHub** Facebook Research](https://github.com/facebookresearch) | [**Microsoft AI**](https://aischool.microsoft.com/en-us/home): [Microsoft Cognitive Toolkit (CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/), [**GitHub** Microsoft AI](https://github.com/microsoft/ailab) | [**Amazon AI**](https://aws.amazon.com/ai/): [Alexa](https://github.com/alexa) | [**Apple AI**](https://machinelearning.apple.com/) | [**Alibaba AI**](https://damo.alibaba.com/labs/ai): [**GitHub** Alibaba AI](https://github.com/alibaba) | [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/) | [**Nvidia AI**](https://www.nvidia.com/en-us/deep-learning-ai/): [**GitHub** Nvidia AI](https://github.com/NVIDIA-AI-IOT) | [Tencent AI](https://opensource.tencent.com/): [**GitHub** Tencent AI](https://github.com/Tencent)
++ [**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/), [**GitHub** Google AI Research](https://github.com/google-research) 
++ [**Facebook AI**](https://ai.facebook.com/): [PyTorch](https://pytorch.org/), [**GitHub** Facebook Research](https://github.com/facebookresearch) 
++ [**Microsoft AI**](https://aischool.microsoft.com/en-us/home): [Microsoft Cognitive Toolkit (CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/), [**GitHub** Microsoft AI](https://github.com/microsoft/ailab) 
++ [**Amazon AI**](https://aws.amazon.com/ai/): [Alexa](https://github.com/alexa) 
++ [**Apple AI**](https://machinelearning.apple.com/) 
++ [**Alibaba AI**](https://damo.alibaba.com/labs/ai): [**GitHub** Alibaba AI](https://github.com/alibaba) 
++ [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/) 
++ [**Nvidia AI**](https://www.nvidia.com/en-us/deep-learning-ai/): [**GitHub** Nvidia AI](https://github.com/NVIDIA-AI-IOT) 
++ [**Tencent AI**](https://opensource.tencent.com/): [**GitHub** Tencent AI](https://github.com/Tencent)
 
 <ins>**Ph.D. in Machine Learning**</ins>
-
-[**Machine Learning** - Carnegie Mellon University](https://www.ml.cmu.edu/academics/ml-phd.html) | [**EECS** - University of California — Berkeley](https://eecs.berkeley.edu/academics/graduate) | [**Computer Science** - Stanford University](https://cs.stanford.edu/academics/phd) | [**EECS** - Massachusetts Institute of Technology](https://www.eecs.mit.edu/academics-admissions/graduate-program) | [**Computer Science** - Cornell University](https://www.engineering.cornell.edu/admissions/graduate-admissions/admissions-phd-students)
++ [**Machine Learning** - Carnegie Mellon University](https://www.ml.cmu.edu/academics/ml-phd.html) 
++ [**EECS** - University of California — Berkeley](https://eecs.berkeley.edu/academics/graduate) 
++ [**Computer Science** - Stanford University](https://cs.stanford.edu/academics/phd) 
++ [**EECS** - Massachusetts Institute of Technology](https://www.eecs.mit.edu/academics-admissions/graduate-program) 
++ [**Computer Science** - Cornell University](https://www.engineering.cornell.edu/admissions/graduate-admissions/admissions-phd-students)
 
 <ins>**Products**</ins>
-
-**Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) | **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) | [deepdetect.com](https://www.deepdetect.com/)
++ **Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) 
++ **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) 
++ **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) | [deepdetect.com](https://www.deepdetect.com/)
 
 <ins>**AI Start-Up in Indonesia**</ins>
 + Institutions: [**ai-innovation.id**](https://ai-innovation.id/) | [**Strategi Nasional Kecerdasan Artifisial (KA)**](https://ai-innovation.id/strategi)
