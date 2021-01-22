@@ -201,8 +201,8 @@
 + [**Computer Science** - Cornell University](https://www.engineering.cornell.edu/admissions/graduate-admissions/admissions-phd-students)
 
 <ins>**Products**</ins>
-+ **Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) 
-+ **Industrial Autonomy & Robotics**: [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) 
++ **Self-driving Car**: [Tesla](https://www.tesla.com/en_au) | [Waymo](https://waymo.com/) | [Lyft](https://self-driving.lyft.com/) | [Argo](https://www.argo.ai/) | [Voyage](https://voyage.auto/) | [Aurora](https://aurora.tech/) | [cruise](https://www.getcruise.com/) | []() 
++ **Industrial Autonomy & Robotics**: [bostondynamics](https://www.bostondynamics.com/) | [Anki](https://anki.com/) | [Mov.ai](https://mov.ai/) 
 + **AI**: [Ultralytics LLC](https://github.com/ultralytics) | [FirmAI](https://github.com/firmai) | [deepdetect.com](https://www.deepdetect.com/)
 
 <ins>**AI Start-Up in Indonesia**</ins>
@@ -271,7 +271,9 @@
 + [DIGITS](https://github.com/NVIDIA/DIGITS): DIGITS (the Deep Learning GPU Training System) is a webapp for training deep learning models. The currently supported frameworks are: Caffe, Torch, and Tensorflow.
 + [Optuna](https://github.com/optuna/optuna): A hyperparameter optimization framework.
 + [Determined](https://github.com/determined-ai/determined): Deep Learning Training Platform.
-+ [cuDF](https://github.com/rapidsai/cudf): GPU DataFrame Library 
++ [cuDF](https://github.com/rapidsai/cudf): GPU DataFrame Library.
++ [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective. 
++ [dvc](https://github.com/iterative/dvc): Data Version Control | Git for Data & Models.
 
 ===
 
