@@ -134,11 +134,18 @@
 + **The CImg Library** is a small and open-source C++ toolkit for image processing: [**Web**](https://cimg.eu/)
 
 ## Deep Learning Frameworks
-+ **Deep Learning with TensorFlow** (G. Zaccone & Md.R. Karim, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-TensorFlow?style=social)
-+ **Deep Learning with PyTorch 1.0** (S. Yogesh K, 2019. Packt): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
-+ :star: **Deep Learning with PyTorch** (V. Subramanian, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-PyTorch?style=social)
-+ :star: **Deep Learning with PyTorch** (Eli Stevens, 2020. MEAP): [**Book**](https://www.manning.com/books/deep-learning-with-pytorch#toc), [**Code**](https://www.manning.com/downloads/1754)
 + **Deep Learning with Keras** (S. Pal & A. Gulli, 2017. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-Keras?style=social)
+
+## TensorFlow Frameworks
++ <ins>**Project Templates: Python**</ins>
++ Bla-bla
+
++ <ins>**TensorFlow Books**</ins>:
+  + **Deep Learning with TensorFlow** (G. Zaccone & Md.R. Karim, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-TensorFlow?style=social)
+
++ <ins>**TensorFlow Lite Books**</ins>:
+  + **TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers** (Pete Warden, 2020-01. O'Reilly Media): [**Book**](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
+  + **Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter**: Build scalable real-world projects to implement end-to-end neural networks on Android and iOS (Anubhav Singh, Rimjhim Bhadani, 2020. Packt): [**Book**](https://www.amazon.com/Mobile-Deep-Learning-TensorFlow-Flutter/dp/1789611210)
 
 ## PyTorch Frameworks
 + <ins>**Project Templates: Python**</ins>
@@ -153,6 +160,11 @@
   + :star: [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (Tutorial)
   + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
   + [The Incredible PyTorch - ritchieng](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) (Lists)
+  
++ <ins>**PyTorch Books**</ins>:
+  + **Deep Learning with PyTorch** (V. Subramanian, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-PyTorch?style=social)
+  + **Deep Learning with PyTorch 1.0** (S. Yogesh K, 2019. Packt): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
+  + :star: **Deep Learning with PyTorch** (Eli Stevens, 2020. MEAP): [**Book**](https://www.manning.com/books/deep-learning-with-pytorch#toc) and [**Code**](https://www.manning.com/downloads/1754)
 
 ## Network Programming
 + :star: **Foundations of Python Network Programming** (Brandon Rhodes. 2014. Apress): [**Book**](https://www.apress.com/gp/book/9781430258544) | [**GitHub**](https://github.com/brandon-rhodes/fopnp) ![GitHub stars](https://img.shields.io/github/stars/brandon-rhodes/fopnp?style=social)
