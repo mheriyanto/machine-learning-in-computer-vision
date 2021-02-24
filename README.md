@@ -257,11 +257,14 @@
 + **Cityscapes3D** - Mercedes-Benz AG by Nils Gählert (**2020-06**), Dataset and Benchmark for Monocular 3D Object Detection: [Link](https://www.cityscapes-dataset.com) | [Toolbox](https://github.com/mcordts/cityscapesScripts) | [Paper](https://arxiv.org/abs/2006.07864) (**8 classes**: car, truck, bus, on rails, motorcycle, bicycle, caravan, and trailer)
 
 ## Hardware
+[edge-ai - crespum](https://github.com/crespum/edge-ai#hardware)
 
 <ins>**Edge Hardware**</ins>
-+ Jetson Nano Dev Board: [**Website**](https://developer.nvidia.com/embedded/jetson-modules) | [**GitHub**](https://github.com/dusty-nv/jetson-inference)
-+ Google Coral Dev Board: [**Website**](https://coral.ai/docs/dev-board/get-started) | [**GitHub**](https://github.com/google-coral)
-+ Intel Neural Compute Sticks: [**Website**](https://ark.intel.com/content/www/us/en/ark/products/125743/intel-movidius-neural-compute-stick.html) | [**GitHub**](https://github.com/movidius) 
++ **Jetson Nano Dev Board** - brings accelerated AI performance to the Edge in a power-efficient and compact form factor: [**Website**](https://developer.nvidia.com/embedded/jetson-modules) | [**GitHub**](https://github.com/dusty-nv/jetson-inference)
++ **Google Coral Dev Board** - is a complete toolkit to build products with local AI. Our on-device inferencing capabilities allow you to build products that are efficient, private, fast and offline: [**Website**](https://coral.ai/docs/dev-board/get-started) | [**GitHub**](https://github.com/google-coral)
++ **Intel Movidius Neural Compute Sticks** - enables rapid prototyping, validation and deployment of Deep Neural Network (DNN) inference applications at the edge. : [**Website**](https://ark.intel.com/content/www/us/en/ark/products/125743/intel-movidius-neural-compute-stick.html) | [**GitHub**](https://github.com/movidius) 
++ **ARM microNPU** - Processors designed to accelerate ML inference (being the first one the Ethos-U55): [**Website**](https://www.arm.com/products/silicon-ip-cpu/ethos/ethos-u55)
++ **Espressif ESP32-S3** - SoC similar to the well-known ESP32 with support for AI acceleration (among many other interesting differences): [**Website**](https://www.espressif.com/en/products/socs/esp32-s3)
 
 <ins>**Processor**</ins>
 + Tensor Processing Unit (**TPU**) by Google: [Wiki](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
@@ -269,6 +272,25 @@
 + Vision Processing Unit (**VPU**) by NEC & Intel: [Wiki](https://en.wikipedia.org/wiki/Vision_processing_unit)
 + Intelligence Processing Unit (**IPU**) by Graphcore: [GitHub](https://github.com/graphcore)
 + Machine Learning Unit (**MLU**) by Cambricon: [GitHub](https://github.com/Cambricon)
+
+## Deep Learning Frameworks for Embedded (IOT) & Mobile Devices
+
+[Embedded and mobile deep learning - csarron](https://github.com/csarron/awesome-emdl) | [Awesome Mobile Machine Learning - fritzlabs](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) | [Awesome Edge Machine Learning - Bisonai](https://github.com/Bisonai/awesome-edge-machine-learning) | [edge-ai - crespum](https://github.com/crespum/edge-ai#software) | [AI-performance - embedded-ai.bench](https://github.com/AI-performance/embedded-ai.bench)
+
++ [TensorFlow Lite](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite): **TensorFlow Lite** is an open source deep learning framework for on-device inference.
++ [The Arm's ComputeLibrary framework](https://github.com/ARM-software/ComputeLibrary): **ComputeLibrary** is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies. 
++ [The Alibaba's MNN framework](https://github.com/alibaba/MNN): **MNN** is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
++ [The Tencent's ncnn framework](https://github.com/Tencent/ncnn): **ncnn** is a high-performance neural network inference framework optimized for the mobile platform.
++ [The Baidu's Paddle Lite framework](https://github.com/PaddlePaddle/Paddle-Lite): **Paddle Lite** is multi-platform high performance deep learning inference engine.
++ [The XiaoMi's Mace framework](https://github.com/XiaoMi/mace): **MACE** is a deep learning inference framework optimized for mobile heterogeneous computing platforms. 
++ [The Apple's CoreML framework](https://developer.apple.com/documentation/coreml): **CoreML** is integrate machine learning models into your app.
++ [The Microsoft's ELL framework](https://github.com/Microsoft/ELL): **ELL** allows you to design and deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers, like Raspberry Pi, Arduino, and micro:bit. 
++ [PyTorch Mobile](https://pytorch.org/mobile/home/): **PyTorch Mobile** is a new framework for helping mobile developers and machine learning engineers embed PyTorch ML models on-device. 
++ [dabnn - JDAI Computer Vision](https://github.com/JDAI-CV/dabnn): **dabnn** is an accelerated binary neural networks inference framework for mobile platform.
++ [OpenCV](https://opencv.org/platforms/): **OpenCV** is Open Source Computer Vision Library that was designed to be cross-platform.
++ [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit): **DeepLearningKit** is Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS.
++ [Tengine - OAID](https://github.com/OAID/Tengine): **Tengine** is a lite, high performance, modular inference engine for embedded device.
++ [Bender](https://github.com/xmartlabs/Bender): **Bender** is easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 
 ## Tools
 + [docker.com](https://www.docker.com/): build and ship apps.
