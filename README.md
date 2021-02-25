@@ -299,6 +299,7 @@
 + [mlflow.org](https://mlflow.org/): an open source platform for the machine learning lifecycle.
 + [cortex.dev](https://www.cortex.dev/): the open source stack for machine learning engineering.
 + [mlperf.org](https://mlperf.org/): Fair and useful benchmarks for measuring training and inference performance of ML hardware, software, and services. 
++ [grpc](https://github.com/grpc/grpc): A high performance, open source, general-purpose RPC framework.
 
 ===
 
@@ -338,6 +339,7 @@
 + **Awesome Autonomous Vehicles** - manfreddiaz: [**GitHub**](https://github.com/manfreddiaz/awesome-autonomous-vehicles) ![GitHub stars](https://img.shields.io/github/stars/manfreddiaz/awesome-autonomous-vehicles?style=social)
 + **Autoware** - Integrated open-source software for urban autonomous driving: [**Web**](www.autoware.ai/) | [**GitHub**](https://github.com/Autoware-AI/autoware.ai) ![GitHub stars](https://img.shields.io/github/stars/Autoware-AI/autoware.ai?style=social)
 + **CARLA Simulator** - Open-source simulator for autonomous driving research: [**GitHub**](https://github.com/carla-simulator/carla) ![GitHub stars](https://img.shields.io/github/stars/carla-simulator/carla?style=social)
++ Self-DrivingToy Car - experiencor: [**GitHub**](https://github.com/experiencor/self-driving-toy-car)
 
 ## Benchmark
 [benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | [MobilePhone - ai-benchmark.com](http://ai-benchmark.com/index.html) | GitHub > [deep-learning-benchmark - u39kun](https://github.com/u39kun/deep-learning-benchmark), [DeepBench - baidu-research](https://github.com/baidu-research/DeepBench)
@@ -386,8 +388,8 @@
 + **Machine Learning**: [Dwi H. Widyantoro, Dr (Machine Learning, Texas A&M University)](https://scholar.google.com/citations?user=lyaV0HgAAAAJ&hl=en)
 
 <ins>**Podcast**</ins>
-+ **Indonesia Tech/Dev**: [Ceritanya Developer Podcast - Riza Fahmi](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs) | [Kode Nol - deep tech foundation](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY)
-+ **Indonesia StartUp**: [Startup Studio Indonesia - Startup Studio Indonesia](https://open.spotify.com/show/2UFPq0jIelIlLPduFyLEYw) | [The Spectrum Talks - Anggriawan Sugianto](https://open.spotify.com/show/7D2MQnYYeui5DsXzfWMLXF?si=q1AFCiuuQ4CMtUTl_X9Mdg) | [Ngobrolin Startup & Teknologi - Imre Nagi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X) | [#NgobrolinStartup - Dailysocial Podcast](https://open.spotify.com/show/5nn1jczLgAfiyrkdBGk5u2)
++ **Indonesian Tech/Dev**: [Ceritanya Developer Podcast - Riza Fahmi](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs) | [Kode Nol - deep tech foundation](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY)
++ **Indonesian StartUp**: [Startup Studio Indonesia - Startup Studio Indonesia](https://open.spotify.com/show/2UFPq0jIelIlLPduFyLEYw) | [The Spectrum Talks - Anggriawan Sugianto](https://open.spotify.com/show/7D2MQnYYeui5DsXzfWMLXF?si=q1AFCiuuQ4CMtUTl_X9Mdg) | [Ngobrolin Startup & Teknologi - Imre Nagi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X) | [Startup Hour by StartupIndonesia: StartupIndonesia](https://open.spotify.com/show/0jIz5Q3Bm2y7IO3XsQSBFO) | [#NgobrolinStartup - Dailysocial Podcast](https://open.spotify.com/show/5nn1jczLgAfiyrkdBGk5u2)
 + **Data Science**: [Towards Data Science - The TDS team](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU) | [DataPods - Data Science Indonesia](https://open.spotify.com/show/356i7xRQBUFukuL25UKsf1?si=fODHPgpuSv69xUktjbYQKw) | [Data Talks - KBR Prime x Algoritma](https://open.spotify.com/show/5rDY9Yt7vZE3NGlrypIKPI?si=3_iP2frHQxGvebwaahCsqw) 
 + **AI**: [AI Today Podcast: Artificial Intelligence Insights, Experts, and Opinion - Cognilytica](https://open.spotify.com/show/4z2M4S9e0K6yk3KB9XrO7h) | [Practical AI: Machine Learning & Data Science](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp?si=97a-K3SQSjuna7sK44DlWA) | [Lex Fridman Podcast - Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
 + **IoT**: [IoT For All Podcast - IoT For All](https://open.spotify.com/show/0jYLPvfCrBZVCwM5a7aldP?si=V3T5ASf4SOiX3kPoeSbPqw) | [IOTALK - IOTIZEN](https://open.spotify.com/show/1Lbma7v1cl1VdgUjGF0gOb?si=4caQHTsORh-cCie_y-OEuQ)
