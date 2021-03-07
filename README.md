@@ -165,6 +165,7 @@
   + **Deep Learning with PyTorch** (V. Subramanian, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-PyTorch?style=social)
   + **Deep Learning with PyTorch 1.0** (S. Yogesh K, 2019. Packt): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
   + :star: **Deep Learning with PyTorch** (Eli Stevens, 2020. MEAP): [**Book**](https://www.manning.com/books/deep-learning-with-pytorch#toc) and [**Code**](https://www.manning.com/downloads/1754)
+  + **Modern Computer Vision with PyTorch** (V.K. Ayyadevara & Y. Reddy, 2020. Packt): [**Book**](https://www.packtpub.com/product/modern-computer-vision-with-pytorch/9781839213472) and [**Code**](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch)
 
 ## Network Programming
 + :star: **Foundations of Python Network Programming** (Brandon Rhodes. 2014. Apress): [**Book**](https://www.apress.com/gp/book/9781430258544) | [**GitHub**](https://github.com/brandon-rhodes/fopnp) ![GitHub stars](https://img.shields.io/github/stars/brandon-rhodes/fopnp?style=social)
@@ -287,7 +288,7 @@
 + [The Microsoft's ELL framework](https://github.com/Microsoft/ELL): **ELL** allows you to design and deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers, like Raspberry Pi, Arduino, and micro:bit. 
 + [PyTorch Mobile](https://pytorch.org/mobile/home/): **PyTorch Mobile** is a new framework for helping mobile developers and machine learning engineers embed PyTorch ML models on-device. 
 + [dabnn - JDAI Computer Vision](https://github.com/JDAI-CV/dabnn): **dabnn** is an accelerated binary neural networks inference framework for mobile platform.
-+ [OpenCV](https://opencv.org/platforms/): **OpenCV** is Open Source Computer Vision Library that was designed to be cross-platform.
++ [opencv-mobile](https://opencv.org/platforms/): **opencv-mobile** is open source computer vision library that was designed to be cross-platform. The minimal opencv for Android, iOS and ARM Linux.
 + [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit): **DeepLearningKit** is Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS.
 + [Tengine - OAID](https://github.com/OAID/Tengine): **Tengine** is a lite, high performance, modular inference engine for embedded device.
 + [Bender](https://github.com/xmartlabs/Bender): **Bender** is easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
@@ -320,6 +321,7 @@
 + [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet): Latex code for making neural networks diagrams.
 + [ml-visuals](https://github.com/dair-ai/ml-visuals): ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing. 
 + [traingenerator](https://github.com/jrieke/traingenerator): A web app to generate template code for machine learning.
++ [nni](https://github.com/microsoft/nni): an open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 ===
 
@@ -333,6 +335,7 @@
 + **Deep Learning Models** - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks:  [**GitHub**](https://github.com/rasbt/deeplearning-models) ![GitHub stars](https://img.shields.io/github/stars/rasbt/deeplearning-models?style=social)
 + **Hyperparameter Optimization of Machine Learning Algorithms** - Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear): [**GitHub**](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) ![GitHub stars](https://img.shields.io/github/stars/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms?style=social)
 + **FairMOT** - A simple baseline for one-shot multi-object tracking: [**GitHub**](https://github.com/ifzhang/FairMOT) ![GitHub stars](https://img.shields.io/github/stars/ifzhang/FairMOT?style=social)
++ **Norfair** - is a customizable lightweight Python library for real-time 2D object tracking: [**GitHub**](https://github.com/tryolabs/norfair)
 + **Transformer**: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) | [pytorch2libtorch](https://github.com/dk-liang/pytorch2libtorch) | [Fast Transformers](https://github.com/idiap/fast-transformers)
 
 <ins>**Autonomous Vehicles**</ins>
