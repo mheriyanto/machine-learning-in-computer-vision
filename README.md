@@ -57,6 +57,9 @@
 <ins>**Production**</ins>
 + Papers and blogs by organizations sharing their work on data science & machine learning in **production**: [applied-ml - eugeneyan](https://github.com/eugeneyan/applied-ml) ![GitHub stars](https://img.shields.io/github/stars/eugeneyan/applied-ml?style=social)
 
+<ins>**Compilers**</ins>
++ Awesome machine learning for **compilers** and program **optimisation**: [zwang4](https://github.com/zwang4/awesome-machine-learning-in-compilers) ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social)
+
 ## Concepts
 <ins>**Mathematics Concepts**</ins>
 + **ProofWiki** (proofwiki.org): [**Web**](https://proofwiki.org/wiki/Main_Page)
@@ -137,8 +140,9 @@
 + **Deep Learning with Keras** (S. Pal & A. Gulli, 2017. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-Keras?style=social)
 
 ## TensorFlow Frameworks
-+ <ins>**Project Templates: Python**</ins>
-+ Bla-bla
++ <ins>**Project Templates**</ins>
+  + **Python**: Bla-bla.
+  + **C++**: Bla-bla.
 
 + <ins>**TensorFlow Books**</ins>:
   + **Deep Learning with TensorFlow** (G. Zaccone & Md.R. Karim, 2018. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-TensorFlow?style=social)
@@ -148,12 +152,11 @@
   + **Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter**: Build scalable real-world projects to implement end-to-end neural networks on Android and iOS (Anubhav Singh, Rimjhim Bhadani, 2020. Packt): [**Book**](https://www.amazon.com/Mobile-Deep-Learning-TensorFlow-Flutter/dp/1789611210)
 
 ## PyTorch Frameworks
-+ <ins>**Project Templates: Python**</ins>
-  + :star: [victoresque - pytorch-template](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social)
-  + [moemen95 - Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social)
-  + [L1aoXingyu - Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
-+ <ins>**Project Templates: C++**</ins>
-  + :star: [kigster - CMake C++ Project Template](https://github.com/kigster/cmake-project-template)![GitHub stars](https://img.shields.io/github/stars/kigster/cmake-project-template?style=social)
++ <ins>**Project Templates**</ins>
+  + :star: **Python** [victoresque - pytorch-template](https://github.com/victoresque/pytorch-template)![GitHub stars](https://img.shields.io/github/stars/victoresque/pytorch-template?style=social)
+  + **Python** [moemen95 - Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template)![GitHub stars](https://img.shields.io/github/stars/moemen95/Pytorch-Project-Template?style=social)
+  + **Python** [L1aoXingyu - Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
+  + :star: **C++** [kigster - CMake C++ Project Template](https://github.com/kigster/cmake-project-template)![GitHub stars](https://img.shields.io/github/stars/kigster/cmake-project-template?style=social)
 
 + <ins>**Awesome Lists**</ins>:
   + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
@@ -194,6 +197,9 @@
 + [**Univ of Toronto - Machine Learning**](http://learning.cs.toronto.edu/) ([Prof. Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/))
 + [**Barkeley Univ - Artificial Intelligence Research (BAIR) Lab**](https://vision.berkeley.edu/) ([Prof. Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)) 
 + [**MIT - Deep Learning**](https://deeplearning.mit.edu/) ([Lex Fridman](https://lexfridman.com/))
+
+<ins>**Communities**</ins>
++ [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo)
 
 <ins>**Corporations**</ins>
 + [**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/), [**GitHub** Google AI Research](https://github.com/google-research) 
@@ -310,6 +316,7 @@
 + [cuDF](https://github.com/rapidsai/cudf): GPU DataFrame Library.
 + [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective. 
 + [dvc](https://github.com/iterative/dvc): Data Version Control | Git for Data & Models.
++ [Weights & Biases](https://wandb.ai/site): Experiment tracking, model and dataset versioning, hyperparameter optimization.
 
 ===
 
@@ -330,6 +337,7 @@
 ===
 
 + [H2O Wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python.
++ [mediapipe](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 
 ## Interested Research
 + **Deep Learning Models** - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks:  [**GitHub**](https://github.com/rasbt/deeplearning-models) ![GitHub stars](https://img.shields.io/github/stars/rasbt/deeplearning-models?style=social)
