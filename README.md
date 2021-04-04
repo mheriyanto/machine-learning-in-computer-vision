@@ -56,6 +56,7 @@
 
 <ins>**Production**</ins>
 + Papers and blogs by organizations sharing their work on data science & machine learning in **production**: [applied-ml - eugeneyan](https://github.com/eugeneyan/applied-ml) ![GitHub stars](https://img.shields.io/github/stars/eugeneyan/applied-ml?style=social)
++ [Deep-Learning-in-Production - ahkarami](https://github.com/ahkarami/Deep-Learning-in-Production): share some useful notes and references about deploying deep learning-based models in production. ![GitHub stars](https://img.shields.io/github/stars/ahkarami/Deep-Learning-in-Production?style=social)
 
 <ins>**Compilers**</ins>
 + Awesome machine learning for **compilers** and program **optimisation**: [zwang4](https://github.com/zwang4/awesome-machine-learning-in-compilers) ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social)
