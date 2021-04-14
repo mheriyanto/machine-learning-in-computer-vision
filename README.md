@@ -282,6 +282,7 @@
 + **Intel Movidius Neural Compute Sticks** - enables rapid prototyping, validation and deployment of Deep Neural Network (DNN) inference applications at the edge. : [**Website**](https://ark.intel.com/content/www/us/en/ark/products/125743/intel-movidius-neural-compute-stick.html) | [**GitHub**](https://github.com/movidius) 
 + **ARM microNPU** - Processors designed to accelerate ML inference (being the first one the Ethos-U55): [**Website**](https://www.arm.com/products/silicon-ip-cpu/ethos/ethos-u55)
 + **Espressif ESP32-S3** - SoC similar to the well-known ESP32 with support for AI acceleration (among many other interesting differences): [**Website**](https://www.espressif.com/en/products/socs/esp32-s3)
++ **RaspberryPi/Arduino/STM32 + Edge Impulse** - Enabling developers to create the next generation of intelligent device solutions through embedded Machine Learning: [**Website**](https://www.edgeimpulse.com/) | [**GitHub**](https://github.com/edgeimpulse)
 
 <ins>**Processor**</ins>
 + Tensor Processing Unit (**TPU**) by Google: [Wiki](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
