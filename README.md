@@ -139,7 +139,7 @@
   + **Python**: Bla-bla.
   + **C++**: Bla-bla.
 
-+ <ins>**TensorFlow Books**</ins>:
++ <ins>**TensorFlow Books**</ins>: [jtoy/awesome-tensorflow#books](https://github.com/jtoy/awesome-tensorflow#books) | [Amin-Tgz/awesome-tensorflow-2#books](https://github.com/Amin-Tgz/awesome-tensorflow-2#books)
   + **Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow** (Sebastian Raschka, **2017**. Packt): [**Book**]() | [**GitHub**](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=sr_1_10?dchild=1&keywords=tensorflow&qid=1617426020&s=books&sr=1-10) 
   + **Deep Learning with Python** (François Chollet, **2017**. Manning):  [**Book**](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_5?crid=F69SC23JLIVB&dchild=1&keywords=pytorch&qid=1617425223&s=books&sprefix=PyTorch%2Caps%2C408&sr=1-5) | [**GitHub**]()
   + **Deep Learning with TensorFlow** (G. Zaccone & Md.R. Karim, **2018**. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition), [**Code**](https://www.packtpub.com/codedownloaderrata), and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-TensorFlow?style=social)
@@ -149,7 +149,7 @@
   + **Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow** (Anirudh Koul, **2019**. O'Reilly): [**Book**](https://www.amazon.com/Practical-Learning-Cloud-Mobile-Hands/dp/149203486X/ref=sr_1_10?crid=1GTZP3O9SE8K0&dchild=1&keywords=computer+vision+pytorch&qid=1617445657&s=books&sprefix=Computer+Vision%2Cstripbooks-intl-ship%2C418&sr=1-10) | [**GitHub**]() 
   + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**: Concepts, Tools, and Techniques to Build Intelligent Systems (Aurélien Géron, **2019**. O'Reilly). [**Book**](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_2?crid=F69SC23JLIVB&dchild=1&keywords=pytorch&qid=1617425223&s=books&sprefix=PyTorch%2Caps%2C408&sr=1-2) | [**GitHub**]() 
 
-+ <ins>**TensorFlow Lite Books**</ins>:
++ <ins>**TensorFlow Lite Books**</ins>: [margaretmz/awesome-tensorflow-lite#books](https://github.com/margaretmz/awesome-tensorflow-lite#books)
   + **TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers** (Pete Warden, **2020-01**. O'Reilly Media): [**Book**](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
   + **Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter**: Build scalable real-world projects to implement end-to-end neural networks on Android and iOS (Anubhav Singh, Rimjhim Bhadani, **2020**. Packt): [**Book**](https://www.amazon.com/Mobile-Deep-Learning-TensorFlow-Flutter/dp/1789611210)
 
@@ -166,7 +166,7 @@
   + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
   + [The Incredible PyTorch - ritchieng](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) (Lists)
   
-+ <ins>**PyTorch Books**</ins>:
++ <ins>**PyTorch Books**</ins>: [rickiepark/awesome-pytorch#books](https://github.com/rickiepark/awesome-pytorch#books) | 
   + **Deep Learning with PyTorch** (V. Subramanian, **2018**. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-PyTorch?style=social)
   + **Deep Learning with PyTorch 1.0** (S. Yogesh K, **2019**. Packt): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
   + **Programming PyTorch for Deep Learning**: Creating and Deploying Deep Learning Applications (Ian Pointer, **2019**. O'Reilly): [**Book**](https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications-ebook/dp/B07Y6181J5/ref=pd_sim_3?pd_rd_w=efJGa&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=BZHZQRVCJ5D4JET19ZK7&pd_rd_r=ae7800cb-ed60-49c7-9869-0107ea055b02&pd_rd_wg=AU93j&pd_rd_i=B07Y6181J5&psc=1) | [**GitHub**]()
@@ -176,6 +176,10 @@
   + **Modern Computer Vision with PyTorch** (V.K. Ayyadevara & Y. Reddy, **2020**. Packt): [**Book**](https://www.packtpub.com/product/modern-computer-vision-with-pytorch/9781839213472) and [**Code**](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch)
   + **Deep Learning for Coders with Fastai and PyTorch**: AI Applications Without a PhD (J. Howard, **2020**. O'Reilly): [**Book**](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_8?crid=F69SC23JLIVB&dchild=1&keywords=pytorch&qid=1617425223&s=books&sprefix=PyTorch%2Caps%2C408&sr=1-8) | [**GitHub**]()
   + **PyTorch Computer Vision Cookbook**: Over 70 recipes to master the art of computer vision with deep learning and PyTorch 1.x (Michael Avendi, **2020**. Packt): [**Book**](https://www.amazon.com/PyTorch-Computer-Vision-Cookbook-computer-ebook/dp/B0862CX2ZL) | [**GitHub**]()
+
+## Machine Learning DevOps Books
++ **Building Machine Learning Pipelines**: Automating Model Life Cycles with TensorFlow (Hannes Hapke, 2020. O'Reilly): [**Book**](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating-ebook/dp/B08CXDBWTX/ref=pd_sim_24?pd_rd_w=efJGa&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=BZHZQRVCJ5D4JET19ZK7&pd_rd_r=ae7800cb-ed60-49c7-9869-0107ea055b02&pd_rd_wg=AU93j&pd_rd_i=B08CXDBWTX&psc=1) | [**GitHub**]()
++ **Machine Learning Design Patterns**: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (Valliappa Lakshmanan, 2020. O'Reilly): [**Book**](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation-ebook/dp/B08L8GRRBM/ref=pd_sim_5?pd_rd_w=efJGa&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=BZHZQRVCJ5D4JET19ZK7&pd_rd_r=ae7800cb-ed60-49c7-9869-0107ea055b02&pd_rd_wg=AU93j&pd_rd_i=B08L8GRRBM&psc=1) | [**GitHub**]()
 
 ## Network Programming
 + :star: **Foundations of Python Network Programming** (Brandon Rhodes. 2014. Apress): [**Book**](https://www.apress.com/gp/book/9781430258544) | [**GitHub**](https://github.com/brandon-rhodes/fopnp) ![GitHub stars](https://img.shields.io/github/stars/brandon-rhodes/fopnp?style=social)
@@ -210,6 +214,7 @@
 + [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 + [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
 + [**OpenMMLab**](https://github.com/open-mmlab): [mmdetection](https://github.com/open-mmlab/mmdetection) and [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
++ [**Open Neural Network Exchange**](https://github.com/onnx): [onnx](https://github.com/onnx/onnx), [onnx-tutorial](https://github.com/onnx/tutorials)
 
 <ins>**Corporations**</ins>
 + [**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/), [**GitHub** Google AI Research](https://github.com/google-research) 
@@ -328,6 +333,7 @@
 + [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective. 
 + [dvc](https://github.com/iterative/dvc): Data Version Control | Git for Data & Models.
 + [Weights & Biases](https://wandb.ai/site): Experiment tracking, model and dataset versioning, hyperparameter optimization.
++ [modelzoo.co](https://modelzoo.co/): Discover open source deep learning code and pretrained models.
 
 ===
 
