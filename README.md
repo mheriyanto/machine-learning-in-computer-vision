@@ -136,7 +136,7 @@
 
 ## TensorFlow Frameworks
 + <ins>**Project Templates**</ins>
-  + **Python**: Bla-bla.
+  + :star: **Python**: [Tensorflow-Project-Template - MrGemy95](https://github.com/MrGemy95/Tensorflow-Project-Template) ![GitHub stars](https://img.shields.io/github/stars/MrGemy95/Tensorflow-Project-Template?style=social)
   + **C++**: Bla-bla.
 
 + <ins>**TensorFlow Books**</ins>: [jtoy/awesome-tensorflow#books](https://github.com/jtoy/awesome-tensorflow#books) | [Amin-Tgz/awesome-tensorflow-2#books](https://github.com/Amin-Tgz/awesome-tensorflow-2#books)
@@ -166,7 +166,7 @@
   + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
   + [The Incredible PyTorch - ritchieng](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) (Lists)
   
-+ <ins>**PyTorch Books**</ins>: [rickiepark/awesome-pytorch#books](https://github.com/rickiepark/awesome-pytorch#books) | 
++ <ins>**PyTorch Books**</ins>: [rickiepark/awesome-pytorch#books](https://github.com/rickiepark/awesome-pytorch#books)
   + **Deep Learning with PyTorch** (V. Subramanian, **2018**. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) and [**GitHub**](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-PyTorch?style=social)
   + **Deep Learning with PyTorch 1.0** (S. Yogesh K, **2019**. Packt): [**Book**](https://www.packtpub.com/data/deep-learning-with-pytorch-1-0-second-edition) and [**Code**](https://www.packtpub.com/codedownloaderrata)
   + **Programming PyTorch for Deep Learning**: Creating and Deploying Deep Learning Applications (Ian Pointer, **2019**. O'Reilly): [**Book**](https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications-ebook/dp/B07Y6181J5/ref=pd_sim_3?pd_rd_w=efJGa&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=BZHZQRVCJ5D4JET19ZK7&pd_rd_r=ae7800cb-ed60-49c7-9869-0107ea055b02&pd_rd_wg=AU93j&pd_rd_i=B07Y6181J5&psc=1) | [**GitHub**]()
