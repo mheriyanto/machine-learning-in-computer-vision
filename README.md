@@ -1,9 +1,9 @@
 ## Machine Learning, Deep Learning, and Computer Vision References
 > Data is [the new oil](https://medium.com/project-2030/data-is-the-new-oil-a-ludicrous-proposition-1d91bba4f294)? No: Data is [the new soil](https://towardsdatascience.com/data-is-not-the-new-oil-bdb31f61bc2d). ~ David McCandless
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/Data-Science/issues)
 ![GitHub contributors](https://img.shields.io/github/contributors/mheriyanto/Data-Science.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/Data-Science)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mheriyanto/Data-Science.svg)
 [![HitCount](http://hits.dwyl.com/mheriyanto/Data-Science.svg)](http://hits.dwyl.com/mheriyanto/Data-Science)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://id.linkedin.com/in/mheriyanto)
@@ -180,6 +180,7 @@
 ## Machine Learning DevOps Books
 + **Building Machine Learning Pipelines**: Automating Model Life Cycles with TensorFlow (Hannes Hapke, 2020. O'Reilly): [**Book**](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating-ebook/dp/B08CXDBWTX/ref=pd_sim_24?pd_rd_w=efJGa&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=BZHZQRVCJ5D4JET19ZK7&pd_rd_r=ae7800cb-ed60-49c7-9869-0107ea055b02&pd_rd_wg=AU93j&pd_rd_i=B08CXDBWTX&psc=1) | [**GitHub**]()
 + **Machine Learning Design Patterns**: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (Valliappa Lakshmanan, 2020. O'Reilly): [**Book**](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation-ebook/dp/B08L8GRRBM/ref=pd_sim_5?pd_rd_w=efJGa&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=BZHZQRVCJ5D4JET19ZK7&pd_rd_r=ae7800cb-ed60-49c7-9869-0107ea055b02&pd_rd_wg=AU93j&pd_rd_i=B08L8GRRBM&psc=1) | [**GitHub**]()
++ **Introducing MLOps: How to Scale Machine Learning in the Enterprise** (Mark Treveil. 2020. O'Reilly): [**Book**](https://www.amazon.com/Introducing-MLOps-Machine-Learning-Enterprise/dp/1492083291/ref=sr_1_fkmr0_1?dchild=1&keywords=MLOps+PyTorch&qid=1618832760&s=books&sr=1-1-fkmr0) | [**GitHub**]()
 
 ## Network Programming
 + :star: **Foundations of Python Network Programming** (Brandon Rhodes. 2014. Apress): [**Book**](https://www.apress.com/gp/book/9781430258544) | [**GitHub**](https://github.com/brandon-rhodes/fopnp) ![GitHub stars](https://img.shields.io/github/stars/brandon-rhodes/fopnp?style=social)
@@ -323,6 +324,8 @@
 + [cortex.dev](https://www.cortex.dev/): the open source stack for machine learning engineering.
 + [mlperf.org](https://mlperf.org/): Fair and useful benchmarks for measuring training and inference performance of ML hardware, software, and services. 
 + [grpc](https://github.com/grpc/grpc): A high performance, open source, general-purpose RPC framework.
++ [gpustat](https://github.com/wookayin/gpustat): A simple command-line utility for querying and monitoring GPU status.
++ [jetson-stats](https://github.com/rbonghi/jetson_stats): Simple package for monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2].
 
 ===
 
@@ -423,9 +426,9 @@
 + **IoT**: [IoT For All Podcast - IoT For All](https://open.spotify.com/show/0jYLPvfCrBZVCwM5a7aldP?si=V3T5ASf4SOiX3kPoeSbPqw) | [IOTALK - IOTIZEN](https://open.spotify.com/show/1Lbma7v1cl1VdgUjGF0gOb?si=4caQHTsORh-cCie_y-OEuQ)
 
 <ins>**Conferences for Image Processing & Computer Vision**</ins>: [guide2research.com](http://www.guide2research.com/topconf/computer-vision) | [openaccess.thecvf.com](https://openaccess.thecvf.com/menu)
-+ **CVPR**: IEEE/CVF Conference on Computer Vision and Pattern Recognition: http://cvpr2021.thecvf.com/
-+ **ICCV**: IEEE/CVF International Conference on Computer Vision: http://iccv2021.thecvf.com/home
-+ **ECCV**: European Conference on Computer Vision: https://eccv2020.eu/
-+ **WACV**: Workshop on Applications of Computer Vision: http://wacv2021.thecvf.com/home 
-+ **3DV**: International Conference on 3D Vision: http://3dv2020.dgcv.nii.ac.jp/index.html
-+ **ACCV**: Asian Conference on Computer Vision (ACCV): http://accv2020.kyoto/
++ **CVPR**: IEEE/CVF Conference on Computer Vision and Pattern Recognition. Paper list: https://openaccess.thecvf.com/CVPR2020
++ **ICCV**: IEEE/CVF International Conference on Computer Vision. Paper list: https://openaccess.thecvf.com/ICCV2019
++ **ECCV**: European Conference on Computer Vision. Paper list: https://link.springer.com/conference/eccv
++ **WACV**: Workshop on Applications of Computer Vision. Paper list: https://openaccess.thecvf.com/WACV2020
++ **3DV**: International Conference on 3D Vision. Website http://3dv2020.dgcv.nii.ac.jp/index.html
++ **ACCV**: Asian Conference on Computer Vision (ACCV). Website: http://accv2020.kyoto/
