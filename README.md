@@ -138,6 +138,10 @@
 + <ins>**Project Templates**</ins>
   + :star: **Python**: [Tensorflow-Project-Template - MrGemy95](https://github.com/MrGemy95/Tensorflow-Project-Template) ![GitHub stars](https://img.shields.io/github/stars/MrGemy95/Tensorflow-Project-Template?style=social)
   + **C++**: Bla-bla.
+  
++ <ins>**Awesome Lists**</ins>
+  + [Awesome TensorFlow - jtoy](https://github.com/jtoy/awesome-tensorflow) ![GitHub stars](https://img.shields.io/github/stars/jtoy/awesome-tensorflow?style=social)
+  + [Awesome TensorFlow 2 - Amin-Tgz](https://github.com/Amin-Tgz/Awesome-TensorFlow-2) ![GitHub stars](https://img.shields.io/github/stars/Amin-Tgz/Awesome-TensorFlow-2?style=social)
 
 + <ins>**TensorFlow Books**</ins>: [jtoy/awesome-tensorflow#books](https://github.com/jtoy/awesome-tensorflow#books) | [Amin-Tgz/awesome-tensorflow-2#books](https://github.com/Amin-Tgz/awesome-tensorflow-2#books)
   + **Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow** (Sebastian Raschka, **2017**. Packt): [**Book**]() | [**GitHub**](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=sr_1_10?dchild=1&keywords=tensorflow&qid=1617426020&s=books&sr=1-10) 
@@ -160,10 +164,11 @@
   + **Python** [L1aoXingyu - Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/Deep-Learning-Project-Template?style=social)
   + :star: **C++** [kigster - CMake C++ Project Template](https://github.com/kigster/cmake-project-template)![GitHub stars](https://img.shields.io/github/stars/kigster/cmake-project-template?style=social)
 
-+ <ins>**Awesome Lists**</ins>:
++ <ins>**Awesome Lists**</ins>
   + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
-  + :star: [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (Tutorial)
-  + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (Tutorial)
+  + :star: [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (**Python** Tutorial)
+  + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (**Python** Tutorial)
+  + [C++ Implementation of PyTorch Tutorials for Everyone - prabhuomkar](https://github.com/prabhuomkar/pytorch-cpp) ![GitHub stars](https://img.shields.io/github/stars/prabhuomkar/pytorch-cpp?style=social) (**C++** Tutorial)
   + [The Incredible PyTorch - ritchieng](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) (Lists)
   
 + <ins>**PyTorch Books**</ins>: [rickiepark/awesome-pytorch#books](https://github.com/rickiepark/awesome-pytorch#books)
