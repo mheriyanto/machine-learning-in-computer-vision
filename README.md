@@ -374,6 +374,18 @@
 
 ## Benchmark
 [benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | [MobilePhone - ai-benchmark.com](http://ai-benchmark.com/index.html) | GitHub > [deep-learning-benchmark - u39kun](https://github.com/u39kun/deep-learning-benchmark), [DeepBench - baidu-research](https://github.com/baidu-research/DeepBench)
+
++ [**MLPerf**](https://mlcommons.org/en/) is a trademark of MLCommon
+   + [Training High Performance Computing](https://mlcommons.org/en/training-hpc-07/)
+   + [Training normal](https://mlcommons.org/en/training-normal-07/)
+   + [Data Center](https://mlcommons.org/en/inference-datacenter-10/)
+   + [Edge](https://mlcommons.org/en/inference-edge-10/)
+   + [Tiny](https://mlcommons.org/en/inference-tiny/)
+   + [Mobile](https://mlcommons.org/en/inference-mobile-07/)
++ **GPUs Benchmark** [videocardbenchmark.net](https://www.videocardbenchmark.net/) | [gpu.userbenchmark.com](https://gpu.userbenchmark.com/)
+  + [Deep Learning GPU Benchmarks](https://lambdalabs.com/gpu-benchmarks)
+  + [Video Card Benchmark](https://www.videocardbenchmark.net/directCompute.html)
+  + [CPU Benchmark](https://www.cpubenchmark.net/high_end_cpus.html)
 + Tools
   + [Jetson Nano: Deep Learning Inference Benchmarks](https://developer.nvidia.com/embedded/jetson-nano-dl-inference-benchmarks)
   + [2017-02 - Benchmarking State-of-the-Art Deep Learning Software Tools](https://arxiv.org/pdf/1608.07249.pdf)
