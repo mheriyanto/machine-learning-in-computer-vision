@@ -295,6 +295,10 @@
 + **ARM microNPU** - Processors designed to accelerate ML inference (being the first one the Ethos-U55): [**Website**](https://www.arm.com/products/silicon-ip-cpu/ethos/ethos-u55)
 + **Espressif ESP32-S3** - SoC similar to the well-known ESP32 with support for AI acceleration (among many other interesting differences): [**Website**](https://www.espressif.com/en/products/socs/esp32-s3)
 + **RaspberryPi/Arduino/STM32 + Edge Impulse** - Enabling developers to create the next generation of intelligent device solutions through embedded Machine Learning: [**Website**](https://www.edgeimpulse.com/) | [**GitHub**](https://github.com/edgeimpulse)
++ [**OpenMV**](http://docs.openmv.io) - A camera that runs with MicroPython on ARM Cortex M6/M7 and great support for computer vision algorithms. Now with [support for Tensorflow Lite too](https://openmv.io/blogs/news/tensorflow-lite-and-person-detection).
++ [**JeVois**](http://jevois.org/) - A TensorFlow-enabled camera module.
++ [**Maxim MAX78000**](https://www.maximintegrated.com/en/products/microcontrollers/MAX78000.html) - SoC based on a Cortex-M4 that includes a CNN accelerator.
++ [**Beagleboard BeagleV**](https://beagleboard.org/beaglev) - Open Source RISC-V-based Linux board that includes a Neural Network Engine.
 
 <ins>**Processor**</ins>
 + Tensor Processing Unit (**TPU**) by Google: [Wiki](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
@@ -321,6 +325,16 @@
 + [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit): **DeepLearningKit** is Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS.
 + [Tengine - OAID](https://github.com/OAID/Tengine): **Tengine** is a lite, high performance, modular inference engine for embedded device.
 + [Bender](https://github.com/xmartlabs/Bender): **Bender** is easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
++ [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
++ [CMSIS NN](https://arm-software.github.io/CMSIS_5/NN/html/index.html) - A collection of efficient neural network kernels developed to maximize the performance and minimize the memory footprint of neural networks on Cortex-M processor cores.
++ [ARM Compute Library](https://developer.arm.com/technologies/compute-library) - Set of optimized functions for image processing, computer vision, and machine learning.
++ [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.
++ [X-CUBE-AI](https://blog.st.com/stm32cubeai-neural-networks/) - Toolkit for generating NN optimiezed for STM32 MCUs.
++ [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom) - Higher-level layer-based Neural Network library specifically for microcontrollers. Support for CMSIS-NN.
++ [nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte K210 AI accelerator.
++ [deepC](https://github.com/ai-techsystems/dnnCompiler) - Deep learning compiler and inference framework targeted to embedded platform.
++ [uTVM](https://tvm.apache.org/2020/06/04/tinyml-how-tvm-is-taming-tiny) - *MicroTVM* is an open source tool to optimize tensor programs.
++ [Edge Impulse](https://edgeimpulse.com/) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
 
 ## Tools
 + [docker.com](https://www.docker.com/): build and ship apps.
