@@ -26,6 +26,7 @@
 + [Machine Learning Mindset](https://github.com/machinelearningmindset) (Roadmap)
 + :star: [Awesome Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
 + [3D Machine Learning - Yuxuan (Tim) Zhang](https://github.com/timzhang642/3D-Machine-Learning) ![GitHub stars](https://img.shields.io/github/stars/timzhang642/3D-Machine-Learning?style=social)
++ [Machine Learning Interviews from FAAG, Snapchat, LinkedIn - Khang Pham](https://github.com/khangich/machine-learning-interview) ![GitHub stars](https://img.shields.io/github/stars/khangich/machine-learning-interview?style=social)
 + <ins>**Others**</ins>: 
   + [mlcourse.ai - Yorko](https://github.com/Yorko/mlcourse.ai) ![GitHub stars](https://img.shields.io/github/stars/Yorko/mlcourse.ai?style=social) 
   + [machine learning examples - lazyprogrammer](https://github.com/lazyprogrammer/machine_learning_examples) ![GitHub stars](https://img.shields.io/github/stars/lazyprogrammer/machine_learning_examples?style=social) 
@@ -222,6 +223,9 @@
 + [**OpenMMLab**](https://github.com/open-mmlab): [mmdetection](https://github.com/open-mmlab/mmdetection) and [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
 + [**Open Neural Network Exchange**](https://github.com/onnx): [onnx](https://github.com/onnx/onnx), [onnx-tutorial](https://github.com/onnx/tutorials)
 + [**Cloud-CV**](https://github.com/Cloud-CV): [EvalAI](https://github.com/Cloud-CV/EvalAI), [CloudCV](https://github.com/Cloud-CV/CloudCV). [Fabrik](https://github.com/Cloud-CV/Fabrik)
++ [Machine Learning Tooling](https://github.com/ml-tooling) - Open-source machine learning tooling to boost your productivity
+  + [opyrator](https://github.com/ml-tooling/opyrator): Turns your machine learning code into microservices with web API, interactive GUI, and more. 
+  + [ml-hub](https://github.com/ml-tooling/ml-hub): Multi-user development platform for machine learning teams. Simple to setup within minutes. 
 
 <ins>**Corporations**</ins>
 + [**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/), [**GitHub** Google AI Research](https://github.com/google-research) 
@@ -466,3 +470,4 @@
 + **WACV**: Workshop on Applications of Computer Vision. Paper list: https://openaccess.thecvf.com/WACV2020
 + **3DV**: International Conference on 3D Vision. Website http://3dv2020.dgcv.nii.ac.jp/index.html
 + **ACCV**: Asian Conference on Computer Vision (ACCV). Website: http://accv2020.kyoto/
++ **AAAI**: Association for the Advancement of Artificial Intelligence. Website: https://aaai.org/Conferences/conferences.php
