@@ -304,7 +304,7 @@
 + [**Maxim MAX78000**](https://www.maximintegrated.com/en/products/microcontrollers/MAX78000.html) - SoC based on a Cortex-M4 that includes a CNN accelerator.
 + [**Beagleboard BeagleV**](https://beagleboard.org/beaglev) - Open Source RISC-V-based Linux board that includes a Neural Network Engine.
 
-<ins>**Processor**</ins>
+<ins>**Processor**</ins>: [The Deep Learning Compiler: A Comprehensive Survey - arXiv '20](https://arxiv.org/abs/2002.03794)
 + Tensor Processing Unit (**TPU**) by Google: [Wiki](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
 + Neural Processing Unit (**NPU**) by MobilePhone Company: [Wiki](https://en.wikichip.org/wiki/neural_processor)
 + Vision Processing Unit (**VPU**) by NEC & Intel: [Wiki](https://en.wikipedia.org/wiki/Vision_processing_unit)
