@@ -172,7 +172,7 @@
   + [Awesome Pytorch List - bharathgs](https://github.com/bharathgs/Awesome-pytorch-list) ![GitHub stars](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list?style=social) (Framework)
   + :star: [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (**Python** Tutorial)
   + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (**Python** Tutorial)
-  + [C++ Implementation of PyTorch Tutorials for Everyone - prabhuomkar](https://github.com/prabhuomkar/pytorch-cpp) ![GitHub stars](https://img.shields.io/github/stars/prabhuomkar/pytorch-cpp?style=social) (**C++** Tutorial)
+  + :star: [C++ Implementation of PyTorch Tutorials for Everyone - prabhuomkar](https://github.com/prabhuomkar/pytorch-cpp) ![GitHub stars](https://img.shields.io/github/stars/prabhuomkar/pytorch-cpp?style=social) (**C++** Tutorial)
   + [The Incredible PyTorch - ritchieng](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) (Lists)
   
 + <ins>**PyTorch Books**</ins>: [rickiepark/awesome-pytorch#books](https://github.com/rickiepark/awesome-pytorch#books)
@@ -356,8 +356,10 @@
 + [Edge Impulse](https://edgeimpulse.com/) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
 
 ## Tools
+
+<ins>**Production**</ins>
+
 + [docker.com](https://www.docker.com/): build and ship apps.
-+ [comet.ml](https://www.comet.ml/site/): track, compare, explain and optimize experiments and models.
 + [onnx.ai](https://onnx.ai/): open format built to represent machine learning models.
 + [mlflow.org](https://mlflow.org/): an open source platform for the machine learning lifecycle.
 + [cortex.dev](https://www.cortex.dev/): the open source stack for machine learning engineering.
@@ -366,18 +368,19 @@
 + [gpustat](https://github.com/wookayin/gpustat): A simple command-line utility for querying and monitoring GPU status.
 + [jetson-stats](https://github.com/rbonghi/jetson_stats): Simple package for monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2].
 
-===
+<ins>**Training Model**</ins>
 
 + [DIGITS](https://github.com/NVIDIA/DIGITS): DIGITS (the Deep Learning GPU Training System) is a webapp for training deep learning models. The currently supported frameworks are: Caffe, Torch, and Tensorflow.
 + [Optuna](https://github.com/optuna/optuna): A hyperparameter optimization framework.
 + [Determined](https://github.com/determined-ai/determined): Deep Learning Training Platform.
 + [cuDF](https://github.com/rapidsai/cudf): GPU DataFrame Library.
 + [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective. 
++ [comet.ml](https://www.comet.ml/site/): track, compare, explain and optimize experiments and models.
 + [dvc](https://github.com/iterative/dvc): Data Version Control | Git for Data & Models.
 + [Weights & Biases](https://wandb.ai/site): Experiment tracking, model and dataset versioning, hyperparameter optimization.
 + [modelzoo.co](https://modelzoo.co/): Discover open source deep learning code and pretrained models.
 
-===
+<ins>**Visualization: Architecture**</ins>
 
 + [Netron](https://github.com/lutzroeder/netron): a viewer for neural network, deep learning and machine learning models.
 + [playground](https://github.com/tensorflow/playground): Deep playground is an interactive visualization of neural networks, written in TypeScript using d3.js.
@@ -389,14 +392,13 @@
 + [traingenerator](https://github.com/jrieke/traingenerator): A web app to generate template code for machine learning.
 + [nni](https://github.com/microsoft/nni): an open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
-===
+<ins>**Dashboard**</ins>
 
-+ [openpilot](https://github.com/commaai/openpilot): is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-
-===
-
-+ [H2O Wave](https://github.com/h2oai/wave): Realtime Web Apps and Dashboards for Python.
-+ [mediapipe](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
++ [**wave**](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R.
++ [**mediapipe**](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
++ [**Flask JSONDash**](https://github.com/christabor/flask_jsondash) - Build complex dashboards without any front-end code.
++ [**thingsboard**](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
++ [**freeboard**](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups.
 
 ## Interested Research
 + **Deep Learning Models** - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks:  [**GitHub**](https://github.com/rasbt/deeplearning-models) ![GitHub stars](https://img.shields.io/github/stars/rasbt/deeplearning-models?style=social)
@@ -410,6 +412,7 @@
 + **Autoware** - Integrated open-source software for urban autonomous driving: [**Web**](www.autoware.ai/) | [**GitHub**](https://github.com/Autoware-AI/autoware.ai) ![GitHub stars](https://img.shields.io/github/stars/Autoware-AI/autoware.ai?style=social)
 + **CARLA Simulator** - Open-source simulator for autonomous driving research: [**GitHub**](https://github.com/carla-simulator/carla) ![GitHub stars](https://img.shields.io/github/stars/carla-simulator/carla?style=social)
 + Self-DrivingToy Car - experiencor: [**GitHub**](https://github.com/experiencor/self-driving-toy-car)
++ [openpilot](https://github.com/commaai/openpilot): is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 
 ## Benchmark
 [benchmarks.ai](https://benchmarks.ai) | [dawn.cs.stanford.edu](https://dawn.cs.stanford.edu/benchmark/) | [mlperf.org](https://mlperf.org/) | [MobilePhone - ai-benchmark.com](http://ai-benchmark.com/index.html) | GitHub > [deep-learning-benchmark - u39kun](https://github.com/u39kun/deep-learning-benchmark), [DeepBench - baidu-research](https://github.com/baidu-research/DeepBench)
