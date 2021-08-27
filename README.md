@@ -20,7 +20,7 @@
 
 <ins>**Machine Learning**</ins>
 + :star: [Machine Learning Mastery - Jason Brownlee](https://machinelearningmastery.com/start-here/) (General) 
-+ [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial)
++ :star: [Homemade Machine Learning - Oleksii Trekhleb](https://github.com/trekhleb/homemade-machine-learning) ![GitHub stars](https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=social) (Tutorial)
 + [2020 Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) ![GitHub stars](https://img.shields.io/github/stars/mrdbourke/machine-learning-roadmap?style=social) (Roadmap)
 + [Python Machine Learning Jupyter Notebooks](https://github.com/tirthajyoti/Machine-Learning-with-Python) ![GitHub stars](https://img.shields.io/github/stars/tirthajyoti/Machine-Learning-with-Python?style=social) (Tutorial)
 + [Machine Learning Mindset](https://github.com/machinelearningmindset) (Roadmap)
@@ -232,17 +232,18 @@
 + [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 + [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 + [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
-+ [**OpenMMLab**](https://github.com/open-mmlab): [mmdetection](https://github.com/open-mmlab/mmdetection) and [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
++ :star: [**OpenMMLab**](https://github.com/open-mmlab): [mmdetection](https://github.com/open-mmlab/mmdetection) and [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
 + [**Open Neural Network Exchange**](https://github.com/onnx): [onnx](https://github.com/onnx/onnx), [onnx-tutorial](https://github.com/onnx/tutorials)
 + [**Cloud-CV**](https://github.com/Cloud-CV): [EvalAI](https://github.com/Cloud-CV/EvalAI), [CloudCV](https://github.com/Cloud-CV/CloudCV). [Fabrik](https://github.com/Cloud-CV/Fabrik)
 + [**Iterative**](https://github.com/iterative): Developer Tools for Machine Learning. 
   + [dvc](https://github.com/iterative/dvc): Data Version Control | Git for Data & Models | ML Experiments Management.
   + [cml](https://github.com/iterative/cml): Continuous Machine Learning | CI/CD for ML.
-+ [Machine Learning Tooling](https://github.com/ml-tooling) - Open-source machine learning tooling to boost your productivity
++ [**Machine Learning Tooling**](https://github.com/ml-tooling) - Open-source machine learning tooling to boost your productivity
   + [opyrator](https://github.com/ml-tooling/opyrator): Turns your machine learning code into microservices with web API, interactive GUI, and more. 
   + [ml-hub](https://github.com/ml-tooling/ml-hub): Multi-user development platform for machine learning teams. Simple to setup within minutes. 
 
 <ins>**Corporations**</ins>
++ :star: [**Tesla AI**](https://www.tesla.com/AI): [**GitHub** Tesla AI](https://github.com/teslamotors) 
 + [**Brain Team - Google AI**](https://ai.google/research/teams/brain/): [TensorFlow](https://www.tensorflow.org/), [**GitHub** Google AI Research](https://github.com/google-research) 
 + [**Facebook AI**](https://ai.facebook.com/): [PyTorch](https://pytorch.org/), [**GitHub** Facebook Research](https://github.com/facebookresearch) 
 + [**Microsoft AI**](https://aischool.microsoft.com/en-us/home): [Microsoft Cognitive Toolkit (CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/), [**GitHub** Microsoft AI](https://github.com/microsoft/ailab) 
@@ -252,6 +253,7 @@
 + [**IBM AI**](https://www.research.ibm.com/artificial-intelligence/) 
 + [**Nvidia AI**](https://www.nvidia.com/en-us/deep-learning-ai/): [**GitHub** Nvidia AI](https://github.com/NVIDIA-AI-IOT) 
 + [**Tencent AI**](https://opensource.tencent.com/): [**GitHub** Tencent AI](https://github.com/Tencent)
++ [**Open AI**](https://openai.com/): [**GitHub** Open AI](https://github.com/openai/)
 
 <ins>**Ph.D. in Machine Learning**</ins>
 + [**Machine Learning** - Carnegie Mellon University](https://www.ml.cmu.edu/academics/ml-phd.html) 
@@ -308,12 +310,12 @@
 [edge-ai - crespum](https://github.com/crespum/edge-ai#hardware)
 
 <ins>**Edge Hardware**</ins>
-+ **Jetson Nano Dev Board** - brings accelerated AI performance to the Edge in a power-efficient and compact form factor: [**Website**](https://developer.nvidia.com/embedded/jetson-modules) | [**GitHub**](https://github.com/dusty-nv/jetson-inference)
-+ **Google Coral Dev Board** - is a complete toolkit to build products with local AI. Our on-device inferencing capabilities allow you to build products that are efficient, private, fast and offline: [**Website**](https://coral.ai/docs/dev-board/get-started) | [**GitHub**](https://github.com/google-coral)
++ :star: **Jetson Nano Dev Board** - brings accelerated AI performance to the Edge in a power-efficient and compact form factor: [**Website**](https://developer.nvidia.com/embedded/jetson-modules) | [**GitHub**](https://github.com/dusty-nv/jetson-inference)
++ :star: **Google Coral Dev Board** - is a complete toolkit to build products with local AI. Our on-device inferencing capabilities allow you to build products that are efficient, private, fast and offline: [**Website**](https://coral.ai/docs/dev-board/get-started) | [**GitHub**](https://github.com/google-coral)
 + **Intel Movidius Neural Compute Sticks** - enables rapid prototyping, validation and deployment of Deep Neural Network (DNN) inference applications at the edge. : [**Website**](https://ark.intel.com/content/www/us/en/ark/products/125743/intel-movidius-neural-compute-stick.html) | [**GitHub**](https://github.com/movidius) 
 + **ARM microNPU** - Processors designed to accelerate ML inference (being the first one the Ethos-U55): [**Website**](https://www.arm.com/products/silicon-ip-cpu/ethos/ethos-u55)
 + **Espressif ESP32-S3** - SoC similar to the well-known ESP32 with support for AI acceleration (among many other interesting differences): [**Website**](https://www.espressif.com/en/products/socs/esp32-s3)
-+ **RaspberryPi/Arduino/STM32 + Edge Impulse** - Enabling developers to create the next generation of intelligent device solutions through embedded Machine Learning: [**Website**](https://www.edgeimpulse.com/) | [**GitHub**](https://github.com/edgeimpulse)
++ :star: **RaspberryPi/Arduino/STM32 + Edge Impulse** - Enabling developers to create the next generation of intelligent device solutions through embedded Machine Learning: [**Website**](https://www.edgeimpulse.com/) | [**GitHub**](https://github.com/edgeimpulse)
 + [**OpenMV**](http://docs.openmv.io) - A camera that runs with MicroPython on ARM Cortex M6/M7 and great support for computer vision algorithms. Now with [support for Tensorflow Lite too](https://openmv.io/blogs/news/tensorflow-lite-and-person-detection).
 + [**JeVois**](http://jevois.org/) - A TensorFlow-enabled camera module.
 + [**Maxim MAX78000**](https://www.maximintegrated.com/en/products/microcontrollers/MAX78000.html) - SoC based on a Cortex-M4 that includes a CNN accelerator.
@@ -330,15 +332,15 @@
 
 [Embedded and mobile deep learning - csarron](https://github.com/csarron/awesome-emdl) | [Awesome Mobile Machine Learning - fritzlabs](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) | [Awesome Edge Machine Learning - Bisonai](https://github.com/Bisonai/awesome-edge-machine-learning) | [edge-ai - crespum](https://github.com/crespum/edge-ai#software) | [AI-performance - embedded-ai.bench](https://github.com/AI-performance/embedded-ai.bench)
 
-+ [TensorFlow Lite](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite): **TensorFlow Lite** is an open source deep learning framework for on-device inference.
++ :star: [TensorFlow Lite](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite): **TensorFlow Lite** is an open source deep learning framework for on-device inference.
 + [The Arm's ComputeLibrary framework](https://github.com/ARM-software/ComputeLibrary): **ComputeLibrary** is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies. 
 + [The Alibaba's MNN framework](https://github.com/alibaba/MNN): **MNN** is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
-+ [The Tencent's ncnn framework](https://github.com/Tencent/ncnn): **ncnn** is a high-performance neural network inference framework optimized for the mobile platform.
++ :star: [The Tencent's ncnn framework](https://github.com/Tencent/ncnn): **ncnn** is a high-performance neural network inference framework optimized for the mobile platform.
 + [The Baidu's Paddle Lite framework](https://github.com/PaddlePaddle/Paddle-Lite): **Paddle Lite** is multi-platform high performance deep learning inference engine.
 + [The XiaoMi's Mace framework](https://github.com/XiaoMi/mace): **MACE** is a deep learning inference framework optimized for mobile heterogeneous computing platforms. 
 + [The Apple's CoreML framework](https://developer.apple.com/documentation/coreml): **CoreML** is integrate machine learning models into your app.
 + [The Microsoft's ELL framework](https://github.com/Microsoft/ELL): **ELL** allows you to design and deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers, like Raspberry Pi, Arduino, and micro:bit. 
-+ [PyTorch Mobile](https://pytorch.org/mobile/home/): **PyTorch Mobile** is a new framework for helping mobile developers and machine learning engineers embed PyTorch ML models on-device. 
++ :star: [PyTorch Mobile](https://pytorch.org/mobile/home/): **PyTorch Mobile** is a new framework for helping mobile developers and machine learning engineers embed PyTorch ML models on-device. 
 + [dabnn - JDAI Computer Vision](https://github.com/JDAI-CV/dabnn): **dabnn** is an accelerated binary neural networks inference framework for mobile platform.
 + [opencv-mobile](https://opencv.org/platforms/): **opencv-mobile** is open source computer vision library that was designed to be cross-platform. The minimal opencv for Android, iOS and ARM Linux.
 + [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit): **DeepLearningKit** is Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS.
@@ -482,7 +484,7 @@
 + **IoT**: [IoT For All Podcast - IoT For All](https://open.spotify.com/show/0jYLPvfCrBZVCwM5a7aldP?si=V3T5ASf4SOiX3kPoeSbPqw) | [IOTALK - IOTIZEN](https://open.spotify.com/show/1Lbma7v1cl1VdgUjGF0gOb?si=4caQHTsORh-cCie_y-OEuQ)
 
 <ins>**Conferences for Image Processing & Computer Vision**</ins>: [guide2research.com](http://www.guide2research.com/topconf/computer-vision) | [openaccess.thecvf.com](https://openaccess.thecvf.com/menu)
-+ **CVPR**: IEEE/CVF Conference on Computer Vision and Pattern Recognition. Paper list: https://openaccess.thecvf.com/CVPR2020
++ :star: **CVPR**: IEEE/CVF Conference on Computer Vision and Pattern Recognition. Paper list: https://openaccess.thecvf.com/CVPR2020
 + **ICCV**: IEEE/CVF International Conference on Computer Vision. Paper list: https://openaccess.thecvf.com/ICCV2019
 + **ECCV**: European Conference on Computer Vision. Paper list: https://link.springer.com/conference/eccv
 + **WACV**: Workshop on Applications of Computer Vision. Paper list: https://openaccess.thecvf.com/WACV2020
