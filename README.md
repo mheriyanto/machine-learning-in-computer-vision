@@ -369,6 +369,7 @@
 + [grpc](https://github.com/grpc/grpc): A high performance, open source, general-purpose RPC framework.
 + [gpustat](https://github.com/wookayin/gpustat): A simple command-line utility for querying and monitoring GPU status.
 + [jetson-stats](https://github.com/rbonghi/jetson_stats): Simple package for monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2].
++ [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda): A CUDA Extension of Neural Network Libraries.
 
 <ins>**Training Model**</ins>
 
@@ -393,6 +394,7 @@
 + [ml-visuals](https://github.com/dair-ai/ml-visuals): ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing. 
 + [traingenerator](https://github.com/jrieke/traingenerator): A web app to generate template code for machine learning.
 + [nni](https://github.com/microsoft/nni): an open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
++ [nn-visualizer](https://github.com/stefsietz/nn-visualizer): Interactive 3D Neural Network Visualizer.
 
 <ins>**Dashboard**</ins>
 
