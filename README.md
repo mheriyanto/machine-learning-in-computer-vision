@@ -41,6 +41,7 @@
 + [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) ![GitHub stars](https://img.shields.io/github/stars/fchollet/deep-learning-with-python-notebooks?style=social) (Tutorial) 
 + [Awesome Deep Learning for Video Analysis - Huaizheng](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis?style=social) (General)
 + [Awesome 3D Point Cloud Analysis - Yongcheng](https://github.com/Yochengliu/awesome-point-cloud-analysis) ![GitHub stars](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis?style=social) (Roadmap)
++ [Awesome Tiny Object Detection](https://github.com/knhngchn/awesome-tiny-object-detection) ![GitHub stars](https://img.shields.io/github/stars/knhngchn/awesome-tiny-object-detection?style=social) (General)
 + <ins>**Edge Detection**</ins>:
   + [Awesome Edge Detection Papers - Haoran MO](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers) ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Edge-Detection-Papers?style=social)
   + [Awesome Background Subtraction - Murari Mandal](https://github.com/murari023/awesome-background-subtraction) ![GitHub stars](https://img.shields.io/github/stars/murari023/awesome-background-subtraction?style=social)
