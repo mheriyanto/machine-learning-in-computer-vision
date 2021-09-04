@@ -230,6 +230,12 @@
 + [**MIT - Deep Learning**](https://deeplearning.mit.edu/) ([Lex Fridman](https://lexfridman.com/))
 
 <ins>**Communities**</ins>
++ :star: [**Q-engineering**](https://qengineering.eu/): Computer vision, Machine learning, Applied mathematics. [GitHub](https://github.com/Qengineering)
+  + [PyTorch-Raspberry-Pi-64-OS](https://github.com/Qengineering/PyTorch-Raspberry-Pi-64-OS)
+  + [PyTorch-Jetson-Nano](https://github.com/Qengineering/PyTorch-Jetson-Nano)
+  + [TensorFlow-Raspberry-Pi-32-bit](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)
+  + [TensorFlow-Raspberry-Pi_64-bit](https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit)
+  + [TensorFlow-JetsonNano](https://github.com/Qengineering/TensorFlow-JetsonNano)
 + [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 + [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 + [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
