@@ -252,12 +252,25 @@
   + [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt): An easy to use PyTorch to TensorRT converter.
   + [tf_trt_models](https://github.com/NVIDIA-AI-IOT/tf_trt_models): TensorFlow models accelerated with NVIDIA TensorRT.
   + [my-jetson-nano-baseboard](https://github.com/NVIDIA-AI-IOT/my-jetson-nano-baseboard): An open source Jetson Nano baseboard and tools to design your own. 
-+ [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-+ [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
++ :star: [**OpenMMLab**](https://github.com/open-mmlab): [mmcv](https://github.com/open-mmlab/mmcv) - OpenMMLab Computer Vision Foundation.
+  + [mmclassification](https://github.com/open-mmlab/mmclassification): OpenMMLab Image Classification Toolbox and Benchmark 
+  + [mmdetection](https://github.com/open-mmlab/mmdetection): OpenMMLab Detection Toolbox and Benchmark.
+  + [mmsegmentation](https://github.com/open-mmlab/mmsegmentation): OpenMMLab Semantic Segmentation Toolbox and Benchmark. 
+  + [mmtracking](https://github.com/open-mmlab/mmtracking): OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework. 
+  + [mmdetection3d](https://github.com/open-mmlab/mmdetection3d): OpenMMLab's next-generation platform for general 3D object detection. 
++ [**Open Neural Network Exchange**](https://github.com/onnx): ONNX is an open ecosystem for interoperable AI models. It's a community project: we welcome your contributions!
+  + [onnx](https://github.com/onnx/onnx): Open standard for machine learning interoperability.
+  + [onnx-tutorial](https://github.com/onnx/tutorials): Tutorials for creating and using ONNX models.
+  + [onnx-models](https://github.com/onnx/models): A collection of pre-trained, state-of-the-art models in the ONNX format.
+  + [tensorflow-onnx](https://github.com/onnx/tensorflow-onnx): Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX.
+  + [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt): ONNX-TensorRT: TensorRT backend for ONNX.
++ [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Roadmap to becoming an Artificial Intelligence Expert in 2021.
++ [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum): Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley. 
 + [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
-+ :star: [**OpenMMLab**](https://github.com/open-mmlab): [mmdetection](https://github.com/open-mmlab/mmdetection) and [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
-+ [**Open Neural Network Exchange**](https://github.com/onnx): [onnx](https://github.com/onnx/onnx), [onnx-tutorial](https://github.com/onnx/tutorials)
-+ [**Cloud-CV**](https://github.com/Cloud-CV): [EvalAI](https://github.com/Cloud-CV/EvalAI), [CloudCV](https://github.com/Cloud-CV/CloudCV). [Fabrik](https://github.com/Cloud-CV/Fabrik)
++ [**Cloud-CV**](https://github.com/Cloud-CV): Building platforms for reproducible AI research.
+  + [EvalAI](https://github.com/Cloud-CV/EvalAI): Evaluating state of the art in AI. 
+  + [Fabrik](https://github.com/Cloud-CV/Fabrik): Collaboratively build, visualize, and design neural nets in browser.
+  + [Origami](https://github.com/Cloud-CV/Origami): Origami: Artificial Intelligence as a Service.
 + [**Iterative**](https://github.com/iterative): Developer Tools for Machine Learning. 
   + [dvc](https://github.com/iterative/dvc): Data Version Control | Git for Data & Models | ML Experiments Management.
   + [cml](https://github.com/iterative/cml): Continuous Machine Learning | CI/CD for ML.
