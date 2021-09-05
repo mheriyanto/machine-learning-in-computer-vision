@@ -131,6 +131,9 @@
 
 <ins>**Deep Learning with C++**</ins>
 + C++ Implementation of **PyTorch Tutorials** for Everyone: [**GitHub**](https://github.com/prabhuomkar/pytorch-cpp)![GitHub stars](https://img.shields.io/github/stars/prabhuomkar/pytorch-cpp?style=social)
++ **LibtorchTutorials**: This is a code repository for pytorch c++ (or libtorch) tutorial. [**GitHub**](https://github.com/AllentDan/LibtorchTutorials)
+  + [LibtorchDetection](https://github.com/AllentDan/LibtorchDetection): C++ trainable detection library based on libtorch (or pytorch c++). Yolov4 tiny provided now. 
+  + [LibtorchSegmentation](https://github.com/AllentDan/LibtorchSegmentation): A c++ trainable semantic segmentation library based on libtorch (pytorch c++). Backbone: VGG, ResNet, ResNext. Architecture: FPN, U-Net, PAN, LinkNet, PSPNet, DeepLab-V3, DeepLab-V3+ by now. 
 
 <ins>**Image Processing & Computer Vision with C++**</ins>
 + **Learning OpenCV 3**: Computer Vision in C++ with the OpenCV Library: [**Book**](https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library-ebook/dp/B01MRXIYAN/ref=sr_1_5?dchild=1&keywords=opencv&qid=1590686604&sr=8-5) | [**GitHub**](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
@@ -174,6 +177,7 @@
   + :star: [PyTorch Tutorial - Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) ![GitHub stars](https://img.shields.io/github/stars/yunjey/pytorch-tutorial?style=social) (**Python** Tutorial)
   + [PyTorch Beginner - liaoxingyu](https://github.com/L1aoXingyu/pytorch-beginner) ![GitHub stars](https://img.shields.io/github/stars/L1aoXingyu/pytorch-beginner?style=social) (**Python** Tutorial)
   + :star: [C++ Implementation of PyTorch Tutorials for Everyone - prabhuomkar](https://github.com/prabhuomkar/pytorch-cpp) ![GitHub stars](https://img.shields.io/github/stars/prabhuomkar/pytorch-cpp?style=social) (**C++** Tutorial)
+  + :star: [**Libtorch Tutorials**](https://github.com/AllentDan/LibtorchTutorials): This is a code repository for pytorch c++ (or libtorch) tutorial: [LibtorchDetection](https://github.com/AllentDan/LibtorchDetection) and [LibtorchSegmentation](https://github.com/AllentDan/LibtorchSegmentation).
   + [The Incredible PyTorch - ritchieng](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) (Lists)
   
 + <ins>**PyTorch Books**</ins>: [rickiepark/awesome-pytorch#books](https://github.com/rickiepark/awesome-pytorch#books)
@@ -239,6 +243,15 @@
 + [**HUAWEI Noah's Ark Lab**](https://github.com/huawei-noah): Working with and contributing to the open source community in data mining, artificial intelligence, and related fields.
   + [CV-Backbones](https://github.com/huawei-noah/CV-Backbones): CV backbones including GhostNet, TinyNet and TNT.
   + [Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model): Pretrained language model and its related optimization techniques.
++ [**NVIDIA Corporation**](https://github.com/NVIDIA)
+  + [TRTorch](https://github.com/NVIDIA/TRTorch): PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT. 
+  + [apex](https://github.com/NVIDIA/apex): A PyTorch Extension: Tools for easy mixed precision and distributed training in PyTorch.
+  + [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples): provides State-of-the-Art Deep Learning examples that are easy to train and deploy, achieving the best reproducible accuracy and performance with NVIDIA CUDA-X software stack running on NVIDIA Volta, Turing and Ampere GPUs.
+  + [libcudacxx](https://github.com/NVIDIA/libcudacxx): The C++ Standard Library for your entire system. 
++ [**NVIDIA-AI-IOT**](https://github.com/NVIDIA-AI-IOT)
+  + [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt): An easy to use PyTorch to TensorRT converter.
+  + [tf_trt_models](https://github.com/NVIDIA-AI-IOT/tf_trt_models): TensorFlow models accelerated with NVIDIA TensorRT.
+  + [my-jetson-nano-baseboard](https://github.com/NVIDIA-AI-IOT/my-jetson-nano-baseboard): An open source Jetson Nano baseboard and tools to design your own. 
 + [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 + [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 + [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
