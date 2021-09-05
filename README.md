@@ -236,6 +236,9 @@
   + [TensorFlow-Raspberry-Pi-32-bit](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)
   + [TensorFlow-Raspberry-Pi_64-bit](https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit)
   + [TensorFlow-JetsonNano](https://github.com/Qengineering/TensorFlow-JetsonNano)
++ [**HUAWEI Noah's Ark Lab**](https://github.com/huawei-noah): Working with and contributing to the open source community in data mining, artificial intelligence, and related fields.
+  + [CV-Backbones](https://github.com/huawei-noah/CV-Backbones): CV backbones including GhostNet, TinyNet and TNT.
+  + [Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model): Pretrained language model and its related optimization techniques.
 + [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 + [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 + [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
