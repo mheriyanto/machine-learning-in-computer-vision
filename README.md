@@ -277,6 +277,9 @@
 + [**Machine Learning Tooling**](https://github.com/ml-tooling) - Open-source machine learning tooling to boost your productivity
   + [opyrator](https://github.com/ml-tooling/opyrator): Turns your machine learning code into microservices with web API, interactive GUI, and more. 
   + [ml-hub](https://github.com/ml-tooling/ml-hub): Multi-user development platform for machine learning teams. Simple to setup within minutes. 
++ [**Megvii**](https://github.com/Megvii-BaseDetection) - BaseDetection.
+  + [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX): is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. 
+  + [cvpods](https://github.com/Megvii-BaseDetection/cvpods): All-in-one Toolbox for Computer Vision Research. 
 
 <ins>**Corporations**</ins>
 + :star: [**Tesla AI**](https://www.tesla.com/AI): [**GitHub** Tesla AI](https://github.com/teslamotors) 
