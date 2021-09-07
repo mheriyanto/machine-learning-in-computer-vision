@@ -274,9 +274,12 @@
 + [**Iterative**](https://github.com/iterative): Developer Tools for Machine Learning. 
   + [dvc](https://github.com/iterative/dvc): Data Version Control | Git for Data & Models | ML Experiments Management.
   + [cml](https://github.com/iterative/cml): Continuous Machine Learning | CI/CD for ML.
-+ [**Machine Learning Tooling**](https://github.com/ml-tooling) - Open-source machine learning tooling to boost your productivity
-  + [opyrator](https://github.com/ml-tooling/opyrator): Turns your machine learning code into microservices with web API, interactive GUI, and more. 
++ :star: [**Machine Learning Tooling**](https://github.com/ml-tooling) - Open-source machine learning tooling to boost your productivity
+  + [ml-workspace](https://github.com/ml-tooling/ml-workspace): All-in-one web-based IDE specialized for machine learning and data science. 
   + [ml-hub](https://github.com/ml-tooling/ml-hub): Multi-user development platform for machine learning teams. Simple to setup within minutes. 
+  + :star: [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries.
+  + :star: [best-of-web-python](https://github.com/ml-tooling/best-of-web-python): A ranked list of awesome python libraries for web development.
+  + [opyrator](https://github.com/ml-tooling/opyrator): Turns your machine learning code into microservices with web API, interactive GUI, and more. 
 + [**Megvii**](https://github.com/Megvii-BaseDetection) - BaseDetection.
   + [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX): is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. 
   + [cvpods](https://github.com/Megvii-BaseDetection/cvpods): All-in-one Toolbox for Computer Vision Research. 
