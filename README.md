@@ -264,9 +264,6 @@
   + [onnx-models](https://github.com/onnx/models): A collection of pre-trained, state-of-the-art models in the ONNX format.
   + [tensorflow-onnx](https://github.com/onnx/tensorflow-onnx): Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX.
   + [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt): ONNX-TensorRT: TensorRT backend for ONNX.
-+ [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Roadmap to becoming an Artificial Intelligence Expert in 2021.
-+ [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum): Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley. 
-+ [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
 + [**Cloud-CV**](https://github.com/Cloud-CV): Building platforms for reproducible AI research.
   + [EvalAI](https://github.com/Cloud-CV/EvalAI): Evaluating state of the art in AI. 
   + [Fabrik](https://github.com/Cloud-CV/Fabrik): Collaboratively build, visualize, and design neural nets in browser.
@@ -280,9 +277,19 @@
   + :star: [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries.
   + :star: [best-of-web-python](https://github.com/ml-tooling/best-of-web-python): A ranked list of awesome python libraries for web development.
   + [opyrator](https://github.com/ml-tooling/opyrator): Turns your machine learning code into microservices with web API, interactive GUI, and more. 
++ :star: [**tinyMLx**](https://github.com/tinyMLx) 
+  + [tinyMLx - colabs](https://github.com/tinyMLx/colabs): This repository holds the Google Colabs for the EdX TinyML Specialization.
+  + [tinyMLx - courseware](https://github.com/tinyMLx/courseware): In this repository you will find TinyML course syllabi, assignments/labs, code walkthroughs, links to student projects, and lecture videos (where applicable).
+  + [arduino-library](https://github.com/tinyMLx/arduino-library): Harvard_TinyMLx Arduino Library.
 + [**Megvii**](https://github.com/Megvii-BaseDetection) - BaseDetection.
   + [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX): is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. 
   + [cvpods](https://github.com/Megvii-BaseDetection/cvpods): All-in-one Toolbox for Computer Vision Research. 
++ [**MIT HAN Lab**](https://github.com/mit-han-lab): Accelerating Deep Learning Computing. [Website](https://hanlab.mit.edu/)
+  + [once-for-all](https://github.com/mit-han-lab/once-for-all): [ICLR 2020] Once for All: Train One Network and Specialize it for Efficient Deployment.
+  + [proxylessnas](https://github.com/mit-han-lab/proxylessnas): [ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware.
++ [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Roadmap to becoming an Artificial Intelligence Expert in 2021.
++ [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum): Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley. 
++ [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
 
 <ins>**Corporations**</ins>
 + :star: [**Tesla AI**](https://www.tesla.com/AI): [**GitHub** Tesla AI](https://github.com/teslamotors) 
@@ -370,7 +377,9 @@
 + Intelligence Processing Unit (**IPU**) by Graphcore: [GitHub](https://github.com/graphcore)
 + Machine Learning Unit (**MLU**) by Cambricon: [GitHub](https://github.com/Cambricon)
 
-## Deep Learning Frameworks for Embedded (IOT) & Mobile Devices
+## Deep Learning for Embedded (IOT) & Mobile Devices
+
+<ins>**Frameworks**</ins>
 
 [Embedded and mobile deep learning - csarron](https://github.com/csarron/awesome-emdl) | [Awesome Mobile Machine Learning - fritzlabs](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) | [Awesome Edge Machine Learning - Bisonai](https://github.com/Bisonai/awesome-edge-machine-learning) | [edge-ai - crespum](https://github.com/crespum/edge-ai#software) | [AI-performance - embedded-ai.bench](https://github.com/AI-performance/embedded-ai.bench)
 
@@ -398,6 +407,9 @@
 + [deepC](https://github.com/ai-techsystems/dnnCompiler) - Deep learning compiler and inference framework targeted to embedded platform.
 + [uTVM](https://tvm.apache.org/2020/06/04/tinyml-how-tvm-is-taming-tiny) - *MicroTVM* is an open source tool to optimize tensor programs.
 + [Edge Impulse](https://edgeimpulse.com/) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
+
+<ins>**Books**</ins>
+1. [Mobile Edge Artificial Intelligence](https://www.elsevier.com/books/mobile-edge-artificial-intelligence/shi/978-0-12-823817-2) [Elsevier '21]
 
 ## Tools
 
@@ -527,8 +539,9 @@
 + **AI**: [AI Today Podcast: Artificial Intelligence Insights, Experts, and Opinion - Cognilytica](https://open.spotify.com/show/4z2M4S9e0K6yk3KB9XrO7h) | [Practical AI: Machine Learning & Data Science](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp?si=97a-K3SQSjuna7sK44DlWA) | [Lex Fridman Podcast - Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
 + **IoT**: [IoT For All Podcast - IoT For All](https://open.spotify.com/show/0jYLPvfCrBZVCwM5a7aldP?si=V3T5ASf4SOiX3kPoeSbPqw) | [IOTALK - IOTIZEN](https://open.spotify.com/show/1Lbma7v1cl1VdgUjGF0gOb?si=4caQHTsORh-cCie_y-OEuQ)
 
-<ins>**Conferences for Image Processing & Computer Vision**</ins>: [guide2research.com](http://www.guide2research.com/topconf/computer-vision) | [openaccess.thecvf.com](https://openaccess.thecvf.com/menu)
+<ins>**Conferences & Competitions for Image Processing & Computer Vision**</ins>: [guide2research.com](http://www.guide2research.com/topconf/computer-vision) | [openaccess.thecvf.com](https://openaccess.thecvf.com/menu)
 + :star: **CVPR**: IEEE/CVF Conference on Computer Vision and Pattern Recognition. Paper list: https://openaccess.thecvf.com/CVPR2020
++ :star: **LPCV**: Low Power Computer Vision Competition. Website: https://lpcv.ai/
 + **ICCV**: IEEE/CVF International Conference on Computer Vision. Paper list: https://openaccess.thecvf.com/ICCV2019
 + **ECCV**: European Conference on Computer Vision. Paper list: https://link.springer.com/conference/eccv
 + **WACV**: Workshop on Applications of Computer Vision. Paper list: https://openaccess.thecvf.com/WACV2020
