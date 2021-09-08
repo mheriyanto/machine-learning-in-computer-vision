@@ -210,18 +210,30 @@
 + **C++ Network Programming, Volume 2**: Systematic Reuse with ACE and Frameworks (Douglas Schmidt. 2002. Addison-Wesley Professional): [**Book**](https://www.amazon.com/Network-Programming-Systematic-Reuse-Frameworks/dp/0201795256/ref=pd_bxgy_2/133-5779415-9596742?_encoding=UTF8&pd_rd_i=0201795256&pd_rd_r=4a8eab54-319f-4695-8fb4-cd0f5c4cdd82&pd_rd_w=2CejQ&pd_rd_wg=F4pA9&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=6NY7V1NSC7GMV9R01TTW&psc=1&refRID=6NY7V1NSC7GMV9R01TTW)
 
 ## Courses
-+ :star: **Deep Learning Drizzle** - Mario (2021): [Website](https://deep-learning-drizzle.github.io/) | [GitHub](https://github.com/kmario23/deep-learning-drizzle) ![GitHub stars](https://img.shields.io/github/stars/kmario23/deep-learning-drizzle?style=social)
+<ins>**Machine Learning**</ins>
 + :star: **Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical** - WiraD.K. Putra (2020): [YouTube](https://www.youtube.com/channel/UCszUEDUxCax7i5YsbAt0Tag) | [GitHub](https://github.com/WiraDKP)
-+ **Neural networks** - University De Sherbrooke by Hugo Larochelle (2013): [YouTube](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PLEAYkSg4uSQ39wGk8XawnlfFYvjVftvUe) | [Web](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
-+ **Standford Machine Learning** - Standford by Andrew Ng (2008): [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
-+ **Caltech Machine Learning** - Caltech by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
-+ **Carnegie Mellon University Deep Learning** - CMU by: [YouTube](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) | [Web](http://deeplearning.cs.cmu.edu/)
-+ **Deeplearning.ai Neural Networks and Deep Learning** - Deeplearning.ai by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
-+ **Standford Neural Networks and Deep Learning** - Standford by Fei-Fei Li: [YouTube: 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-+ **MIT Deep Learning** - MIT by Lex Fridman: [GitHub](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [YouTube](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
-+ **Stanford Deep Learning** - Stanford by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
-+ **Deep Learning with PyTorch** - by  sentdex: [YouTube](https://www.youtube.com/watch?v=BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
-+ **Computer Vision** - Univ. Central Florida by Mubarak Shah [YouTube](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
++ **Standford Machine Learning** - *Standford* by Andrew Ng (2008): [YoutTube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
++ **Caltech Machine Learning** - *Caltech* by Yaser Abu-Mostafa (2012-2014): [Web](http://work.caltech.edu/lectures.html)
++ **Neural networks** - *University De Sherbrooke* by Hugo Larochelle (2013): [YouTube](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PLEAYkSg4uSQ39wGk8XawnlfFYvjVftvUe) | [Web](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
+
+<ins>**Deep Learning**</ins>
++ :star: **Deep Learning Drizzle** - Mario (2021): [Website](https://deep-learning-drizzle.github.io/) | [GitHub](https://github.com/kmario23/deep-learning-drizzle) ![GitHub stars](https://img.shields.io/github/stars/kmario23/deep-learning-drizzle?style=social)
++ **Carnegie Mellon University Deep Learning** - *CMU*: [YouTube](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) | [Web](http://deeplearning.cs.cmu.edu/)
++ **Deeplearning.ai Neural Networks and Deep Learning** - *Deeplearning.ai* by Andrew Ng in YouTube (2010-2014): [YouTube](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=2&t=0s)
++ **Standford Neural Networks and Deep Learning** - *Standford* by Fei-Fei Li: [YouTube: 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
++ **MIT Deep Learning** - *MIT* by Lex Fridman: [GitHub](https://github.com/lexfridman/mit-deep-learning)![GitHub stars](https://img.shields.io/github/stars/lexfridman/mit-deep-learning?style=social) | [YouTube](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
++ **Stanford Deep Learning** - *Stanford* by Andrew Ng: [Homepage](https://www.andrewng.org/) | [Web](https://www.deeplearning.ai/) | [Coursera](https://www.coursera.org/specializations/deep-learning) | [GitHub](https://github.com/Kulbear/deep-learning-coursera)![GitHub stars](https://img.shields.io/github/stars/Kulbear/deep-learning-coursera?style=social)
++ **Deep Neural Networks with PyTorch** - *IBM* by Joseph Santarcangelo: [coursera](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)
++ **Deep Learning with PyTorch** - by sentdex: [YouTube](https://www.youtube.com/watch?v=BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
++ **Computer Vision** - *Univ. Central Florida* by Mubarak Shah [YouTube](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
+
+<ins>**TinyML**</ins>
+- **CS249r: Tiny Machine Learning (TinyML)** - *Harvard* by Vijay Janapa Reddi: [sites.google.com](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) | [YouTube](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA) | [edx](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)| [GitHub](https://github.com/tinyMLx/colabs)
+- **Introduction to Embedded Machine Learning** - *Edge Impulse* by Shawn Hymel: [coursera](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
+- **Embedded and Distributed AI** - *Jonkoping University, Sweden* by  Beril Sirmacek: [YouTube](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
+
+<ins>**MLOps**</ins>
++ **Machine Learning Engineering for Production MLOps** - by Andrew Ng (2021): [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 ## Research Groups
 <ins>**Universities**</ins>
