@@ -302,6 +302,9 @@
 + [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Roadmap to becoming an Artificial Intelligence Expert in 2021.
 + [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum): Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley. 
 + [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
++ :star: [**EthicalML**: The Institute for Ethical Machine Learning](https://github.com/EthicalML) - The Institute for Ethical Machine Learning is a think-tank that brings together with technology leaders, policymakers & academics to develop standards for ML.
+  + [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning): A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
+  + [awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines): This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond. 
 + :star: [**Hugging Face**](https://github.com/huggingface): The AI community building the future. [Website](https://huggingface.co/)
   + [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision.
   + [knockknock](https://github.com/huggingface/knockknock): Knock Knock: Get notified when your training ends with only two additional lines of code.
