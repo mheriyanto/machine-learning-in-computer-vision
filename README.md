@@ -252,9 +252,17 @@
   + [TensorFlow-Raspberry-Pi-32-bit](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)
   + [TensorFlow-Raspberry-Pi_64-bit](https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit)
   + [TensorFlow-JetsonNano](https://github.com/Qengineering/TensorFlow-JetsonNano)
-+ [**HUAWEI Noah's Ark Lab**](https://github.com/huawei-noah): Working with and contributing to the open source community in data mining, artificial intelligence, and related fields.
++ :star: [**HUAWEI Noah's Ark Lab**](https://github.com/huawei-noah): Working with and contributing to the open source community in data mining, artificial intelligence, and related fields.
   + [CV-Backbones](https://github.com/huawei-noah/CV-Backbones): CV backbones including GhostNet, TinyNet and TNT.
   + [Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model): Pretrained language model and its related optimization techniques.
++ :star: [**MIT HAN Lab**](https://github.com/mit-han-lab): Accelerating Deep Learning Computing. [Website](https://hanlab.mit.edu/)
+  + [Tiny Machine Learning](https://github.com/mit-han-lab/tinyml): Our projects are covered by: MIT News, WIRED, Morning Brew, Stacey on IoT, Analytics Insight, Techable. [Web](https://hanlab.mit.edu/).
+  + [once-for-all](https://github.com/mit-han-lab/once-for-all): [ICLR 2020] Once for All: Train One Network and Specialize it for Efficient Deployment.
+  + [proxylessnas](https://github.com/mit-han-lab/proxylessnas): [ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware.
++ :star: [**TinyML - Harvard University**](https://github.com/tinyMLx) 
+  + [tinyMLx - colabs](https://github.com/tinyMLx/colabs): This repository holds the Google Colabs for the EdX TinyML Specialization.
+  + [tinyMLx - courseware](https://github.com/tinyMLx/courseware): In this repository you will find TinyML course syllabi, assignments/labs, code walkthroughs, links to student projects, and lecture videos (where applicable).
+  + [arduino-library](https://github.com/tinyMLx/arduino-library): Harvard_TinyMLx Arduino Library.
 + [**NVIDIA Corporation**](https://github.com/NVIDIA)
   + [TRTorch](https://github.com/NVIDIA/TRTorch): PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT. 
   + [apex](https://github.com/NVIDIA/apex): A PyTorch Extension: Tools for easy mixed precision and distributed training in PyTorch.
@@ -289,16 +297,9 @@
   + :star: [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries.
   + :star: [best-of-web-python](https://github.com/ml-tooling/best-of-web-python): A ranked list of awesome python libraries for web development.
   + [opyrator](https://github.com/ml-tooling/opyrator): Turns your machine learning code into microservices with web API, interactive GUI, and more. 
-+ :star: [**tinyMLx**](https://github.com/tinyMLx) 
-  + [tinyMLx - colabs](https://github.com/tinyMLx/colabs): This repository holds the Google Colabs for the EdX TinyML Specialization.
-  + [tinyMLx - courseware](https://github.com/tinyMLx/courseware): In this repository you will find TinyML course syllabi, assignments/labs, code walkthroughs, links to student projects, and lecture videos (where applicable).
-  + [arduino-library](https://github.com/tinyMLx/arduino-library): Harvard_TinyMLx Arduino Library.
 + [**Megvii**](https://github.com/Megvii-BaseDetection) - BaseDetection.
   + [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX): is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. 
   + [cvpods](https://github.com/Megvii-BaseDetection/cvpods): All-in-one Toolbox for Computer Vision Research. 
-+ [**MIT HAN Lab**](https://github.com/mit-han-lab): Accelerating Deep Learning Computing. [Website](https://hanlab.mit.edu/)
-  + [once-for-all](https://github.com/mit-han-lab/once-for-all): [ICLR 2020] Once for All: Train One Network and Specialize it for Efficient Deployment.
-  + [proxylessnas](https://github.com/mit-han-lab/proxylessnas): [ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware.
 + [**AMAI GmbH**](https://github.com/AMAI-GmbH): [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Roadmap to becoming an Artificial Intelligence Expert in 2021.
 + [**Machine Learning Tokyo**](https://github.com/Machine-Learning-Tokyo): [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum): Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley. 
 + [**Distributed (Deep) Machine Learning Community**](https://github.com/dmlc): [xgboost](https://github.com/dmlc/xgboost)
@@ -477,6 +478,9 @@
 + [**Flask JSONDash**](https://github.com/christabor/flask_jsondash) - Build complex dashboards without any front-end code.
 + [**thingsboard**](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 + [**freeboard**](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups.
++ Augmented Reality (VR) & Virtual Reality (VR) Dashboard
+  + [**ViroReact**](https://github.com/viromedia/viro): AR and VR using React Native.
+  + Awesome lists: [Domeee/awesome-augmented-reality](https://github.com/Domeee/awesome-augmented-reality), [dharmeshkakadia/awesome-AR](https://github.com/dharmeshkakadia/awesome-AR), [Vytek/VR-Awesome](https://github.com/Vytek/VR-Awesome), [mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality)
 
 ## Interested Research
 + **Deep Learning Models** - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks:  [**GitHub**](https://github.com/rasbt/deeplearning-models) ![GitHub stars](https://img.shields.io/github/stars/rasbt/deeplearning-models?style=social)
