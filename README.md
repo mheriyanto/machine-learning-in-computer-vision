@@ -460,8 +460,12 @@
 
 <ins>**Visualization: Architecture**</ins>
 
-+ [Netron](https://github.com/lutzroeder/netron): a viewer for neural network, deep learning and machine learning models.
-+ [playground](https://github.com/tensorflow/playground): Deep playground is an interactive visualization of neural networks, written in TypeScript using d3.js.
++ :star: [**Netron**](https://github.com/lutzroeder/netron): a viewer for neural network, deep learning and machine learning models.
++ :star: [**NN-SVG**](http://alexlenail.me/NN-SVG/LeNet.html): Publication-ready NN-architecture schematics.
++ :star: [**ennui**](https://math.mit.edu/ennui/): Working on a drag-and-drop neural network visualizer (and more). Here's an example of a visualization for a LeNet-like architecture.
++ [**TensorSpace**](https://tensorspace.org/index.html): TensorSpace is a neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js. TensorSpace provides Layer APIs to build deep learning layers, load pre-trained models, and generate a 3D visualization in the browser. By applying TensorSpace API, it is more intuitive to visualize and understand any pre-trained models built by TensorFlow, Keras, TensorFlow.js, etc.
++ [**netscope**](http://dgschwend.github.io/netscope/quickstart.html): A web-based tool for visualizing and analyzing convolutional neural network architectures (or technically, any directed acyclic graph).
++ [**playground**](https://github.com/tensorflow/playground): Deep playground is an interactive visualization of neural networks, written in TypeScript using d3.js.
 + [PerceptiLabs](https://github.com/PerceptiLabs/PerceptiLabs): a dataflow driven, visual API for TensorFlow that enables data scientists to work more efficiently with machine learning models and to gain more insight into their models.
 + [conv](https://www.cs.ryerson.ca/~aharley/vis/conv/): 3D visualization of convolutional neural network.
 + [PyTorchViz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs and traces.
