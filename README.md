@@ -100,6 +100,7 @@
 + A collection of **design patterns/idioms in Python** (Sakis Kasampalis. GitHub): [**GitHub**](https://github.com/faif/python-patterns)![GitHub stars](https://img.shields.io/github/stars/faif/python-patterns?style=social)
 + **Machine Learning Design Patterns** (V. Lakshmanan, S. Robinson, M. Munn. 2020. O'Reilly): [**Book**](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783) | [**GitHub**](https://github.com/GoogleCloudPlatform/ml-design-patterns)![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/ml-design-patterns?style=social)
 + **Clean Machine Learning Code** (M. Taifi, 2020. Leanpub): [**Book**](https://leanpub.com/cleanmachinelearningcode)
++ **Machine Learning Design Patterns** (C. Huyen, 2022. O'Reilly): [**Book**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) | [**GitHub**](https://github.com/chiphuyen/dmls-book)![GitHub stars](https://img.shields.io/github/stars/chiphuyen/dmls-book?style=social)
 
 <ins>**Machine Learning with Python**</ins>
 + :star: **Introduction to Machine Learning with Python** (A.C. Muler & S. Guido. 2017. O'Reilly Media): [**Book**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) | [**GitHub**](https://github.com/amueller/introduction_to_ml_with_python)![GitHub stars](https://img.shields.io/github/stars/amueller/introduction_to_ml_with_python?style=social) | [**Web**](https://machinelearningmastery.com/start-here/)
