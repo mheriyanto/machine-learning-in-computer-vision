@@ -98,9 +98,6 @@
 + **Mastering Python Design Patterns** (S. Kasampalis & K. Ayeva. 2018. Packt): [**Book**](https://www.packtpub.com/application-development/mastering-python-design-patterns-second-edition) | [**GitHub**](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition?style=social)
 + :star: **Clean Code in Python** (M. Anaya. 2018. Packt): [**Book**](https://www.packtpub.com/application-development/clean-code-python) | [**GitHub**](https://github.com/PacktPublishing/Clean-Code-in-Python)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Clean-Code-in-Python?style=social)
 + A collection of **design patterns/idioms in Python** (Sakis Kasampalis. GitHub): [**GitHub**](https://github.com/faif/python-patterns)![GitHub stars](https://img.shields.io/github/stars/faif/python-patterns?style=social)
-+ **Machine Learning Design Patterns** (V. Lakshmanan, S. Robinson, M. Munn. 2020. O'Reilly): [**Book**](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783) | [**GitHub**](https://github.com/GoogleCloudPlatform/ml-design-patterns)![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/ml-design-patterns?style=social)
-+ **Clean Machine Learning Code** (M. Taifi, 2020. Leanpub): [**Book**](https://leanpub.com/cleanmachinelearningcode)
-+ **Machine Learning Design Patterns** (C. Huyen, 2022. O'Reilly): [**Book**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) | [**GitHub**](https://github.com/chiphuyen/dmls-book)![GitHub stars](https://img.shields.io/github/stars/chiphuyen/dmls-book?style=social)
 
 <ins>**Machine Learning with Python**</ins>
 + :star: **Introduction to Machine Learning with Python** (A.C. Muler & S. Guido. 2017. O'Reilly Media): [**Book**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) | [**GitHub**](https://github.com/amueller/introduction_to_ml_with_python)![GitHub stars](https://img.shields.io/github/stars/amueller/introduction_to_ml_with_python?style=social) | [**Web**](https://machinelearningmastery.com/start-here/)
@@ -140,6 +137,11 @@
 <ins>**Image Processing & Computer Vision with C++**</ins>
 + **Learning OpenCV 3**: Computer Vision in C++ with the OpenCV Library: [**Book**](https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library-ebook/dp/B01MRXIYAN/ref=sr_1_5?dchild=1&keywords=opencv&qid=1590686604&sr=8-5) | [**GitHub**](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
 + **The CImg Library** is a small and open-source C++ toolkit for image processing: [**Web**](https://cimg.eu/)
+
+## MLOps Books
++ **Machine Learning Design Patterns** (V. Lakshmanan, S. Robinson, M. Munn. 2020. O'Reilly): [**Book**](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783) | [**GitHub**](https://github.com/GoogleCloudPlatform/ml-design-patterns)![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/ml-design-patterns?style=social)
++ **Clean Machine Learning Code** (M. Taifi, 2020. Leanpub): [**Book**](https://leanpub.com/cleanmachinelearningcode)
++ **Machine Learning Design Patterns** (C. Huyen, 2022. O'Reilly): [**Book**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) | [**GitHub**](https://github.com/chiphuyen/dmls-book)![GitHub stars](https://img.shields.io/github/stars/chiphuyen/dmls-book?style=social)
 
 ## Deep Learning Frameworks
 + **Deep Learning with Keras** (S. Pal & A. Gulli, 2017. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-Keras?style=social)
