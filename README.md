@@ -141,6 +141,10 @@
 ## ML Design Patterns & Clean Code Books
 + **Machine Learning Design Patterns** (V. Lakshmanan, S. Robinson, M. Munn. 2020. O'Reilly): [**Book**](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783) | [**GitHub**](https://github.com/GoogleCloudPlatform/ml-design-patterns)![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/ml-design-patterns?style=social)
 + **Clean Machine Learning Code** (M. Taifi, 2020. Leanpub): [**Book**](https://leanpub.com/cleanmachinelearningcode) | [**Course**](https://www.udemy.com/course/clean-machine-learning-code/)
+
+## ML DevOps Books
++ **Building Machine Learning Pipelines**: Automating Model Life Cycles with TensorFlow (Hannes Hapke, 2020. O'Reilly): [**Book**](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating-ebook/dp/B08CXDBWTX/ref=pd_sim_24?pd_rd_w=efJGa&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=BZHZQRVCJ5D4JET19ZK7&pd_rd_r=ae7800cb-ed60-49c7-9869-0107ea055b02&pd_rd_wg=AU93j&pd_rd_i=B08CXDBWTX&psc=1)
++ **Introducing MLOps: How to Scale Machine Learning in the Enterprise** (Mark Treveil. 2020. O'Reilly): [**Book**](https://www.amazon.com/Introducing-MLOps-Machine-Learning-Enterprise/dp/1492083291/ref=sr_1_fkmr0_1?dchild=1&keywords=MLOps+PyTorch&qid=1618832760&s=books&sr=1-1-fkmr0)
 + **Designing Machine Learning Systems** (C. Huyen, 2022. O'Reilly): [**Book**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) | [**GitHub**](https://github.com/chiphuyen/dmls-book)![GitHub stars](https://img.shields.io/github/stars/chiphuyen/dmls-book?style=social)
 
 ## Deep Learning Frameworks
@@ -202,11 +206,6 @@
   + (Model Interpretability) [**Captum**](https://github.com/pytorch/captum) - Model interpretability and understanding library for PyTorch.
   + (Model Serving) [**TorchServe**](https://github.com/pytorch/serve) - A flexible and easy to use tool for serving PyTorch models.
   + (Optimization Tools) [**Horovod**](https://github.com/horovod/horovod) - Distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. 
-
-## Machine Learning DevOps Books
-+ **Building Machine Learning Pipelines**: Automating Model Life Cycles with TensorFlow (Hannes Hapke, 2020. O'Reilly): [**Book**](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating-ebook/dp/B08CXDBWTX/ref=pd_sim_24?pd_rd_w=efJGa&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=BZHZQRVCJ5D4JET19ZK7&pd_rd_r=ae7800cb-ed60-49c7-9869-0107ea055b02&pd_rd_wg=AU93j&pd_rd_i=B08CXDBWTX&psc=1)
-+ **Machine Learning Design Patterns**: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (Valliappa Lakshmanan, 2020. O'Reilly): [**Book**](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation-ebook/dp/B08L8GRRBM/ref=pd_sim_5?pd_rd_w=efJGa&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=BZHZQRVCJ5D4JET19ZK7&pd_rd_r=ae7800cb-ed60-49c7-9869-0107ea055b02&pd_rd_wg=AU93j&pd_rd_i=B08L8GRRBM&psc=1)
-+ **Introducing MLOps: How to Scale Machine Learning in the Enterprise** (Mark Treveil. 2020. O'Reilly): [**Book**](https://www.amazon.com/Introducing-MLOps-Machine-Learning-Enterprise/dp/1492083291/ref=sr_1_fkmr0_1?dchild=1&keywords=MLOps+PyTorch&qid=1618832760&s=books&sr=1-1-fkmr0)
 
 ## Network Programming
 + :star: **Foundations of Python Network Programming** (Brandon Rhodes. 2014. Apress): [**Book**](https://www.apress.com/gp/book/9781430258544) | [**GitHub**](https://github.com/brandon-rhodes/fopnp) ![GitHub stars](https://img.shields.io/github/stars/brandon-rhodes/fopnp?style=social)
