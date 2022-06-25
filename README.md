@@ -138,10 +138,10 @@
 + **Learning OpenCV 3**: Computer Vision in C++ with the OpenCV Library: [**Book**](https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library-ebook/dp/B01MRXIYAN/ref=sr_1_5?dchild=1&keywords=opencv&qid=1590686604&sr=8-5) | [**GitHub**](https://github.com/oreillymedia/Learning-OpenCV-3_examples)
 + **The CImg Library** is a small and open-source C++ toolkit for image processing: [**Web**](https://cimg.eu/)
 
-## MLOps Books
+## ML Design Patterns & Clean Code Books
 + **Machine Learning Design Patterns** (V. Lakshmanan, S. Robinson, M. Munn. 2020. O'Reilly): [**Book**](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783) | [**GitHub**](https://github.com/GoogleCloudPlatform/ml-design-patterns)![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/ml-design-patterns?style=social)
-+ **Clean Machine Learning Code** (M. Taifi, 2020. Leanpub): [**Book**](https://leanpub.com/cleanmachinelearningcode)
-+ **Machine Learning Design Patterns** (C. Huyen, 2022. O'Reilly): [**Book**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) | [**GitHub**](https://github.com/chiphuyen/dmls-book)![GitHub stars](https://img.shields.io/github/stars/chiphuyen/dmls-book?style=social)
++ **Clean Machine Learning Code** (M. Taifi, 2020. Leanpub): [**Book**](https://leanpub.com/cleanmachinelearningcode) | [**Course**](https://www.udemy.com/course/clean-machine-learning-code/)
++ **Designing Machine Learning Systems** (C. Huyen, 2022. O'Reilly): [**Book**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) | [**GitHub**](https://github.com/chiphuyen/dmls-book)![GitHub stars](https://img.shields.io/github/stars/chiphuyen/dmls-book?style=social)
 
 ## Deep Learning Frameworks
 + **Deep Learning with Keras** (S. Pal & A. Gulli, 2017. Packt): [**Book**](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras) and [**Code**](https://github.com/PacktPublishing/Deep-Learning-with-Keras)![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Deep-Learning-with-Keras?style=social)
